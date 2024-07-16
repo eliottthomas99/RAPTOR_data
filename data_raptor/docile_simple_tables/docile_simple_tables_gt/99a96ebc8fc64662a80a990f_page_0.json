@@ -1,0 +1,161 @@
+{
+    "TD": [
+        [
+            0.14930520201786457,
+            0.36194657768981436,
+            0.8448263294302771,
+            0.39495518747411257
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.14930520201786457,
+                        0.36266415616338604,
+                        0.20494689221085757,
+                        0.37414541174053323
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.3830003008284352,
+                        0.3633817346369578,
+                        0.4599713055954089,
+                        0.37414541174053323
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.6519351367612347,
+                        0.3633817346369578,
+                        0.7149957189799602,
+                        0.37486299021410496
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT PRICE"
+                },
+                {
+                    "bbox": [
+                        0.766927963160087,
+                        0.36194657768981436,
+                        0.8151507613273475,
+                        0.37558056868767664
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.16785243208219558,
+                        0.3817841547099189,
+                        0.18064516129032257,
+                        0.39423760900054083
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.21774193548387097,
+                        0.3817841547099189,
+                        0.5556451612903226,
+                        0.39495518747411257
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "as agreed for phoenix airport smoking preference study"
+                },
+                {
+                    "bbox": [
+                        0.6709677419354839,
+                        0.3817841547099189,
+                        0.7362903225806452,
+                        0.3936369307548347
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "52,000.00"
+                },
+                {
+                    "bbox": [
+                        0.7701612903225806,
+                        0.3817841547099189,
+                        0.8448263294302771,
+                        0.39495518747411257
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$52,000.00"
+                }
+            ]
+        }
+    ]
+}

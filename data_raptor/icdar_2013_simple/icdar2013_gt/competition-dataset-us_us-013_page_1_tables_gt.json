@@ -1,0 +1,372 @@
+{
+    "TD": [
+        [
+            0.12078414867126863,
+            0.25750354805378,
+            0.8740078795189951,
+            0.4642789436109138
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.2488256716260723,
+                        0.2760651713669902,
+                        0.3862527336170471,
+                        0.2908783536968809
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "General Assessment"
+                },
+                {
+                    "bbox": [
+                        0.39558827019984427,
+                        0.25750354805378,
+                        0.5422903322706035,
+                        0.30936298948345764
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Alternate Assessment\nBased on Grade-Level\nAchievement\nStandards"
+                },
+                {
+                    "bbox": [
+                        0.5550985897288603,
+                        0.263716110075363,
+                        0.7133921704261131,
+                        0.3031500421389185
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Alternate Assessment\nBased on Modified\nAchievement Standards"
+                },
+                {
+                    "bbox": [
+                        0.7280397602156097,
+                        0.2575036251183712,
+                        0.8740078795189951,
+                        0.3093626041605015
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Alternate Assessment\nBased on Alternate\nAchievement\nStandards"
+                },
+                {
+                    "bbox": [
+                        0.12078414867126863,
+                        0.3124507557262074,
+                        0.23428808474073223,
+                        0.3519288650666825
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Content standards\ntaught and\nassessed"
+                },
+                {
+                    "bbox": [
+                        0.12078414867126863,
+                        0.35631437975950914,
+                        0.20116731232287838,
+                        0.3834443525834517
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Achievement\nstandards"
+                },
+                {
+                    "bbox": [
+                        0.12078414867126863,
+                        0.3878295590179135,
+                        0.197347254534952,
+                        0.4149590694543087
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Participating\nstudents"
+                },
+                {
+                    "bbox": [
+                        0.24725473939982895,
+                        0.3124507557262074,
+                        0.3182725594713797,
+                        0.3272316672585227
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Grade level"
+                },
+                {
+                    "bbox": [
+                        0.3924887414072074,
+                        0.3124507557262074,
+                        0.4635066113440819,
+                        0.3272316672585227
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Grade level"
+                },
+                {
+                    "bbox": [
+                        0.5502712274688522,
+                        0.3124507557262074,
+                        0.6212890724730648,
+                        0.3272316672585227
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Grade level"
+                },
+                {
+                    "bbox": [
+                        0.7230532278422437,
+                        0.3124507557262074,
+                        0.8642258986928104,
+                        0.3272316672585227
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Grade level extensions"
+                },
+                {
+                    "bbox": [
+                        0.24725473939982895,
+                        0.35631437975950914,
+                        0.3182394239637587,
+                        0.3710952912918245
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Grade level"
+                },
+                {
+                    "bbox": [
+                        0.39245114295311223,
+                        0.35631437975950914,
+                        0.46343575271905635,
+                        0.3710952912918245
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Grade level"
+                },
+                {
+                    "bbox": [
+                        0.5501965790792228,
+                        0.35631437975950914,
+                        0.6350022359611163,
+                        0.3710952912918245
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Modified level"
+                },
+                {
+                    "bbox": [
+                        0.7228404525058721,
+                        0.35631437975950914,
+                        0.8108234280854268,
+                        0.3710952912918245
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Alternate level"
+                },
+                {
+                    "bbox": [
+                        0.24725473939982895,
+                        0.3878295590179135,
+                        0.37703699847452,
+                        0.46427840415877525
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "All general education\nstudents, most\nstudents with\ndisabilities (with or\nwithout\naccommodations)"
+                },
+                {
+                    "bbox": [
+                        0.39245114295311223,
+                        0.3878305608575994,
+                        0.533704321368847,
+                        0.4395817458027541
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Students who need\nalternate ways to show\nmastery of grade-level\ncontent"
+                },
+                {
+                    "bbox": [
+                        0.5501965790792228,
+                        0.3878310232451468,
+                        0.714593426074857,
+                        0.4642789436109138
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Students with disabilities\nwho can make progress\ntoward, but may not reach,\ngrade-level achievement\nstandards in the time\nframe covered by their IEP"
+                },
+                {
+                    "bbox": [
+                        0.7229416791130515,
+                        0.387831100309738,
+                        0.8634227677887562,
+                        0.42723322396326546
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Students with the most\nsignificant cognitive\ndisabilities"
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                }
+            ]
+        }
+    ]
+}

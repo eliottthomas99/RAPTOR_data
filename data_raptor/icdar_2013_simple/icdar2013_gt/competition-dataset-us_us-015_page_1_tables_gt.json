@@ -1,0 +1,377 @@
+{
+    "TD": [
+        [
+            0.14705882352941177,
+            0.39357564906881315,
+            0.852772531945721,
+            0.8963710129863084
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.18960780723422183,
+                        0.39357564906881315,
+                        0.3089078516741983,
+                        0.4145604913884943
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Item Property"
+                },
+                {
+                    "bbox": [
+                        0.48186298445159315,
+                        0.39357564906881315,
+                        0.7401414759018842,
+                        0.4145604913884943
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Reason for Change or Deletion"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.41911369863182607,
+                        0.2897042667164522,
+                        0.43760781336312343
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Clarity or relevance"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.5213864259045533,
+                        0.2603606928407756,
+                        0.5398805406358507
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Response range"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.5957803822527028,
+                        0.22488767337175755,
+                        0.6142744969840002
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Variability"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.6625985039605035,
+                        0.2598623138627196,
+                        0.6810926186918008
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Reproducibility"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.69396217423256,
+                        0.30130595786898745,
+                        0.7124562889638574
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Inter-item correlation"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.7266003387142913,
+                        0.32026639950820823,
+                        0.744567562835385
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Ability to detect change"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.7567651922052557,
+                        0.2884768317727482,
+                        0.775259306936553
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Item discrimination"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.831992486510614,
+                        0.23684537800308925,
+                        0.8504866012419113
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Redundancy"
+                },
+                {
+                    "bbox": [
+                        0.14705882352941177,
+                        0.8633558485243056,
+                        0.2433867859684564,
+                        0.8818499632556029
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Recall period"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.42060054432262073,
+                        0.8429697074142157,
+                        0.5182653870245423
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 Reported as not relevant by a large segment of the target population\n\u2022 Generates an unacceptably large amount of missing data points\n\u2022 Generates many questions or requests for clarification from patients as they\ncomplete the PRO instrument\n\u2022 Patients interpret items and responses in a way that is inconsistent with the\nPRO instrument\u2019s conceptual framework"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.522873271595348,
+                        0.8398509306066176,
+                        0.5899201980744949
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 A high percent of patients respond at the floor (response scale\u2019s worst end)\nor ceiling (response scale\u2019s optimal end)\n\u2022 Patients note that none of the response choices applies to them\n\u2022 Distribution of item responses is highly skewed"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.5972672279434975,
+                        0.8441713619855494,
+                        0.6641815647934423
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 All patients give the same answer (i.e., no variance)\n\u2022 Most patients choose only one response choice\n\u2022 Differences among patients are not detected when important differences are\nknown"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.6640853881835938,
+                        0.8461674708946079,
+                        0.6955455433238636
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 Unstable scores over time when there is no logical reason for variation from\none assessment to the next"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.6954490584556503,
+                        0.8369207444533803,
+                        0.7269773386945628
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 Item highly correlated (redundant) withother items in the same concept of\ninterest"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.7268881749625158,
+                        0.841741624221303,
+                        0.7583483301027857
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 Item is not sensitive (i.e., does not change when there is a known change in\nthe concepts of interest)"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.7582520764283459,
+                        0.852772531945721,
+                        0.8335716941139915
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 Item is highly correlated with measures of concepts other than the one it is\nintended to measure\n\u2022 Item does not show variability in relation to some known population\ncharacteristics (i.e., severity level, classification of condition, or other known\ncharacteristic)"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.833479293669113,
+                        0.82675938824423,
+                        0.8649394488093829
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 Item duplicates information collected with other items that have equal or\nbetter measurement properties"
+                },
+                {
+                    "bbox": [
+                        0.3691176370857588,
+                        0.8648427327473959,
+                        0.8441837285858353,
+                        0.8963710129863084
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\u2022 The population, disease state, or application of the instrument can affect the\nappropriateness of the recall period"
+                }
+            ]
+        }
+    ]
+}

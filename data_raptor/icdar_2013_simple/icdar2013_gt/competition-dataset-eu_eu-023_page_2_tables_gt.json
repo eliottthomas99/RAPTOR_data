@@ -1,0 +1,737 @@
+{
+    "TD": [
+        [
+            0.14999993642171225,
+            0.34514983361508667,
+            0.8447729928152902,
+            0.5382543740152311
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 2,
+            "data": [
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.34514983361508667,
+                        0.45249197823660714,
+                        0.36593302237887343
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "How often do you feel this way?"
+                },
+                {
+                    "bbox": [
+                        0.5477140517461867,
+                        0.34514983361508667,
+                        0.6048532031831287,
+                        0.36593302237887343
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Never"
+                },
+                {
+                    "bbox": [
+                        0.6428568522135417,
+                        0.34514983361508667,
+                        0.7501479375930059,
+                        0.36593302237887343
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Sometimes"
+                },
+                {
+                    "bbox": [
+                        0.7879996163504465,
+                        0.34514983361508667,
+                        0.8404910859607515,
+                        0.36593302237887343
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Often"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.36491455591025473,
+                        0.3087195986793155,
+                        0.3856977446740415
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Left out of things"
+                },
+                {
+                    "bbox": [
+                        0.5457140604654948,
+                        0.36491455591025473,
+                        0.6067730494907924,
+                        0.3856977446740415
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "27.9%"
+                },
+                {
+                    "bbox": [
+                        0.6657140096028645,
+                        0.36491455591025473,
+                        0.7267730712890625,
+                        0.3856977446740415
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "52.2%"
+                },
+                {
+                    "bbox": [
+                        0.7837139311290923,
+                        0.36491455591025473,
+                        0.8447729928152902,
+                        0.3856977446740415
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "19.9%"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.3834691408301602,
+                        0.23243373689197358,
+                        0.40425232959394697
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Helpless"
+                },
+                {
+                    "bbox": [
+                        0.5457140604654948,
+                        0.3834691408301602,
+                        0.6067730494907924,
+                        0.40425232959394697
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "25.5%"
+                },
+                {
+                    "bbox": [
+                        0.6657140096028645,
+                        0.3834691408301602,
+                        0.7267730712890625,
+                        0.40425232959394697
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50.1%"
+                },
+                {
+                    "bbox": [
+                        0.7837139311290923,
+                        0.3834691408301602,
+                        0.8447729928152902,
+                        0.40425232959394697
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "24.4%"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.4022254495059743,
+                        0.2395766122000558,
+                        0.42300863826976104
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Hopeless"
+                },
+                {
+                    "bbox": [
+                        0.5457140604654948,
+                        0.4022254495059743,
+                        0.6067730494907924,
+                        0.42300863826976104
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "32.4%"
+                },
+                {
+                    "bbox": [
+                        0.6657140096028645,
+                        0.4022254495059743,
+                        0.7267730712890625,
+                        0.42300863826976104
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "43.5%"
+                },
+                {
+                    "bbox": [
+                        0.7837139311290923,
+                        0.4022254495059743,
+                        0.8447729928152902,
+                        0.42300863826976104
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "24.1%"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.420780085715927,
+                        0.3742461431594122,
+                        0.4415633001247374
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Tense and stressed out"
+                },
+                {
+                    "bbox": [
+                        0.5517140706380208,
+                        0.420780085715927,
+                        0.6007730393182664,
+                        0.4415633001247374
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1%"
+                },
+                {
+                    "bbox": [
+                        0.6657140096028645,
+                        0.420780085715927,
+                        0.7267730712890625,
+                        0.4415633001247374
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "31.4%"
+                },
+                {
+                    "bbox": [
+                        0.7837139311290923,
+                        0.420780085715927,
+                        0.8447729928152902,
+                        0.4415633001247374
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "65.5%"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.4395363687467174,
+                        0.47420628865559894,
+                        0.4603195575105042
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Overwhelmed by all you had to do"
+                },
+                {
+                    "bbox": [
+                        0.5517140706380208,
+                        0.4395363687467174,
+                        0.6007730393182664,
+                        0.4603195575105042
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.2%"
+                },
+                {
+                    "bbox": [
+                        0.6657140096028645,
+                        0.4395363687467174,
+                        0.7267730712890625,
+                        0.4603195575105042
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "27.7%"
+                },
+                {
+                    "bbox": [
+                        0.7837139311290923,
+                        0.4395363687467174,
+                        0.8447729928152902,
+                        0.4603195575105042
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "66.1%"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.45809100495667016,
+                        0.5051400684175037,
+                        0.4788741937204569
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Exhausted (not from physical activity)"
+                },
+                {
+                    "bbox": [
+                        0.5517140706380208,
+                        0.45809100495667016,
+                        0.6007730393182664,
+                        0.4788741937204569
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.2%"
+                },
+                {
+                    "bbox": [
+                        0.6657140096028645,
+                        0.45809100495667016,
+                        0.7267730712890625,
+                        0.4788741937204569
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "34.3%"
+                },
+                {
+                    "bbox": [
+                        0.7837139311290923,
+                        0.45809100495667016,
+                        0.8447729928152902,
+                        0.4788741937204569
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.5%"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.47684726234243696,
+                        0.47306344168526787,
+                        0.4976304511062237
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Depressed and difficult to function"
+                },
+                {
+                    "bbox": [
+                        0.5457140604654948,
+                        0.47684726234243696,
+                        0.6067730494907924,
+                        0.4976304511062237
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "38.2%"
+                },
+                {
+                    "bbox": [
+                        0.6657140096028645,
+                        0.47684726234243696,
+                        0.7267730712890625,
+                        0.4976304511062237
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "37.6%"
+                },
+                {
+                    "bbox": [
+                        0.7837139311290923,
+                        0.47684726234243696,
+                        0.8447729928152902,
+                        0.4976304511062237
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "24.2%"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.4954018985523897,
+                        0.42192052205403646,
+                        0.5161850873161765
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Seriously considered suicide"
+                },
+                {
+                    "bbox": [
+                        0.5457140604654948,
+                        0.4954018985523897,
+                        0.6067730494907924,
+                        0.5161850873161765
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85.6%"
+                },
+                {
+                    "bbox": [
+                        0.6657140096028645,
+                        0.4954018985523897,
+                        0.7267730712890625,
+                        0.5161850873161765
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11.3%"
+                },
+                {
+                    "bbox": [
+                        0.7897139049711681,
+                        0.4954018985523897,
+                        0.838772946312314,
+                        0.5161850873161765
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1%"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.5135025152639181,
+                        0.3416764758882068,
+                        0.5382543740152311
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Attempted suicide"
+                },
+                {
+                    "bbox": [
+                        0.5457140604654948,
+                        0.5141582072282038,
+                        0.6067730494907924,
+                        0.5349413959919905
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "97.1%"
+                },
+                {
+                    "bbox": [
+                        0.6717139834449405,
+                        0.5141582072282038,
+                        0.7207730247860863,
+                        0.5349413959919905
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.9%"
+                },
+                {
+                    "bbox": [
+                        0.7897139049711681,
+                        0.5141582072282038,
+                        0.838772946312314,
+                        0.5349413959919905
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.0%"
+                }
+            ]
+        }
+    ]
+}

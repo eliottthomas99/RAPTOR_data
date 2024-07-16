@@ -1,0 +1,89 @@
+{
+    "TD": [
+        [
+            0.12903225806451613,
+            0.31132765911308685,
+            0.8819318695220024,
+            0.40523690773067333
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3992970091262311,
+                        0.31132765911308685,
+                        0.4862582452335773,
+                        0.3219713397665257
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.8254070660522274,
+                        0.3118878528316889,
+                        0.8819318695220024,
+                        0.3247723083595359
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451613,
+                        0.385286783042394,
+                        0.4120967741935484,
+                        0.40523690773067333
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Marlboro Promotion Analytics October-December 1999 (5 analyses)"
+                },
+                {
+                    "bbox": [
+                        0.6048387096774194,
+                        0.385286783042394,
+                        0.6637096774193548,
+                        0.40523690773067333
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$65,000.00"
+                }
+            ]
+        }
+    ]
+}

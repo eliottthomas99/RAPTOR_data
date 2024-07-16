@@ -1,0 +1,269 @@
+{
+    "TD": [
+        [
+            0.16228315850265887,
+            0.7670464232528578,
+            0.8278348522025998,
+            0.8153449486666791
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.16228315850265887,
+                        0.7670464232528578,
+                        0.20818387840976235,
+                        0.7850085913143928
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Years"
+                },
+                {
+                    "bbox": [
+                        0.4359988941865809,
+                        0.7670464232528578,
+                        0.47297999277836134,
+                        0.7850085913143928
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1990"
+                },
+                {
+                    "bbox": [
+                        0.5077771611574318,
+                        0.7670464232528578,
+                        0.5447582597492122,
+                        0.7850085913143928
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1992"
+                },
+                {
+                    "bbox": [
+                        0.5789497952501313,
+                        0.7670464232528578,
+                        0.6159308938419118,
+                        0.7850085913143928
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1993"
+                },
+                {
+                    "bbox": [
+                        0.6495167451746323,
+                        0.7670464232528578,
+                        0.6864978437664128,
+                        0.7850085913143928
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1994"
+                },
+                {
+                    "bbox": [
+                        0.7170554794183298,
+                        0.7670464232528578,
+                        0.7540365780101103,
+                        0.7850085913143928
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1995"
+                },
+                {
+                    "bbox": [
+                        0.7882281135110294,
+                        0.7670464232528578,
+                        0.8252092121028098,
+                        0.7850085913143928
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1996"
+                },
+                {
+                    "bbox": [
+                        0.1623025204955029,
+                        0.7827924062407215,
+                        0.38668564227448793,
+                        0.8153449486666791
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Budget Coefficient for Coffee,\nTea, Herb Tea"
+                },
+                {
+                    "bbox": [
+                        0.4337609042640494,
+                        0.7827924062407215,
+                        0.47542201450892857,
+                        0.8000932634584694
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.323"
+                },
+                {
+                    "bbox": [
+                        0.5055758949087448,
+                        0.7827924062407215,
+                        0.547237005153624,
+                        0.8000932634584694
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.272"
+                },
+                {
+                    "bbox": [
+                        0.5767852526752889,
+                        0.7827924062407215,
+                        0.6184463629201681,
+                        0.8000932634584694
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.265"
+                },
+                {
+                    "bbox": [
+                        0.6473889262736344,
+                        0.7827924062407215,
+                        0.6890500365185137,
+                        0.8000932634584694
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.290"
+                },
+                {
+                    "bbox": [
+                        0.7149643841911765,
+                        0.7827924062407215,
+                        0.7566254944360556,
+                        0.8000932634584694
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.340"
+                },
+                {
+                    "bbox": [
+                        0.7861737419577206,
+                        0.7827924062407215,
+                        0.8278348522025998,
+                        0.8000932634584694
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.346"
+                }
+            ]
+        }
+    ]
+}

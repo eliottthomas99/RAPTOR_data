@@ -1,0 +1,737 @@
+{
+    "TD": [
+        [
+            0.003709871045192271,
+            0.36981807336713396,
+            0.918193083685087,
+            0.5782881002087683
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.003709871045192271,
+                        0.4034378982186916,
+                        0.13912016419471016,
+                        0.4226492267052959
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Professional Time"
+                },
+                {
+                    "bbox": [
+                        0.5314390272237928,
+                        0.36981807336713396,
+                        0.6019265770824459,
+                        0.390230109884151
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.6334604809665803,
+                        0.3710187813975467,
+                        0.6696317236572049,
+                        0.38662798579291274
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT"
+                },
+                {
+                    "bbox": [
+                        0.727134724857685,
+                        0.36981807336713396,
+                        0.8059694845680208,
+                        0.3890294018537383
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT PRICE"
+                },
+                {
+                    "bbox": [
+                        0.8384308562134531,
+                        0.36981807336713396,
+                        0.918193083685087,
+                        0.3890294018537383
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "ITEM PRICE"
+                },
+                {
+                    "bbox": [
+                        0.020161290322580645,
+                        0.4311064718162839,
+                        0.4435483870967742,
+                        0.4509394572025052
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dan Gregory - Sr. Account Director - 75% @ $185/hr"
+                },
+                {
+                    "bbox": [
+                        0.5669354838709677,
+                        0.4311064718162839,
+                        0.6161290322580645,
+                        0.4509394572025052
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "132.00"
+                },
+                {
+                    "bbox": [
+                        0.6209677419354839,
+                        0.4311064718162839,
+                        0.6556451612903226,
+                        0.4509394572025052
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EACH"
+                },
+                {
+                    "bbox": [
+                        0.707258064516129,
+                        0.4311064718162839,
+                        0.7790322580645161,
+                        0.4509394572025052
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$185.0000"
+                },
+                {
+                    "bbox": [
+                        0.832258064516129,
+                        0.4311064718162839,
+                        0.9112903225806451,
+                        0.4509394572025052
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$24,420.00"
+                },
+                {
+                    "bbox": [
+                        0.020161290322580645,
+                        0.4509394572025052,
+                        0.4435483870967742,
+                        0.47390396659707723
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Maria Howe - Project Leader - 100% @ $125/hr"
+                },
+                {
+                    "bbox": [
+                        0.5669354838709677,
+                        0.4509394572025052,
+                        0.6161290322580645,
+                        0.47390396659707723
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "176.00"
+                },
+                {
+                    "bbox": [
+                        0.6209677419354839,
+                        0.4509394572025052,
+                        0.6556451612903226,
+                        0.47390396659707723
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EACH"
+                },
+                {
+                    "bbox": [
+                        0.707258064516129,
+                        0.4509394572025052,
+                        0.7790322580645161,
+                        0.47390396659707723
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$125.0000"
+                },
+                {
+                    "bbox": [
+                        0.832258064516129,
+                        0.4509394572025052,
+                        0.9112903225806451,
+                        0.47390396659707723
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$22,000.00"
+                },
+                {
+                    "bbox": [
+                        0.020161290322580645,
+                        0.47390396659707723,
+                        0.4435483870967742,
+                        0.49373695198329853
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Kimberly Doyle - Account Manager - 80% @ $140/hr"
+                },
+                {
+                    "bbox": [
+                        0.5669354838709677,
+                        0.47390396659707723,
+                        0.6161290322580645,
+                        0.49373695198329853
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "141.00"
+                },
+                {
+                    "bbox": [
+                        0.6209677419354839,
+                        0.47390396659707723,
+                        0.6556451612903226,
+                        0.49373695198329853
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EACH"
+                },
+                {
+                    "bbox": [
+                        0.707258064516129,
+                        0.47390396659707723,
+                        0.7790322580645161,
+                        0.49373695198329853
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$140.0000"
+                },
+                {
+                    "bbox": [
+                        0.832258064516129,
+                        0.47390396659707723,
+                        0.9112903225806451,
+                        0.49373695198329853
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$19,740.00"
+                },
+                {
+                    "bbox": [
+                        0.020161290322580645,
+                        0.49373695198329853,
+                        0.4435483870967742,
+                        0.5167014613778705
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Central Production - Production Analyst - 100% @ $90/hr"
+                },
+                {
+                    "bbox": [
+                        0.5669354838709677,
+                        0.49373695198329853,
+                        0.6161290322580645,
+                        0.5167014613778705
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "176.00"
+                },
+                {
+                    "bbox": [
+                        0.6209677419354839,
+                        0.49373695198329853,
+                        0.6556451612903226,
+                        0.5167014613778705
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EACH"
+                },
+                {
+                    "bbox": [
+                        0.707258064516129,
+                        0.49373695198329853,
+                        0.7790322580645161,
+                        0.5167014613778705
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$90.0000"
+                },
+                {
+                    "bbox": [
+                        0.832258064516129,
+                        0.49373695198329853,
+                        0.9112903225806451,
+                        0.5167014613778705
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$15,840.00"
+                },
+                {
+                    "bbox": [
+                        0.020161290322580645,
+                        0.5167014613778705,
+                        0.4435483870967742,
+                        0.5365344467640919
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Pat Travis - Programmer - 100% @ $90/hr"
+                },
+                {
+                    "bbox": [
+                        0.5669354838709677,
+                        0.5167014613778705,
+                        0.6161290322580645,
+                        0.5365344467640919
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "176.00"
+                },
+                {
+                    "bbox": [
+                        0.6209677419354839,
+                        0.5167014613778705,
+                        0.6556451612903226,
+                        0.5365344467640919
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EACH"
+                },
+                {
+                    "bbox": [
+                        0.707258064516129,
+                        0.5167014613778705,
+                        0.7790322580645161,
+                        0.5365344467640919
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$90.0000"
+                },
+                {
+                    "bbox": [
+                        0.832258064516129,
+                        0.5167014613778705,
+                        0.9112903225806451,
+                        0.5365344467640919
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$15,840.00"
+                },
+                {
+                    "bbox": [
+                        0.020161290322580645,
+                        0.5365344467640919,
+                        0.4435483870967742,
+                        0.558455114822547
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Jennis Lavita - Systems Analyst - 100% @ $90/hr"
+                },
+                {
+                    "bbox": [
+                        0.5669354838709677,
+                        0.5365344467640919,
+                        0.6161290322580645,
+                        0.558455114822547
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "176.00"
+                },
+                {
+                    "bbox": [
+                        0.6209677419354839,
+                        0.5365344467640919,
+                        0.6556451612903226,
+                        0.558455114822547
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EACH"
+                },
+                {
+                    "bbox": [
+                        0.707258064516129,
+                        0.5365344467640919,
+                        0.7790322580645161,
+                        0.558455114822547
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$90.0000"
+                },
+                {
+                    "bbox": [
+                        0.832258064516129,
+                        0.5365344467640919,
+                        0.9112903225806451,
+                        0.558455114822547
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$15,840.00"
+                },
+                {
+                    "bbox": [
+                        0.020161290322580645,
+                        0.558455114822547,
+                        0.4435483870967742,
+                        0.5782881002087683
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Ed Garboski - Account Executive - 100% @ $90/hr"
+                },
+                {
+                    "bbox": [
+                        0.5669354838709677,
+                        0.558455114822547,
+                        0.6161290322580645,
+                        0.5782881002087683
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "176.00"
+                },
+                {
+                    "bbox": [
+                        0.6209677419354839,
+                        0.558455114822547,
+                        0.6556451612903226,
+                        0.5782881002087683
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EACH"
+                },
+                {
+                    "bbox": [
+                        0.707258064516129,
+                        0.558455114822547,
+                        0.7790322580645161,
+                        0.5782881002087683
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$90.0000"
+                },
+                {
+                    "bbox": [
+                        0.832258064516129,
+                        0.558455114822547,
+                        0.9112903225806451,
+                        0.5782881002087683
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$15,840.00"
+                }
+            ]
+        }
+    ]
+}

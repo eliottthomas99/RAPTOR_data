@@ -1,0 +1,3905 @@
+{
+    "TD": [
+        [
+            0.11919327423352154,
+            0.14060769341620583,
+            0.811195745387999,
+            0.84044141610841
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 2,
+            "data": [
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.14060769341620583,
+                        0.2211912523798582,
+                        0.16034640495680857
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "COUNTRY"
+                },
+                {
+                    "bbox": [
+                        0.27787160152146795,
+                        0.14060769341620583,
+                        0.33896068925617123,
+                        0.16034640495680857
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3 years"
+                },
+                {
+                    "bbox": [
+                        0.39463265042345064,
+                        0.14060769341620583,
+                        0.45572171251313026,
+                        0.16034640495680857
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4 years"
+                },
+                {
+                    "bbox": [
+                        0.5112927861574317,
+                        0.14060769341620583,
+                        0.572381796957064,
+                        0.16034640495680857
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5 years"
+                },
+                {
+                    "bbox": [
+                        0.6280537068342962,
+                        0.14060769341620583,
+                        0.6891427176339285,
+                        0.16034640495680857
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6 years"
+                },
+                {
+                    "bbox": [
+                        0.739470102005646,
+                        0.14060769341620583,
+                        0.811195745387999,
+                        0.16034640495680857
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Average"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.16020389294114645,
+                        0.1723744496577928,
+                        0.17994260448174917
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EU 25"
+                },
+                {
+                    "bbox": [
+                        0.29072268189502365,
+                        0.1599331128625575,
+                        0.32601679954208246,
+                        0.17894498412795984
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "68.2"
+                },
+                {
+                    "bbox": [
+                        0.40746957474396006,
+                        0.1599331128625575,
+                        0.4427636923910189,
+                        0.17894498412795984
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85.7"
+                },
+                {
+                    "bbox": [
+                        0.5242164932379202,
+                        0.1599331128625575,
+                        0.559510610884979,
+                        0.17894498412795984
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "74.6"
+                },
+                {
+                    "bbox": [
+                        0.6409634117318802,
+                        0.1599331128625575,
+                        0.6762575293789391,
+                        0.17894498412795984
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "26.1"
+                },
+                {
+                    "bbox": [
+                        0.7577103302258403,
+                        0.1599331128625575,
+                        0.7930044478728991,
+                        0.17894498412795984
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "63.7"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.1785887403329591,
+                        0.1723744496577928,
+                        0.19832745187356182
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EU 15"
+                },
+                {
+                    "bbox": [
+                        0.29072268189502365,
+                        0.17831796025437016,
+                        0.32601679954208246,
+                        0.1973298315197725
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "72.7"
+                },
+                {
+                    "bbox": [
+                        0.40746957474396006,
+                        0.17831796025437016,
+                        0.4427636923910189,
+                        0.1973298315197725
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "91.2"
+                },
+                {
+                    "bbox": [
+                        0.5242164932379202,
+                        0.17831796025437016,
+                        0.559510610884979,
+                        0.1973298315197725
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "76.5"
+                },
+                {
+                    "bbox": [
+                        0.6409634117318802,
+                        0.17831796025437016,
+                        0.6762575293789391,
+                        0.1973298315197725
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15.9"
+                },
+                {
+                    "bbox": [
+                        0.7577103302258403,
+                        0.17831796025437016,
+                        0.7930044478728991,
+                        0.1973298315197725
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "64.1"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.19697351523646267,
+                        0.18917647930754333,
+                        0.2167122267770654
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NMS 10"
+                },
+                {
+                    "bbox": [
+                        0.29072268189502365,
+                        0.19670273515787373,
+                        0.32601679954208246,
+                        0.21571460642327606
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "43.0"
+                },
+                {
+                    "bbox": [
+                        0.40746957474396006,
+                        0.19670273515787373,
+                        0.4427636923910189,
+                        0.21571460642327606
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "55.4"
+                },
+                {
+                    "bbox": [
+                        0.5242164932379202,
+                        0.19670273515787373,
+                        0.559510610884979,
+                        0.21571460642327606
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "64.7"
+                },
+                {
+                    "bbox": [
+                        0.6409634117318802,
+                        0.19670273515787373,
+                        0.6762575293789391,
+                        0.21571460642327606
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "78.9"
+                },
+                {
+                    "bbox": [
+                        0.7577103302258403,
+                        0.19670273515787373,
+                        0.7930044478728991,
+                        0.21571460642327606
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "60.5"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.21515876606920836,
+                        0.1887085730288209,
+                        0.2341706373346107
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Belgium"
+                },
+                {
+                    "bbox": [
+                        0.29070252490644694,
+                        0.21515876606920836,
+                        0.32601479923023896,
+                        0.2341706373346107
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "99.6"
+                },
+                {
+                    "bbox": [
+                        0.40245781906512607,
+                        0.21515876606920836,
+                        0.4478601792279412,
+                        0.2341706373346107
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.5"
+                },
+                {
+                    "bbox": [
+                        0.524202337184874,
+                        0.21515876606920836,
+                        0.559514611508666,
+                        0.2341706373346107
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "99.2"
+                },
+                {
+                    "bbox": [
+                        0.6553189830619748,
+                        0.21515876606920836,
+                        0.6620349531414128,
+                        0.2341706373346107
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577142282694328,
+                        0.21542954614779727,
+                        0.7930083459164916,
+                        0.23516825768840002
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "99.8"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.233543613461021,
+                        0.1921048845563616,
+                        0.2703702115672784
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Czech\nRepublic"
+                },
+                {
+                    "bbox": [
+                        0.29072268189502365,
+                        0.233543613461021,
+                        0.3260288783482143,
+                        0.2525554847264233
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "66.3"
+                },
+                {
+                    "bbox": [
+                        0.4074614709164916,
+                        0.233543613461021,
+                        0.44276769301470587,
+                        0.2525554847264233
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "89.8"
+                },
+                {
+                    "bbox": [
+                        0.5242003368730305,
+                        0.233543613461021,
+                        0.559506610261292,
+                        0.2525554847264233
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "97.6"
+                },
+                {
+                    "bbox": [
+                        0.6553089815027574,
+                        0.233543613461021,
+                        0.6620249515821954,
+                        0.2525554847264233
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.233543613461021,
+                        0.7930083972065388,
+                        0.2525554847264233
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "84.6"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.2697431152053797,
+                        0.19412168615004596,
+                        0.288754986470782
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Denmark"
+                },
+                {
+                    "bbox": [
+                        0.29063395011324844,
+                        0.2697431152053797,
+                        0.32595230230764183,
+                        0.288754986470782
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "82.7"
+                },
+                {
+                    "bbox": [
+                        0.4074051031545431,
+                        0.2697431152053797,
+                        0.4427234297039128,
+                        0.288754986470782
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "93.2"
+                },
+                {
+                    "bbox": [
+                        0.5241761792607668,
+                        0.2697431152053797,
+                        0.5594944545200893,
+                        0.288754986470782
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "92.0"
+                },
+                {
+                    "bbox": [
+                        0.6409472040769433,
+                        0.2697431152053797,
+                        0.6762654793362658,
+                        0.288754986470782
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "99.6"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.2697431152053797,
+                        0.7930083972065388,
+                        0.288754986470782
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "91.9"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.2881991461167143,
+                        0.19411162047826944,
+                        0.3072110355041939
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Germany"
+                },
+                {
+                    "bbox": [
+                        0.29072270754004725,
+                        0.2881991461167143,
+                        0.3260349818638393,
+                        0.3072110355041939
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "71.4"
+                },
+                {
+                    "bbox": [
+                        0.4075200441504727,
+                        0.2881991461167143,
+                        0.4428323184742647,
+                        0.3072110355041939
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85.9"
+                },
+                {
+                    "bbox": [
+                        0.5242165445279674,
+                        0.2881991461167143,
+                        0.5595288188517594,
+                        0.3072110355041939
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "86.8"
+                },
+                {
+                    "bbox": [
+                        0.6553331904050683,
+                        0.2881991461167143,
+                        0.6620491604845063,
+                        0.3072110355041939
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.2881991461167143,
+                        0.7930083972065388,
+                        0.3072110355041939
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "81.4"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.3065840116306042,
+                        0.17972167199399292,
+                        0.32559588289600655
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Estonia"
+                },
+                {
+                    "bbox": [
+                        0.2906500808331145,
+                        0.3065840116306042,
+                        0.32595627728630516,
+                        0.32559588289600655
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "76.2"
+                },
+                {
+                    "bbox": [
+                        0.4074392879710478,
+                        0.3065840116306042,
+                        0.44274548442423844,
+                        0.32559588289600655
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "80.9"
+                },
+                {
+                    "bbox": [
+                        0.5241277101660977,
+                        0.3065840116306042,
+                        0.5594339835543592,
+                        0.32559588289600655
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "83.2"
+                },
+                {
+                    "bbox": [
+                        0.6358750800124737,
+                        0.3065840116306042,
+                        0.6812694389279149,
+                        0.32559588289600655
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103.3"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.3065840116306042,
+                        0.7930083972065388,
+                        0.32559588289600655
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85.9"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.3249686415574896,
+                        0.17632942520269826,
+                        0.34398051282289194
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Greece"
+                },
+                {
+                    "bbox": [
+                        0.2938164719012605,
+                        0.3249686415574896,
+                        0.3229633748030462,
+                        0.34398051282289194
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "n.a."
+                },
+                {
+                    "bbox": [
+                        0.4074756782595851,
+                        0.3249686415574896,
+                        0.4427940048089548,
+                        0.34398051282289194
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "57.0"
+                },
+                {
+                    "bbox": [
+                        0.5241801798844538,
+                        0.3249686415574896,
+                        0.5594984551437763,
+                        0.34398051282289194
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "82.7"
+                },
+                {
+                    "bbox": [
+                        0.6553048270089286,
+                        0.3249686415574896,
+                        0.6620207970883666,
+                        0.34398051282289194
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577263327205882,
+                        0.3249686415574896,
+                        0.7930446079799107,
+                        0.34398051282289194
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "69.9"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.3434248174454424,
+                        0.1651522724568343,
+                        0.3624366887108447
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Spain"
+                },
+                {
+                    "bbox": [
+                        0.2907025505514706,
+                        0.3434248174454424,
+                        0.32600874700466126,
+                        0.3624366887108447
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "95.3"
+                },
+                {
+                    "bbox": [
+                        0.4024497665277048,
+                        0.3434248174454424,
+                        0.44784407415309874,
+                        0.3624366887108447
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.2"
+                },
+                {
+                    "bbox": [
+                        0.5191422662815126,
+                        0.3434248174454424,
+                        0.5645366251969538,
+                        0.3624366887108447
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103.0"
+                },
+                {
+                    "bbox": [
+                        0.6552969796316964,
+                        0.3434248174454424,
+                        0.6620129497111344,
+                        0.3624366887108447
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577142282694328,
+                        0.34369556127987677,
+                        0.7930083459164916,
+                        0.36343430906463403
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "99.5"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.3618096648372551,
+                        0.17411093832064076,
+                        0.38082153610265734
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "France"
+                },
+                {
+                    "bbox": [
+                        0.2856484292935924,
+                        0.3618096648372551,
+                        0.33105889328387605,
+                        0.38082153610265734
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.9"
+                },
+                {
+                    "bbox": [
+                        0.4024619222689076,
+                        0.3618096648372551,
+                        0.4478723349691439,
+                        0.38082153610265734
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103.1"
+                },
+                {
+                    "bbox": [
+                        0.5191744764311975,
+                        0.3618096648372551,
+                        0.5645848378413866,
+                        0.38082153610265734
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "101.0"
+                },
+                {
+                    "bbox": [
+                        0.6553491416097689,
+                        0.3618096648372551,
+                        0.6620651116892069,
+                        0.38082153610265734
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7526722114627101,
+                        0.36208040867168945,
+                        0.7980503627232143,
+                        0.3818191564564467
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "101.7"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.3801944397407586,
+                        0.17639396090467438,
+                        0.39920631100616094
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Ireland"
+                },
+                {
+                    "bbox": [
+                        0.29580303801207986,
+                        0.3801944397407586,
+                        0.3210413315716912,
+                        0.39920631100616094
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.3"
+                },
+                {
+                    "bbox": [
+                        0.42189579811416755,
+                        0.3801944397407586,
+                        0.4286117681936056,
+                        0.39920631100616094
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.538541803440126,
+                        0.3801944397407586,
+                        0.5452577735195641,
+                        0.39920631100616094
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.6552886706440388,
+                        0.3801944397407586,
+                        0.6620046407234769,
+                        0.39920631100616094
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.762758245387999,
+                        0.3801944397407586,
+                        0.7879965389476103,
+                        0.39920631100616094
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.3"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.39865050689624776,
+                        0.1561855540556066,
+                        0.4176623781616501
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Italy"
+                },
+                {
+                    "bbox": [
+                        0.2856705865940126,
+                        0.39865050689624776,
+                        0.33107294675682775,
+                        0.4176623781616501
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.0"
+                },
+                {
+                    "bbox": [
+                        0.40247397543001573,
+                        0.39865050689624776,
+                        0.4478763355928309,
+                        0.4176623781616501
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "102.8"
+                },
+                {
+                    "bbox": [
+                        0.5242185448398109,
+                        0.39865050689624776,
+                        0.5595308191636029,
+                        0.4176623781616501
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "99.9"
+                },
+                {
+                    "bbox": [
+                        0.6553351907169118,
+                        0.39865050689624776,
+                        0.6620511607963497,
+                        0.4176623781616501
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7526722114627101,
+                        0.3989212869748367,
+                        0.7980503627232143,
+                        0.41865999851543945
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.9"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.41703528179975136,
+                        0.17747897620962447,
+                        0.4360471530651536
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Cyprus"
+                },
+                {
+                    "bbox": [
+                        0.29072670816373425,
+                        0.41703528179975136,
+                        0.3260329046169249,
+                        0.4360471530651536
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "30.9"
+                },
+                {
+                    "bbox": [
+                        0.4075159409466912,
+                        0.41703528179975136,
+                        0.44282216304490546,
+                        0.4360471530651536
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.0"
+                },
+                {
+                    "bbox": [
+                        0.5242043887867647,
+                        0.41703528179975136,
+                        0.5595106621750262,
+                        0.4360471530651536
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "76.2"
+                },
+                {
+                    "bbox": [
+                        0.6553130334164916,
+                        0.41703528179975136,
+                        0.6620290034959296,
+                        0.4360471530651536
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577305385044643,
+                        0.41703528179975136,
+                        0.7930368118927258,
+                        0.4360471530651536
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "55.0"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.43542009294740947,
+                        0.17074286196412158,
+                        0.45443196421281173
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Latvia"
+                },
+                {
+                    "bbox": [
+                        0.2906460545644039,
+                        0.43542009294740947,
+                        0.32595225101759456,
+                        0.45443196421281173
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "63.7"
+                },
+                {
+                    "bbox": [
+                        0.4074009743057379,
+                        0.43542009294740947,
+                        0.44270717075892857,
+                        0.45443196421281173
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "66.5"
+                },
+                {
+                    "bbox": [
+                        0.5241559709821428,
+                        0.43542009294740947,
+                        0.5594622443704044,
+                        0.45443196421281173
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "90.2"
+                },
+                {
+                    "bbox": [
+                        0.6409109933035714,
+                        0.43542009294740947,
+                        0.676217266691833,
+                        0.45443196421281173
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "90.0"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.43542009294740947,
+                        0.7930083972065388,
+                        0.45443196421281173
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "77.6"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.4538761601028986,
+                        0.19654589741169906,
+                        0.47288803136830093
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Lithuania"
+                },
+                {
+                    "bbox": [
+                        0.2907368123030462,
+                        0.4538761601028986,
+                        0.32604908662683824,
+                        0.47288803136830093
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "46.3"
+                },
+                {
+                    "bbox": [
+                        0.4075341489134716,
+                        0.4538761601028986,
+                        0.44284642323726364,
+                        0.47288803136830093
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "53.1"
+                },
+                {
+                    "bbox": [
+                        0.5242306492909664,
+                        0.4538761601028986,
+                        0.5595429236147584,
+                        0.47288803136830093
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "64.9"
+                },
+                {
+                    "bbox": [
+                        0.6553472951680672,
+                        0.4538761601028986,
+                        0.6620632652475053,
+                        0.47288803136830093
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577668005678834,
+                        0.4538761601028986,
+                        0.7930790748916754,
+                        0.47288803136830093
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "54.8"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.47226093500640215,
+                        0.22337949095653886,
+                        0.4912728062718045
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Luxembourg"
+                },
+                {
+                    "bbox": [
+                        0.2907428388836003,
+                        0.47226093500640215,
+                        0.3260430344012605,
+                        0.4912728062718045
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "55.1"
+                },
+                {
+                    "bbox": [
+                        0.40752404477415966,
+                        0.47226093500640215,
+                        0.4428242146467962,
+                        0.4912728062718045
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "68.3"
+                },
+                {
+                    "bbox": [
+                        0.5242043887867647,
+                        0.47226093500640215,
+                        0.559504507369354,
+                        0.4912728062718045
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "97.6"
+                },
+                {
+                    "bbox": [
+                        0.6553048270089286,
+                        0.47226093500640215,
+                        0.6620207970883666,
+                        0.4912728062718045
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577202804950105,
+                        0.47226093500640215,
+                        0.7930203990775998,
+                        0.4912728062718045
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "73.7"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.49064574615406026,
+                        0.18978551015132616,
+                        0.5096576174194626
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Hungary"
+                },
+                {
+                    "bbox": [
+                        0.29073070878742124,
+                        0.49064574615406026,
+                        0.32603690524061185,
+                        0.5096576174194626
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "73.4"
+                },
+                {
+                    "bbox": [
+                        0.4075199159253545,
+                        0.49064574615406026,
+                        0.4428261123785452,
+                        0.5096576174194626
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "91.6"
+                },
+                {
+                    "bbox": [
+                        0.5242082868303571,
+                        0.49064574615406026,
+                        0.5595145602186187,
+                        0.5096576174194626
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "97.8"
+                },
+                {
+                    "bbox": [
+                        0.6553169314600841,
+                        0.49064574615406026,
+                        0.6620329015395221,
+                        0.5096576174194626
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.49064574615406026,
+                        0.7930083972065388,
+                        0.5096576174194626
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "87.6"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.5091018133095494,
+                        0.1662937837488511,
+                        0.5281136845749518
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Malta"
+                },
+                {
+                    "bbox": [
+                        0.29074286452862397,
+                        0.5091018133095494,
+                        0.32607329552914915,
+                        0.5281136845749518
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "81.2"
+                },
+                {
+                    "bbox": [
+                        0.4075644100413603,
+                        0.5091018133095494,
+                        0.4428948410418855,
+                        0.5281136845749518
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "98.7"
+                },
+                {
+                    "bbox": [
+                        0.5386044285878414,
+                        0.5091018133095494,
+                        0.5453203986672794,
+                        0.5281136845749518
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.6553493467699579,
+                        0.5091018133095494,
+                        0.662065316849396,
+                        0.5281136845749518
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.5091018133095494,
+                        0.7930083972065388,
+                        0.5281136845749518
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "90.0"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.527486588213053,
+                        0.21672604344472163,
+                        0.5464984594784553
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Netherlands"
+                },
+                {
+                    "bbox": [
+                        0.29589379575072217,
+                        0.527486588213053,
+                        0.3211200361492253,
+                        0.5464984594784553
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        0.42196845046612397,
+                        0.527486588213053,
+                        0.428684420545562,
+                        0.5464984594784553
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.5386083779214811,
+                        0.527486588213053,
+                        0.5453243480009191,
+                        0.5464984594784553
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.6553491416097689,
+                        0.527486588213053,
+                        0.6620651116892069,
+                        0.5464984594784553
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.762812612838104,
+                        0.527486588213053,
+                        0.7880388019465598,
+                        0.5464984594784553
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.545871399360711,
+                        0.17861646123293068,
+                        0.5648832706261134
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Austria"
+                },
+                {
+                    "bbox": [
+                        0.2906581333705357,
+                        0.545871399360711,
+                        0.3259764855649291,
+                        0.5648832706261134
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "44.2"
+                },
+                {
+                    "bbox": [
+                        0.4074635738084296,
+                        0.545871399360711,
+                        0.44278190035779935,
+                        0.5648832706261134
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "82.5"
+                },
+                {
+                    "bbox": [
+                        0.5241680754332984,
+                        0.545871399360711,
+                        0.5594863506926208,
+                        0.5648832706261134
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "93.5"
+                },
+                {
+                    "bbox": [
+                        0.6552926712677258,
+                        0.545871399360711,
+                        0.6620086413471639,
+                        0.5648832706261134
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577141769793855,
+                        0.545871399360711,
+                        0.793032452238708,
+                        0.5648832706261134
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "73.4"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.5643274665162002,
+                        0.17523024102219012,
+                        0.5833393377816026
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Poland"
+                },
+                {
+                    "bbox": [
+                        0.29069442107897847,
+                        0.5643274665162002,
+                        0.32599461659663864,
+                        0.5833393377816026
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "24.5"
+                },
+                {
+                    "bbox": [
+                        0.4074494177553834,
+                        0.5643274665162002,
+                        0.44274958762801997,
+                        0.5833393377816026
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "34.1"
+                },
+                {
+                    "bbox": [
+                        0.5242043374967175,
+                        0.5643274665162002,
+                        0.5595044560793068,
+                        0.5833393377816026
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "44.5"
+                },
+                {
+                    "bbox": [
+                        0.6409592059480042,
+                        0.5643274665162002,
+                        0.6762593245305935,
+                        0.5833393377816026
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "96.7"
+                },
+                {
+                    "bbox": [
+                        0.757714074399291,
+                        0.5643274665162002,
+                        0.7930141929818803,
+                        0.5833393377816026
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50.0"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.5827122414197038,
+                        0.18761345358455883,
+                        0.6017241126851062
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Portugal"
+                },
+                {
+                    "bbox": [
+                        0.2906823679178703,
+                        0.5827122414197038,
+                        0.3260067210477941,
+                        0.6017241126851062
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "60.5"
+                },
+                {
+                    "bbox": [
+                        0.4074957839581145,
+                        0.5827122414197038,
+                        0.44282016273306196,
+                        0.6017241126851062
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "80.7"
+                },
+                {
+                    "bbox": [
+                        0.524208440700499,
+                        0.5827122414197038,
+                        0.5595328707654937,
+                        0.6017241126851062
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "91.3"
+                },
+                {
+                    "bbox": [
+                        0.6553412942325367,
+                        0.5827122414197038,
+                        0.6620572643119748,
+                        0.6017241126851062
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.5827122414197038,
+                        0.7930083972065388,
+                        0.6017241126851062
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "77.5"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.6010969800790529,
+                        0.1898238751066833,
+                        0.6201088513444551
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Slovenia"
+                },
+                {
+                    "bbox": [
+                        0.2906702634667148,
+                        0.6010969800790529,
+                        0.32598253779050684,
+                        0.6201088513444551
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "62.3"
+                },
+                {
+                    "bbox": [
+                        0.4074675744321166,
+                        0.6010969800790529,
+                        0.4427798487559086,
+                        0.6201088513444551
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "73.5"
+                },
+                {
+                    "bbox": [
+                        0.5241640748096114,
+                        0.6010969800790529,
+                        0.5594763491334034,
+                        0.6201088513444551
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "80.0"
+                },
+                {
+                    "bbox": [
+                        0.6552807206867122,
+                        0.6010969800790529,
+                        0.6619966907661502,
+                        0.6201088513444551
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577002260865283,
+                        0.6010969800790529,
+                        0.7930125004103203,
+                        0.6201088513444551
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "71.9"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.6195530834786965,
+                        0.1898238751066833,
+                        0.6385649547440989
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Slovakia"
+                },
+                {
+                    "bbox": [
+                        0.2906702634667148,
+                        0.6195530834786965,
+                        0.32598253779050684,
+                        0.6385649547440989
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "57.5"
+                },
+                {
+                    "bbox": [
+                        0.4074675744321166,
+                        0.6195530834786965,
+                        0.4427798487559086,
+                        0.6385649547440989
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "70.0"
+                },
+                {
+                    "bbox": [
+                        0.5241640748096114,
+                        0.6195530834786965,
+                        0.5594763491334034,
+                        0.6385649547440989
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "84.1"
+                },
+                {
+                    "bbox": [
+                        0.6552807206867122,
+                        0.6195530834786965,
+                        0.6619966907661502,
+                        0.6385649547440989
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577002260865283,
+                        0.6195530834786965,
+                        0.7930125004103203,
+                        0.6385649547440989
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "70.5"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.6379378583822001,
+                        0.1808389872062106,
+                        0.6569497296476025
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Finland"
+                },
+                {
+                    "bbox": [
+                        0.2906561074136686,
+                        0.6379378583822001,
+                        0.32595630293132877,
+                        0.6569497296476025
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "35.8"
+                },
+                {
+                    "bbox": [
+                        0.40741110409007353,
+                        0.6379378583822001,
+                        0.4427112739627101,
+                        0.6569497296476025
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "44.7"
+                },
+                {
+                    "bbox": [
+                        0.5241660238314075,
+                        0.6379378583822001,
+                        0.5594661424139968,
+                        0.6569497296476025
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "52.9"
+                },
+                {
+                    "bbox": [
+                        0.6409208922826943,
+                        0.6379378583822001,
+                        0.6762210108652836,
+                        0.6569497296476025
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "96.9"
+                },
+                {
+                    "bbox": [
+                        0.7576757607339811,
+                        0.6379378583822001,
+                        0.7929758793165704,
+                        0.6569497296476025
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "57.6"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.6563226332857037,
+                        0.18304538245962448,
+                        0.675334504551106
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Sweden"
+                },
+                {
+                    "bbox": [
+                        0.29074286452862397,
+                        0.6563226332857037,
+                        0.3260369821756828,
+                        0.675334504551106
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "79.5"
+                },
+                {
+                    "bbox": [
+                        0.4074816791951155,
+                        0.6563226332857037,
+                        0.4427757968421744,
+                        0.675334504551106
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "82.7"
+                },
+                {
+                    "bbox": [
+                        0.5242204938616072,
+                        0.6563226332857037,
+                        0.559514611508666,
+                        0.675334504551106
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85.0"
+                },
+                {
+                    "bbox": [
+                        0.6409593085280988,
+                        0.6563226332857037,
+                        0.6762534261751576,
+                        0.675334504551106
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "96.5"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.6563226332857037,
+                        0.7930083972065388,
+                        0.675334504551106
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85.9"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.6747787366853474,
+                        0.1954850268965008,
+                        0.7116053347916048
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "United\nKingdom"
+                },
+                {
+                    "bbox": [
+                        0.29072268189502365,
+                        0.6747787366853474,
+                        0.32604103408941704,
+                        0.6937906079507496
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50.4"
+                },
+                {
+                    "bbox": [
+                        0.4075280966878939,
+                        0.6747787366853474,
+                        0.44284642323726364,
+                        0.6937906079507496
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "94.9"
+                },
+                {
+                    "bbox": [
+                        0.5385519588694853,
+                        0.6747787366853474,
+                        0.5452679289489233,
+                        0.6937906079507496
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.6552927738478204,
+                        0.6747787366853474,
+                        0.6620087439272584,
+                        0.6937906079507496
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577142282694328,
+                        0.6747787366853474,
+                        0.7930325035287552,
+                        0.6937906079507496
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "72.7"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.7109782384297061,
+                        0.1886803506803112,
+                        0.7299901096951084
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Bulgaria"
+                },
+                {
+                    "bbox": [
+                        0.29063397575827205,
+                        0.7109782384297061,
+                        0.3259401722114627,
+                        0.7299901096951084
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "63.9"
+                },
+                {
+                    "bbox": [
+                        0.40739697368205097,
+                        0.7109782384297061,
+                        0.4427031701352416,
+                        0.7299901096951084
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "76.6"
+                },
+                {
+                    "bbox": [
+                        0.5241600228958772,
+                        0.7109782384297061,
+                        0.5594662962841387,
+                        0.7299901096951084
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "80.1"
+                },
+                {
+                    "bbox": [
+                        0.6409231490447742,
+                        0.7109782384297061,
+                        0.6762294224330357,
+                        0.7299901096951084
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "77.4"
+                },
+                {
+                    "bbox": [
+                        0.7576862751936713,
+                        0.7109782384297061,
+                        0.7929925485819328,
+                        0.7299901096951084
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "74.5"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.7293630858215187,
+                        0.19190321209050026,
+                        0.748374957086921
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        30
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Romania"
+                },
+                {
+                    "bbox": [
+                        0.29062994948956145,
+                        0.7293630858215187,
+                        0.3259361459427521,
+                        0.748374957086921
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        30
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "44.1"
+                },
+                {
+                    "bbox": [
+                        0.4073929474133403,
+                        0.7293630858215187,
+                        0.44269916951155464,
+                        0.748374957086921
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        30
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "66.2"
+                },
+                {
+                    "bbox": [
+                        0.5241560222721902,
+                        0.7293630858215187,
+                        0.5594622956604517,
+                        0.748374957086921
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        30
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "81.8"
+                },
+                {
+                    "bbox": [
+                        0.6409191484210872,
+                        0.7293630858215187,
+                        0.6762254218093487,
+                        0.748374957086921
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        30
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "92.9"
+                },
+                {
+                    "bbox": [
+                        0.7576822745699843,
+                        0.7293630858215187,
+                        0.7929885479582458,
+                        0.748374957086921
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        30
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "71.3"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.7478191167328533,
+                        0.17745879357602415,
+                        0.7668309879982557
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        31
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Turkey"
+                },
+                {
+                    "bbox": [
+                        0.29383257697610293,
+                        0.7478191167328533,
+                        0.32296734978170955,
+                        0.7668309879982557
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        31
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "n.a."
+                },
+                {
+                    "bbox": [
+                        0.41060160148043595,
+                        0.7478191167328533,
+                        0.43973639993106617,
+                        0.7668309879982557
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        31
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "n.a."
+                },
+                {
+                    "bbox": [
+                        0.5241438665309874,
+                        0.7478191167328533,
+                        0.559450139919249,
+                        0.7668309879982557
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        31
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22.7"
+                },
+                {
+                    "bbox": [
+                        0.6440592789850315,
+                        0.7478191167328533,
+                        0.673194128725709,
+                        0.7668309879982557
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        31
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "n.a."
+                },
+                {
+                    "bbox": [
+                        0.7577024315585609,
+                        0.7478191167328533,
+                        0.7930087049468225,
+                        0.7668309879982557
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        31
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22.7"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.7662038916363569,
+                        0.17858422543822217,
+                        0.7852157629017592
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        32
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Iceland"
+                },
+                {
+                    "bbox": [
+                        0.2907247334969144,
+                        0.7662038916363569,
+                        0.3260370078207064,
+                        0.7852157629017592
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        32
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "92.9"
+                },
+                {
+                    "bbox": [
+                        0.4075220701073398,
+                        0.7662038916363569,
+                        0.4428343187861082,
+                        0.7852157629017592
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        32
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "93.7"
+                },
+                {
+                    "bbox": [
+                        0.5242185448398109,
+                        0.7662038916363569,
+                        0.5595308191636029,
+                        0.7852157629017592
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        32
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "95.3"
+                },
+                {
+                    "bbox": [
+                        0.6553351907169118,
+                        0.7662038916363569,
+                        0.6620511607963497,
+                        0.7852157629017592
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        32
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.7662038916363569,
+                        0.7930083972065388,
+                        0.7852157629017592
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        32
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "94.0"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.7845887390281695,
+                        0.18416469798368565,
+                        0.8036006102935719
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        33
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Norway"
+                },
+                {
+                    "bbox": [
+                        0.29075494333475577,
+                        0.7845887390281695,
+                        0.326055138852416,
+                        0.8036006102935719
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        33
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "76.6"
+                },
+                {
+                    "bbox": [
+                        0.4075361492253151,
+                        0.7845887390281695,
+                        0.4428363190979517,
+                        0.8036006102935719
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        33
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "84.2"
+                },
+                {
+                    "bbox": [
+                        0.5242164419478729,
+                        0.7845887390281695,
+                        0.5595165605304622,
+                        0.8036006102935719
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        33
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "86.5"
+                },
+                {
+                    "bbox": [
+                        0.6553168288799895,
+                        0.7845887390281695,
+                        0.6620327989594276,
+                        0.8036006102935719
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        33
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.7845887390281695,
+                        0.7930083972065388,
+                        0.8036006102935719
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        33
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "82.4"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.8030447699395041,
+                        0.2273364668132878,
+                        0.8220566412049065
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        34
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "United States"
+                },
+                {
+                    "bbox": [
+                        0.2907670734309349,
+                        0.8030447699395041,
+                        0.32606726894859506,
+                        0.8220566412049065
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        34
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "41.4"
+                },
+                {
+                    "bbox": [
+                        0.40754830496651784,
+                        0.8030447699395041,
+                        0.4428484748391544,
+                        0.8220566412049065
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        34
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "61.6"
+                },
+                {
+                    "bbox": [
+                        0.5242286489791229,
+                        0.8030447699395041,
+                        0.5595287675617122,
+                        0.8220566412049065
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        34
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "74.8"
+                },
+                {
+                    "bbox": [
+                        0.6553290872012868,
+                        0.8030447699395041,
+                        0.6620450572807248,
+                        0.8220566412049065
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        34
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.7577445406873687,
+                        0.8030447699395041,
+                        0.7930446592699579,
+                        0.8220566412049065
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        34
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "59.3"
+                },
+                {
+                    "bbox": [
+                        0.11919327423352154,
+                        0.8214295448430077,
+                        0.16514018082819065,
+                        0.84044141610841
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        35
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Japan"
+                },
+                {
+                    "bbox": [
+                        0.29069244641215863,
+                        0.8214295448430077,
+                        0.3260047207359506,
+                        0.84044141610841
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        35
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "66.3"
+                },
+                {
+                    "bbox": [
+                        0.4074897317325368,
+                        0.8214295448430077,
+                        0.4428020060563288,
+                        0.84044141610841
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        35
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "92.7"
+                },
+                {
+                    "bbox": [
+                        0.5241861808199842,
+                        0.8214295448430077,
+                        0.5594984551437763,
+                        0.84044141610841
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        35
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "97.1"
+                },
+                {
+                    "bbox": [
+                        0.6553027754070379,
+                        0.8214295448430077,
+                        0.6620187454864759,
+                        0.84044141610841
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        35
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-"
+                },
+                {
+                    "bbox": [
+                        0.75771427955948,
+                        0.8214295448430077,
+                        0.7930083972065388,
+                        0.84044141610841
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        35
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85.4"
+                }
+            ]
+        }
+    ]
+}

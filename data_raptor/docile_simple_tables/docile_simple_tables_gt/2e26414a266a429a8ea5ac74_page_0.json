@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.0967741935483871,
+            0.4881946636287604,
+            0.894244113070808,
+            0.6773614149163819
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.09737148067048272,
+                        0.4881946636287604,
+                        0.2035949337757519,
+                        0.4988742299866909
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AIRBILL NUMBER"
+                },
+                {
+                    "bbox": [
+                        0.6027197293169996,
+                        0.509108814413041,
+                        0.6499301529193414,
+                        0.5197883807709716
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "WEIGHT"
+                },
+                {
+                    "bbox": [
+                        0.6050802504971167,
+                        0.4988742299866909,
+                        0.6428485893789901,
+                        0.5082188505498801
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "# PCS"
+                },
+                {
+                    "bbox": [
+                        0.7223850486473133,
+                        0.4890846274919213,
+                        0.7766770357900065,
+                        0.4988742299866909
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "CHARGES"
+                },
+                {
+                    "bbox": [
+                        0.8027739173412706,
+                        0.4881946636287604,
+                        0.894244113070808,
+                        0.4993192119182714
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "TOTAL AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.0967741935483871,
+                        0.5933130699088146,
+                        0.17096774193548386,
+                        0.626953125
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7273064886 / CHG 5/26/99"
+                },
+                {
+                    "bbox": [
+                        0.7298387096774194,
+                        0.5933130699088146,
+                        0.7709677419354839,
+                        0.6030395136778115
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "38.00"
+                },
+                {
+                    "bbox": [
+                        0.6310459924830784,
+                        0.6034449839080942,
+                        0.6428485983836638,
+                        0.6141245502660247
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.2373046875,
+                        0.60546875,
+                        0.6434387196740194,
+                        0.6708984375
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5 UNIV SWIFT AVE 27705 2"
+                },
+                {
+                    "bbox": [
+                        0.8408701073875686,
+                        0.6671268304900319,
+                        0.8874904006948812,
+                        0.6773614149163819
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$38.00"
+                }
+            ]
+        }
+    ]
+}

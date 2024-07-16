@@ -1,0 +1,287 @@
+{
+    "TD": [
+        [
+            0.12338709677419354,
+            0.3446179645739441,
+            0.8782258064516129,
+            0.4541033434650456
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.12338709677419354,
+                        0.34713342416937426,
+                        0.2691033718194846,
+                        0.3635258358662614
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Item Description"
+                },
+                {
+                    "bbox": [
+                        0.715014330908796,
+                        0.3454564511057541,
+                        0.793966146607901,
+                        0.3635258358662614
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Quantity"
+                },
+                {
+                    "bbox": [
+                        0.8206540843090069,
+                        0.3446179645739441,
+                        0.8729179623070059,
+                        0.3613876952101457
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Price"
+                },
+                {
+                    "bbox": [
+                        0.12338709677419354,
+                        0.38358662613981764,
+                        0.3258064516129032,
+                        0.4012158054711246
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Digital Illustrations"
+                },
+                {
+                    "bbox": [
+                        0.7435483870967742,
+                        0.38358662613981764,
+                        0.7645161290322581,
+                        0.4012158054711246
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5"
+                },
+                {
+                    "bbox": [
+                        0.8193548387096774,
+                        0.38358662613981764,
+                        0.8782258064516129,
+                        0.4012158054711246
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.00"
+                },
+                {
+                    "bbox": [
+                        0.12338709677419354,
+                        0.4012158054711246,
+                        0.3258064516129032,
+                        0.4182370820668693
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Floppy Disk"
+                },
+                {
+                    "bbox": [
+                        0.7435483870967742,
+                        0.4012158054711246,
+                        0.7645161290322581,
+                        0.4182370820668693
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.8193548387096774,
+                        0.4012158054711246,
+                        0.8782258064516129,
+                        0.4182370820668693
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.00"
+                },
+                {
+                    "bbox": [
+                        0.12338709677419354,
+                        0.4182370820668693,
+                        0.3258064516129032,
+                        0.43647416413373863
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Download - 1 MB"
+                },
+                {
+                    "bbox": [
+                        0.7435483870967742,
+                        0.4182370820668693,
+                        0.7645161290322581,
+                        0.43647416413373863
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.8193548387096774,
+                        0.4182370820668693,
+                        0.8782258064516129,
+                        0.43647416413373863
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10.00"
+                },
+                {
+                    "bbox": [
+                        0.12338709677419354,
+                        0.43647416413373863,
+                        0.3258064516129032,
+                        0.4541033434650456
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "B&W Laser Output 8.5 x 11"
+                },
+                {
+                    "bbox": [
+                        0.7435483870967742,
+                        0.43647416413373863,
+                        0.7645161290322581,
+                        0.4541033434650456
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4"
+                },
+                {
+                    "bbox": [
+                        0.8193548387096774,
+                        0.43647416413373863,
+                        0.8782258064516129,
+                        0.4541033434650456
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12.00"
+                }
+            ]
+        }
+    ]
+}

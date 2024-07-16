@@ -1,0 +1,125 @@
+{
+    "TD": [
+        [
+            0.04516129032258064,
+            0.29170570978936405,
+            0.9275181040157998,
+            0.4189497716894977
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.37084704849681804,
+                        0.29170570978936405,
+                        0.4629580864603906,
+                        0.30983893783298616
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.8610379635725258,
+                        0.29510569004754317,
+                        0.9275181040157998,
+                        0.3087056110802598
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.04516129032258064,
+                        0.3778538812785388,
+                        0.510483870967742,
+                        0.3904109589041096
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5673-1099 MSA Monthly Database - Update - 84 months June Data"
+                },
+                {
+                    "bbox": [
+                        0.6104838709677419,
+                        0.3778538812785388,
+                        0.6758064516129032,
+                        0.3904109589041096
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$3.258 00"
+                },
+                {
+                    "bbox": [
+                        0.04516129032258064,
+                        0.3961187214611872,
+                        0.510483870967742,
+                        0.4189497716894977
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5673-1099 Volume Service - Access to Cigarette Industry Volume Data June Data"
+                },
+                {
+                    "bbox": [
+                        0.6104838709677419,
+                        0.3961187214611872,
+                        0.6758064516129032,
+                        0.4189497716894977
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$2,828.00"
+                }
+            ]
+        }
+    ]
+}

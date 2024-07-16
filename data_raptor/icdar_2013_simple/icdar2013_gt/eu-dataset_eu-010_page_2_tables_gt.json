@@ -1,0 +1,521 @@
+{
+    "TD": [
+        [
+            0.14682353043756566,
+            0.6499072729550178,
+            0.8503058938419118,
+            0.8430594038793423
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 2,
+            "data": [
+                {
+                    "bbox": [
+                        0.14682353043756566,
+                        0.6499072729550178,
+                        0.22373354615283614,
+                        0.6657381397528207
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Database"
+                },
+                {
+                    "bbox": [
+                        0.45099913012079834,
+                        0.6499072729550178,
+                        0.5600249987690389,
+                        0.6657381397528207
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Initial sending"
+                },
+                {
+                    "bbox": [
+                        0.6007118545660451,
+                        0.6499072729550178,
+                        0.6894993373325893,
+                        0.6657381397528207
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Reminder 1"
+                },
+                {
+                    "bbox": [
+                        0.7270747849921219,
+                        0.6499072729550178,
+                        0.8431322626706933,
+                        0.6657381397528207
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Final Reminder"
+                },
+                {
+                    "bbox": [
+                        0.14692436667049633,
+                        0.678169159877895,
+                        0.37453200396369485,
+                        0.6909197084694181
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "First Sending (4.444 contacts)"
+                },
+                {
+                    "bbox": [
+                        0.4717529296875,
+                        0.678169159877895,
+                        0.5395641166622899,
+                        0.6909197084694181
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4 July 06"
+                },
+                {
+                    "bbox": [
+                        0.6064638794971113,
+                        0.678169159877895,
+                        0.6836572470785189,
+                        0.6909197084694181
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "19 July 06"
+                },
+                {
+                    "bbox": [
+                        0.7203047552028624,
+                        0.678169159877895,
+                        0.8502035189075631,
+                        0.6909197084694181
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22 September 06"
+                },
+                {
+                    "bbox": [
+                        0.14692436667049633,
+                        0.7073857903197373,
+                        0.3962114350134585,
+                        0.7201363389112604
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Second Sending (4.115 contacts)"
+                },
+                {
+                    "bbox": [
+                        0.4668108771829044,
+                        0.7073857903197373,
+                        0.544030966878939,
+                        0.7201363389112604
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "26 July 06"
+                },
+                {
+                    "bbox": [
+                        0.5996358406643908,
+                        0.7073857903197373,
+                        0.6904065556886817,
+                        0.7201363389112604
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4 August 06"
+                },
+                {
+                    "bbox": [
+                        0.7201963280429359,
+                        0.7073857903197373,
+                        0.8502286510307248,
+                        0.7201363389112604
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22 September 06"
+                },
+                {
+                    "bbox": [
+                        0.14692436667049633,
+                        0.737386091871103,
+                        0.4285679921382616,
+                        0.7501366404626262
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Marie Curie contacts (2.731 contacts)"
+                },
+                {
+                    "bbox": [
+                        0.46679759306066176,
+                        0.737386091871103,
+                        0.5439956280363708,
+                        0.7501366404626262
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20 July 06"
+                },
+                {
+                    "bbox": [
+                        0.5846763803177522,
+                        0.737386091871103,
+                        0.705292517397584,
+                        0.7501366404626262
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4 September 06"
+                },
+                {
+                    "bbox": [
+                        0.7202591583508403,
+                        0.737386091871103,
+                        0.8502397296809349,
+                        0.7501366404626262
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22 September 06"
+                },
+                {
+                    "bbox": [
+                        0.14692436667049633,
+                        0.7616140043933715,
+                        0.42301015132615544,
+                        0.7880464313715484
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "ERACAREERS portal email list (6.000\nresearchers + 1.500 organisations)"
+                },
+                {
+                    "bbox": [
+                        0.4668896074054622,
+                        0.7684554510048619,
+                        0.5440696908646271,
+                        0.7812059995963851
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20 July 06"
+                },
+                {
+                    "bbox": [
+                        0.6310361205028887,
+                        0.7684554510048619,
+                        0.6590845444623161,
+                        0.7812059995963851
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "N/A"
+                },
+                {
+                    "bbox": [
+                        0.7710560005252101,
+                        0.7684554510048619,
+                        0.7990643156676733,
+                        0.7812059995963851
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "N/A"
+                },
+                {
+                    "bbox": [
+                        0.14692439231551996,
+                        0.7931114069922803,
+                        0.39644226587119225,
+                        0.8195438339704573
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Contacts Austria conference (200\ncontacts)"
+                },
+                {
+                    "bbox": [
+                        0.4668896074054622,
+                        0.7999528536037708,
+                        0.5440696908646271,
+                        0.8127034021952939
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20 July 06"
+                },
+                {
+                    "bbox": [
+                        0.6310361205028887,
+                        0.7999528536037708,
+                        0.6590845444623161,
+                        0.8127034021952939
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "N/A"
+                },
+                {
+                    "bbox": [
+                        0.7710560005252101,
+                        0.7999528536037708,
+                        0.7990643156676733,
+                        0.8127034021952939
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "N/A"
+                },
+                {
+                    "bbox": [
+                        0.14692439231551996,
+                        0.8303088552878192,
+                        0.3653711655560662,
+                        0.8430594038793423
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Third Sending (822 contacts)"
+                },
+                {
+                    "bbox": [
+                        0.44071070566898635,
+                        0.8303088552878192,
+                        0.5705944926798845,
+                        0.8430594038793423
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15 September 06"
+                },
+                {
+                    "bbox": [
+                        0.6312409216616334,
+                        0.8303088552878192,
+                        0.6592833959755777,
+                        0.8430594038793423
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "N/A"
+                },
+                {
+                    "bbox": [
+                        0.720432467420562,
+                        0.8303088552878192,
+                        0.8503058938419118,
+                        0.8430594038793423
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22 September 06"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "TD": [
+        [
+            0.18725489946751814,
+            0.7970094006470959,
+            0.8129492367015165,
+            0.8803479743726326
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.18725489946751814,
+                        0.7970094006470959,
+                        0.3332917207206776,
+                        0.8098933672664141
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Net Financial Condition"
+                },
+                {
+                    "bbox": [
+                        0.3757107803244996,
+                        0.7970094006470959,
+                        0.42939349405126637,
+                        0.8098933672664141
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "FY 2011"
+                },
+                {
+                    "bbox": [
+                        0.49997546626072303,
+                        0.7970094006470959,
+                        0.553658130122166,
+                        0.8098933672664141
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "FY 2010"
+                },
+                {
+                    "bbox": [
+                        0.6001960903990502,
+                        0.7970094006470959,
+                        0.7322173274420445,
+                        0.8098933672664141
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Increase/ (Decrease)"
+                },
+                {
+                    "bbox": [
+                        0.7498723447712419,
+                        0.7970094006470959,
+                        0.8128342472649868,
+                        0.8098933672664141
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "% Change"
+                },
+                {
+                    "bbox": [
+                        0.18725489946751814,
+                        0.8139753245344066,
+                        0.2284181382921007,
+                        0.8268592911537247
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Assets"
+                },
+                {
+                    "bbox": [
+                        0.3696078381507225,
+                        0.8139753245344066,
+                        0.4546876296498417,
+                        0.8268592911537247
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$12,584,734"
+                },
+                {
+                    "bbox": [
+                        0.4973872066323274,
+                        0.8139753245344066,
+                        0.5824668734681373,
+                        0.8268592911537247
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$12,804,423"
+                },
+                {
+                    "bbox": [
+                        0.6594899994095945,
+                        0.8139753245344066,
+                        0.7322171778460733,
+                        0.8268592911537247
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "($219,689)"
+                },
+                {
+                    "bbox": [
+                        0.777651917700674,
+                        0.8139753245344066,
+                        0.8129344765656914,
+                        0.8268592911537247
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-1.7%"
+                },
+                {
+                    "bbox": [
+                        0.18725489946751814,
+                        0.8311003097380051,
+                        0.2473740671195236,
+                        0.8439842763573232
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Liabilities"
+                },
+                {
+                    "bbox": [
+                        0.3904019524069393,
+                        0.8311003097380051,
+                        0.45449644599864686,
+                        0.8439842763573232
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$581,123"
+                },
+                {
+                    "bbox": [
+                        0.5181960560917075,
+                        0.8311003097380051,
+                        0.5822904499527676,
+                        0.8439842763573232
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$596,010"
+                },
+                {
+                    "bbox": [
+                        0.6768725027445874,
+                        0.8311003097380051,
+                        0.7323350096060559,
+                        0.8439842763573232
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(14,887)"
+                },
+                {
+                    "bbox": [
+                        0.7776076871585222,
+                        0.8311003097380051,
+                        0.8128902460235397,
+                        0.8439842763573232
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-2.5%"
+                },
+                {
+                    "bbox": [
+                        0.18725489946751814,
+                        0.8492821587456597,
+                        0.26376233069725286,
+                        0.8621661253649779
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Net Position"
+                },
+                {
+                    "bbox": [
+                        0.36962254842122394,
+                        0.8492821587456597,
+                        0.4546876296498417,
+                        0.8621661253649779
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$12,003,611"
+                },
+                {
+                    "bbox": [
+                        0.4974166271733303,
+                        0.8492821587456597,
+                        0.5824962940091402,
+                        0.8621661253649779
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$12,208,413"
+                },
+                {
+                    "bbox": [
+                        0.659504709680096,
+                        0.8492821587456597,
+                        0.7322318881165748,
+                        0.8621661253649779
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "($204,802)"
+                },
+                {
+                    "bbox": [
+                        0.7776666778364992,
+                        0.8492821587456597,
+                        0.8129492367015165,
+                        0.8621661253649779
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-1.7%"
+                },
+                {
+                    "bbox": [
+                        0.18725489946751814,
+                        0.8674640077533144,
+                        0.24055291468801063,
+                        0.8803479743726326
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NetCost"
+                },
+                {
+                    "bbox": [
+                        0.3782401988708895,
+                        0.8674640077533144,
+                        0.4546876296498417,
+                        0.8803479743726326
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$7,139,994"
+                },
+                {
+                    "bbox": [
+                        0.5060490128261591,
+                        0.8674640077533144,
+                        0.5824963438744638,
+                        0.8803479743726326
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$6,895,106"
+                },
+                {
+                    "bbox": [
+                        0.6681518056034262,
+                        0.8674640077533144,
+                        0.7322314891939848,
+                        0.8803479743726326
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$244,888"
+                },
+                {
+                    "bbox": [
+                        0.7811960457197202,
+                        0.8674640077533144,
+                        0.8127580031849979,
+                        0.8803479743726326
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.6%"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "TD": [
+        [
+            0.25806451612903225,
+            0.23794343581902927,
+            0.9524193548387097,
+            0.3076923076923077
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.41380827320316926,
+                        0.23794343581902927,
+                        0.5198252688172044,
+                        0.2516498549330287
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.7845257675438596,
+                        0.2406847196418292,
+                        0.8166728565365026,
+                        0.2642597605179081
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT PRICE"
+                },
+                {
+                    "bbox": [
+                        0.8412961587436333,
+                        0.2406847196418292,
+                        0.9124301428975666,
+                        0.2626149902242282
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EXTENDED PRICE"
+                },
+                {
+                    "bbox": [
+                        0.25806451612903225,
+                        0.27601809954751133,
+                        0.5508064516129032,
+                        0.3076923076923077
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "LA FIESTA BROADWAY - 1999 EVENT SUPERVISOR"
+                },
+                {
+                    "bbox": [
+                        0.7645161290322581,
+                        0.27601809954751133,
+                        0.8330645161290322,
+                        0.3076923076923077
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "400.00"
+                },
+                {
+                    "bbox": [
+                        0.8774193548387097,
+                        0.27601809954751133,
+                        0.9524193548387097,
+                        0.3076923076923077
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "400.00"
+                }
+            ]
+        }
+    ]
+}

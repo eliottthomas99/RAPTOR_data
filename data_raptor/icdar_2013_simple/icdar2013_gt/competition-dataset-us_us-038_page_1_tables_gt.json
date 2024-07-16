@@ -1,0 +1,305 @@
+{
+    "TD": [
+        [
+            0.512171626870149,
+            0.18881277604536575,
+            0.795169007544424,
+            0.40296138416637073
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.555653939839282,
+                        0.2041112533723465,
+                        0.6068940006829555,
+                        0.2217385263154001
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Species"
+                },
+                {
+                    "bbox": [
+                        0.6744230681774663,
+                        0.18881277604536575,
+                        0.795169007544424,
+                        0.2217385263154001
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Percent of Range\nImpacted"
+                },
+                {
+                    "bbox": [
+                        0.5122207940793505,
+                        0.23234012873485835,
+                        0.5826655369178921,
+                        0.24931830589217369
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Kingfisher"
+                },
+                {
+                    "bbox": [
+                        0.7196185043434692,
+                        0.23234012873485835,
+                        0.7498091155407476,
+                        0.24931830589217369
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "29%"
+                },
+                {
+                    "bbox": [
+                        0.512171626870149,
+                        0.2579473052361999,
+                        0.5847574869791666,
+                        0.2749254823935152
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Bald Eagle"
+                },
+                {
+                    "bbox": [
+                        0.719552632250817,
+                        0.2579473052361999,
+                        0.7497102326037837,
+                        0.2749254823935152
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "34%"
+                },
+                {
+                    "bbox": [
+                        0.512171626870149,
+                        0.28355448173754144,
+                        0.5597387076982485,
+                        0.30053265889485675
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Osprey"
+                },
+                {
+                    "bbox": [
+                        0.7196023978439032,
+                        0.28355448173754144,
+                        0.7497930090411816,
+                        0.30053265889485675
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20%"
+                },
+                {
+                    "bbox": [
+                        0.512171626870149,
+                        0.309161658238883,
+                        0.6123787873710682,
+                        0.32613985466234613
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Common Loon"
+                },
+                {
+                    "bbox": [
+                        0.7196848252240349,
+                        0.309161658238883,
+                        0.7498754364213133,
+                        0.32613985466234613
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "40%"
+                },
+                {
+                    "bbox": [
+                        0.512171626870149,
+                        0.3347688540063723,
+                        0.6141905441782833,
+                        0.35174703116368766
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Florida Panther"
+                },
+                {
+                    "bbox": [
+                        0.7155666974634906,
+                        0.3347688540063723,
+                        0.7539926167407067,
+                        0.35174703116368766
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100%"
+                },
+                {
+                    "bbox": [
+                        0.512171626870149,
+                        0.3603760305077139,
+                        0.5478634304470487,
+                        0.3773542076650292
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Mink"
+                },
+                {
+                    "bbox": [
+                        0.7196187536700879,
+                        0.3603760305077139,
+                        0.7498093648673663,
+                        0.3773542076650292
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "35%"
+                },
+                {
+                    "bbox": [
+                        0.512171626870149,
+                        0.3859832070090554,
+                        0.5867339988159977,
+                        0.40296138416637073
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "River Otter"
+                },
+                {
+                    "bbox": [
+                        0.7196682699365553,
+                        0.3859832070090554,
+                        0.7498588811338337,
+                        0.40296138416637073
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "38%"
+                }
+            ]
+        }
+    ]
+}

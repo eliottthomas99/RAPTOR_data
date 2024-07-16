@@ -1,0 +1,161 @@
+{
+    "TD": [
+        [
+            0.08669476271851188,
+            0.41364853680486036,
+            0.8943548387096775,
+            0.45045592705167176
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.08669476271851188,
+                        0.4145448499940367,
+                        0.17113180093369096,
+                        0.42754139123709295
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.37984588835290123,
+                        0.41364853680486036,
+                        0.4892572618148234,
+                        0.4266450780479166
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.6932143329965589,
+                        0.4140966933994485,
+                        0.7814516129032258,
+                        0.42735562310030395
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT PRICE"
+                },
+                {
+                    "bbox": [
+                        0.8120967741935484,
+                        0.4145896656534954,
+                        0.8870627446736601,
+                        0.42735562310030395
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.13629032258064516,
+                        0.43465045592705165,
+                        0.15080645161290324,
+                        0.45045592705167176
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.18387096774193548,
+                        0.43465045592705165,
+                        0.5024193548387097,
+                        0.45045592705167176
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Deposit for October 1999 Program 1st deposit"
+                },
+                {
+                    "bbox": [
+                        0.7,
+                        0.43465045592705165,
+                        0.7814516129032258,
+                        0.45045592705167176
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$23,750.00"
+                },
+                {
+                    "bbox": [
+                        0.8120967741935484,
+                        0.43465045592705165,
+                        0.8943548387096775,
+                        0.45045592705167176
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$23,750.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "TD": [
+        [
+            0.10943687198036595,
+            0.34275330137154086,
+            0.8717741935483871,
+            0.5341796875
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.10943687198036595,
+                        0.34275330137154086,
+                        0.20136386688698732,
+                        0.3610022822248279
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.35457552506468965,
+                        0.3448589530084586,
+                        0.47714485160685155,
+                        0.3610022822248279
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.6435483870967742,
+                        0.3445378151260504,
+                        0.696894144193156,
+                        0.36092429274718696
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "RATE"
+                },
+                {
+                    "bbox": [
+                        0.7678092545496924,
+                        0.34337719577287246,
+                        0.8501058023708583,
+                        0.36162617662615953
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUT"
+                },
+                {
+                    "bbox": [
+                        0.20967741935483872,
+                        0.3684550743374273,
+                        0.2306451612903226,
+                        0.41499676793794443
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15"
+                },
+                {
+                    "bbox": [
+                        0.2265625,
+                        0.3684550743374273,
+                        0.5029296875,
+                        0.5341796875
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "PHILIP MORRIS STAGE 32' MOBILE, WINGS, MIX AND BARRICADE LOADIN 4/24/99 SHOW 4/25/99 OUT TOTAL DUE 14500.00 4/25/99 LOS ANGELES, CA 4/25/99 AFTER EVENT"
+                },
+                {
+                    "bbox": [
+                        0.6435483870967742,
+                        0.3684550743374273,
+                        0.7193548387096774,
+                        0.41499676793794443
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14,500.00"
+                },
+                {
+                    "bbox": [
+                        0.7862903225806451,
+                        0.3684550743374273,
+                        0.8717741935483871,
+                        0.41499676793794443
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14,500.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,503 @@
+{
+    "TD": [
+        [
+            0.1466218451491925,
+            0.15608307754625333,
+            0.8524403291590074,
+            0.5088316493815878
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 2,
+            "data": [
+                {
+                    "bbox": [
+                        0.1466218451491925,
+                        0.15608307754625333,
+                        0.21820960806197479,
+                        0.1712719335125631
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Category"
+                },
+                {
+                    "bbox": [
+                        0.4434060489430147,
+                        0.15608307754625333,
+                        0.556273644711791,
+                        0.1712719335125631
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "European HICP"
+                },
+                {
+                    "bbox": [
+                        0.7237999154740021,
+                        0.15608307754625333,
+                        0.7656884970785189,
+                        0.1712719335125631
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "CPI-U"
+                },
+                {
+                    "bbox": [
+                        0.1466218451491925,
+                        0.1775040977641126,
+                        0.21504743560021664,
+                        0.18973782283393334
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Definition"
+                },
+                {
+                    "bbox": [
+                        0.3699823972557773,
+                        0.1775040977641126,
+                        0.6136442809545694,
+                        0.25543665942556787
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Measure of the average change in \nthe prices of goods and services \navailable for purchase in the \neconomic territory of the member \nState for purposes of directly \nsatisfying consumer\u2019s needs"
+                },
+                {
+                    "bbox": [
+                        0.6341830726431198,
+                        0.1775021405797673,
+                        0.8524403291590074,
+                        0.25543716684373147
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Measure of the average\nchange over time in the prices\nof consumer items\u2014that is,\ngoods and services that\npeople buy for day-to-day\nliving"
+                },
+                {
+                    "bbox": [
+                        0.1466231145778624,
+                        0.26009140558310756,
+                        0.33893807034532564,
+                        0.28543732341847905
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Geographic and population\ncoverage"
+                },
+                {
+                    "bbox": [
+                        0.3699836538619354,
+                        0.26009140558310756,
+                        0.6014855649290967,
+                        0.28543732341847905
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "All households in the territory of\nthe member State"
+                },
+                {
+                    "bbox": [
+                        0.6341843036042542,
+                        0.26009140558310756,
+                        0.8073966402967437,
+                        0.29861997482046093
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Non-institutional urban\npopulation of the United\nStates"
+                },
+                {
+                    "bbox": [
+                        0.1466231145778624,
+                        0.3050559943192362,
+                        0.2505391609768908,
+                        0.31728970126697964
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Item coverage"
+                },
+                {
+                    "bbox": [
+                        0.3699836538619354,
+                        0.3050559943192362,
+                        0.6290642233455882,
+                        0.34358353059818514
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Private consumption, except owner-\noccupied housing, gambling,\nlotteries, and life insurance"
+                },
+                {
+                    "bbox": [
+                        0.6341843036042542,
+                        0.30505505197121807,
+                        0.831121826171875,
+                        0.3566947810157178
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Includes owner-occupied\nhousing and excludes\ngambling, lotteries, and life\ninsurance"
+                },
+                {
+                    "bbox": [
+                        0.1466231145778624,
+                        0.3581430249429372,
+                        0.20485360281808035,
+                        0.37037673189068065
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Formula"
+                },
+                {
+                    "bbox": [
+                        0.37005061301864495,
+                        0.3581430249429372,
+                        0.4417327111508666,
+                        0.37037673189068065
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Laspeyres"
+                },
+                {
+                    "bbox": [
+                        0.6342769334296219,
+                        0.3581430249429372,
+                        0.7059134347098214,
+                        0.37037673189068065
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Laspeyres"
+                },
+                {
+                    "bbox": [
+                        0.1466231145778624,
+                        0.37731197837412783,
+                        0.31002079298516283,
+                        0.3895456853218713
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Weight update interval"
+                },
+                {
+                    "bbox": [
+                        0.3699836538619354,
+                        0.37731197837412783,
+                        0.6075350721343225,
+                        0.40265686325109484
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "At least 5 yearly updates, annual\nreview"
+                },
+                {
+                    "bbox": [
+                        0.6341843036042542,
+                        0.37731197837412783,
+                        0.6906871122472427,
+                        0.3895456853218713
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Biennial"
+                },
+                {
+                    "bbox": [
+                        0.1466231145778624,
+                        0.4075255405308232,
+                        0.3653775768119748,
+                        0.41975924747856663
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Elementary aggregate formula"
+                },
+                {
+                    "bbox": [
+                        0.3699850899832589,
+                        0.4075255405308232,
+                        0.5982991194524685,
+                        0.43287042540779025
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Ratio of geometric to arithmetic\nmean"
+                },
+                {
+                    "bbox": [
+                        0.6341857397255777,
+                        0.4075255405308232,
+                        0.7974574497767857,
+                        0.43287042540779025
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Weighted geometric or\narithmetic mean"
+                },
+                {
+                    "bbox": [
+                        0.14662455069918592,
+                        0.43994764024458133,
+                        0.23963510208771008,
+                        0.45218134719232483
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Classification"
+                },
+                {
+                    "bbox": [
+                        0.3699836538619354,
+                        0.43994764024458133,
+                        0.6212244370404412,
+                        0.4652925251215484
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Classification of individual\nconsumption by purpose (COICOP)"
+                },
+                {
+                    "bbox": [
+                        0.6341857397255777,
+                        0.43994764024458133,
+                        0.826641845703125,
+                        0.4652925251215484
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "U.S. CPI item classification\nstructure"
+                },
+                {
+                    "bbox": [
+                        0.14662455069918592,
+                        0.4834867645046207,
+                        0.2467825496897978,
+                        0.49572047145236414
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Level of detail"
+                },
+                {
+                    "bbox": [
+                        0.37002640411633403,
+                        0.4834867645046207,
+                        0.5725473612296481,
+                        0.49572047145236414
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "94 classes, 160 sub-indexes"
+                },
+                {
+                    "bbox": [
+                        0.6341857397255777,
+                        0.4834867645046207,
+                        0.8171947318966649,
+                        0.5088316493815878
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "211 item strata, 38 index\nareas"
+                }
+            ]
+        }
+    ]
+}

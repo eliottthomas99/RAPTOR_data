@@ -1,0 +1,125 @@
+{
+    "TD": [
+        [
+            0.2524193548387097,
+            0.2559793148028442,
+            0.9298387096774193,
+            0.3270846800258565
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.40417488669688084,
+                        0.2559793148028442,
+                        0.5103739002932551,
+                        0.2722795700357859
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.7650453212476672,
+                        0.2607107870904111,
+                        0.7990702479338844,
+                        0.2871537195369821
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT PRICE"
+                },
+                {
+                    "bbox": [
+                        0.8207224740069314,
+                        0.2598844454514557,
+                        0.8887723273793655,
+                        0.2855010362590714
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EXTENDED PRICE"
+                },
+                {
+                    "bbox": [
+                        0.2524193548387097,
+                        0.29282482223658696,
+                        0.49435483870967745,
+                        0.3270846800258565
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "WAREHOUSE 116th STREET FESTIVAL"
+                },
+                {
+                    "bbox": [
+                        0.7209677419354839,
+                        0.29282482223658696,
+                        0.8129032258064516,
+                        0.3270846800258565
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,000.00"
+                },
+                {
+                    "bbox": [
+                        0.8306451612903226,
+                        0.29282482223658696,
+                        0.9298387096774193,
+                        0.3270846800258565
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,000.00"
+                }
+            ]
+        }
+    ]
+}

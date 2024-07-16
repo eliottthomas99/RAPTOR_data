@@ -1,0 +1,367 @@
+{
+    "TD": [
+        [
+            0.1822689024340205,
+            0.10837020330361119,
+            0.7839688341156775,
+            0.18968949125385057
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3680178089302127,
+                        0.10837020330361119,
+                        0.4548272140887605,
+                        0.12633243479241668
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Up-market"
+                },
+                {
+                    "bbox": [
+                        0.5146578235786502,
+                        0.10837020330361119,
+                        0.5809486709722952,
+                        0.12633243479241668
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Medium"
+                },
+                {
+                    "bbox": [
+                        0.6743651317949054,
+                        0.10837020330361119,
+                        0.7839688341156775,
+                        0.12633243479241668
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Down-market"
+                },
+                {
+                    "bbox": [
+                        0.1822689024340205,
+                        0.12407506729814616,
+                        0.3163738603351497,
+                        0.1413758792107009
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Procter & Gamble"
+                },
+                {
+                    "bbox": [
+                        0.3681291596228335,
+                        0.12407506729814616,
+                        0.40573438115480565,
+                        0.1413758792107009
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Ariel"
+                },
+                {
+                    "bbox": [
+                        0.514787484818146,
+                        0.12407506729814616,
+                        0.5523926294150473,
+                        0.1413758792107009
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Vizir"
+                },
+                {
+                    "bbox": [
+                        0.6745498272551208,
+                        0.12407506729814616,
+                        0.7236439937303046,
+                        0.1413758792107009
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Bonux"
+                },
+                {
+                    "bbox": [
+                        0.1822689024340205,
+                        0.1401796499510559,
+                        0.224700927734375,
+                        0.15748047092464929
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Lever"
+                },
+                {
+                    "bbox": [
+                        0.36803737608324577,
+                        0.1401796499510559,
+                        0.4015865550321691,
+                        0.15748047092464929
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Skip"
+                },
+                {
+                    "bbox": [
+                        0.5146223308659401,
+                        0.1401796499510559,
+                        0.5512915346802784,
+                        0.15748047092464929
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Omo"
+                },
+                {
+                    "bbox": [
+                        0.6744213969767594,
+                        0.1401796499510559,
+                        0.7159540769432773,
+                        0.15748047092464929
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Persil"
+                },
+                {
+                    "bbox": [
+                        0.1822689024340205,
+                        0.15628416011565655,
+                        0.23518045890231093,
+                        0.1735849810892499
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Henkel"
+                },
+                {
+                    "bbox": [
+                        0.36801901424632355,
+                        0.15628416011565655,
+                        0.4265649362772453,
+                        0.1735849810892499
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Le Chat"
+                },
+                {
+                    "bbox": [
+                        0.5146406927028624,
+                        0.15628416011565655,
+                        0.6038727575991334,
+                        0.1735849810892499
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Super Croix"
+                },
+                {
+                    "bbox": [
+                        0.1822689024340205,
+                        0.1723886702802572,
+                        0.31872302143513653,
+                        0.18968949125385057
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Colgate-Palmolive"
+                },
+                {
+                    "bbox": [
+                        0.36805571227514444,
+                        0.1723886702802572,
+                        0.4056792443539916,
+                        0.18968949125385057
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dash"
+                },
+                {
+                    "bbox": [
+                        0.5146957269235819,
+                        0.1723886702802572,
+                        0.5605780080586922,
+                        0.18968949125385057
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Axion"
+                },
+                {
+                    "bbox": [
+                        0.6744213456867122,
+                        0.1723886702802572,
+                        0.7180646623883928,
+                        0.18968949125385057
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Gama"
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                }
+            ]
+        }
+    ]
+}

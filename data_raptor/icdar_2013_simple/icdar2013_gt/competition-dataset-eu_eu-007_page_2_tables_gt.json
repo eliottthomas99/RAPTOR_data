@@ -1,0 +1,730 @@
+{
+    "TD": [
+        [
+            0.1772095495913209,
+            0.2608874721934846,
+            0.7995210535386029,
+            0.2942975150717692
+        ],
+        [
+            0.1546386590524882,
+            0.5696836276745286,
+            0.8287391470259979,
+            0.8238937849103697
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 2,
+            "data": [
+                {
+                    "bbox": [
+                        0.1772095495913209,
+                        0.2608874721934846,
+                        0.23436061314174106,
+                        0.278188293167078
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Product"
+                },
+                {
+                    "bbox": [
+                        0.5180603540244223,
+                        0.2608874721934846,
+                        0.6097516741071428,
+                        0.278188293167078
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Roast coffee"
+                },
+                {
+                    "bbox": [
+                        0.6955883891642595,
+                        0.2608874721934846,
+                        0.7995210535386029,
+                        0.278188293167078
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Instant Coffee"
+                },
+                {
+                    "bbox": [
+                        0.1772268856272978,
+                        0.27699669409817584,
+                        0.36462889599199055,
+                        0.2942975150717692
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Turnover in FFr. millions"
+                },
+                {
+                    "bbox": [
+                        0.542835806197479,
+                        0.27699669409817584,
+                        0.5844601927685137,
+                        0.2942975150717692
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7,581"
+                },
+                {
+                    "bbox": [
+                        0.7265487542673319,
+                        0.27699669409817584,
+                        0.7681731408383666,
+                        0.2942975150717692
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2,517"
+                }
+            ]
+        },
+        {
+            "page": 2,
+            "data": [
+                {
+                    "bbox": [
+                        0.1546537767939207,
+                        0.5696836276745286,
+                        0.2119883433109572,
+                        0.5876458682243728
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Brands"
+                },
+                {
+                    "bbox": [
+                        0.5160415264738708,
+                        0.5696836276745286,
+                        0.6494125237985819,
+                        0.6028975534325824
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Market shares in\nvolume (1996)"
+                },
+                {
+                    "bbox": [
+                        0.6953681497012868,
+                        0.5696836276745286,
+                        0.8287391470259979,
+                        0.6028975534325824
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Market shares in\nvolume (1997)"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.6006546926611676,
+                        0.2802094788110557,
+                        0.6332071988429706
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Maison du Caf\u00e9\n(Douwe Egberts)"
+                },
+                {
+                    "bbox": [
+                        0.5563845337939863,
+                        0.6006546926611676,
+                        0.6041572122012868,
+                        0.617955513634761
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14.9%"
+                },
+                {
+                    "bbox": [
+                        0.7379134490710346,
+                        0.6006546926611676,
+                        0.7856861274783351,
+                        0.617955513634761
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16.5%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.6320086046522417,
+                        0.24049374876903887,
+                        0.6645611470781992
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Carte Noire\n(K-J-S)"
+                },
+                {
+                    "bbox": [
+                        0.5563845337939863,
+                        0.6320086046522417,
+                        0.6041572122012868,
+                        0.6493094618699896
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17.0%"
+                },
+                {
+                    "bbox": [
+                        0.7379134490710346,
+                        0.6320086046522417,
+                        0.7856861274783351,
+                        0.6493094618699896
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16.5%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.6633624803991612,
+                        0.26123259728696163,
+                        0.6959150228251187
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Jacques Vabre\n(K-J-S)"
+                },
+                {
+                    "bbox": [
+                        0.5563845337939863,
+                        0.6633624803991612,
+                        0.6041572122012868,
+                        0.6806633376169091
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14.2%"
+                },
+                {
+                    "bbox": [
+                        0.7379134490710346,
+                        0.6633624803991612,
+                        0.7856861274783351,
+                        0.6806633376169091
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "13.8%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.6947164286343899,
+                        0.24383393616235557,
+                        0.7272689710603474
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Grand M\u00e8re\n(K-J-S)"
+                },
+                {
+                    "bbox": [
+                        0.5563865341058298,
+                        0.6947164286343899,
+                        0.6041592125131302,
+                        0.7120172858521377
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "13.2%"
+                },
+                {
+                    "bbox": [
+                        0.7379154493828781,
+                        0.6947164286343899,
+                        0.7856881277901786,
+                        0.7120172858521377
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "13.2%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.7260703043813094,
+                        0.2152217320033482,
+                        0.7433711615990573
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Lavazza"
+                },
+                {
+                    "bbox": [
+                        0.5656527992056197,
+                        0.7260703043813094,
+                        0.6041205911075368,
+                        0.7433711615990573
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.0%"
+                },
+                {
+                    "bbox": [
+                        0.7471450420988708,
+                        0.7260703043813094,
+                        0.7856128340007879,
+                        0.7433711615990573
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.2%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.7421748870342191,
+                        0.2288029261997768,
+                        0.7594757442519671
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Segafredo"
+                },
+                {
+                    "bbox": [
+                        0.5657078334263392,
+                        0.7421748870342191,
+                        0.6042122977120535,
+                        0.7594757442519671
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.8%"
+                },
+                {
+                    "bbox": [
+                        0.7472367999934348,
+                        0.7421748870342191,
+                        0.7857412642791491,
+                        0.7594757442519671
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.4%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.7582793247105107,
+                        0.19606124493254332,
+                        0.7755801819282586
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Legal"
+                },
+                {
+                    "bbox": [
+                        0.5656894715894171,
+                        0.7582793247105107,
+                        0.6041573147813813,
+                        0.7755801819282586
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.6%"
+                },
+                {
+                    "bbox": [
+                        0.747181714482668,
+                        0.7582793247105107,
+                        0.7856495576746324,
+                        0.7755801819282586
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.5%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.7743839073634204,
+                        0.22074595218946955,
+                        0.7916847645811683
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Malongo"
+                },
+                {
+                    "bbox": [
+                        0.5657261952632615,
+                        0.7743839073634204,
+                        0.6041940384552258,
+                        0.7916847645811683
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.0%"
+                },
+                {
+                    "bbox": [
+                        0.7472184381565126,
+                        0.7743839073634204,
+                        0.7856862813484768,
+                        0.7916847645811683
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.790488345039712,
+                        0.42732661912421216,
+                        0.8077892022574599
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Own Brands and First Price Products"
+                },
+                {
+                    "bbox": [
+                        0.5563294482832195,
+                        0.790488345039712,
+                        0.6040288332129727,
+                        0.8077892022574599
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15.9%"
+                },
+                {
+                    "bbox": [
+                        0.737784967502626,
+                        0.790488345039712,
+                        0.7854843524323792,
+                        0.8077892022574599
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17.3%"
+                },
+                {
+                    "bbox": [
+                        0.1546386590524882,
+                        0.8065929276926217,
+                        0.2531205377658876,
+                        0.8238937849103697
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Other Brands"
+                },
+                {
+                    "bbox": [
+                        0.5656527992056197,
+                        0.8065929276926217,
+                        0.6041022805606617,
+                        0.8238937849103697
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.3%"
+                },
+                {
+                    "bbox": [
+                        0.7471266802619485,
+                        0.8065929276926217,
+                        0.7855761616169905,
+                        0.8238937849103697
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.4%"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "TD": [
+        [
+            0.1403225806451613,
+            0.43629908814589663,
+            0.7443548387096774,
+            0.4826747720364742
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.14562337055916572,
+                        0.4375051671732523,
+                        0.2520404490447099,
+                        0.4519781155015198
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "SALES CODE"
+                },
+                {
+                    "bbox": [
+                        0.34245495933693915,
+                        0.43629908814589663,
+                        0.46087396396746955,
+                        0.45137507598784193
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.6417029845519281,
+                        0.4375051671732523,
+                        0.7161149266508424,
+                        0.45137507598784193
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.1403225806451613,
+                        0.4644376899696049,
+                        0.17338709677419356,
+                        0.4826747720364742
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "411"
+                },
+                {
+                    "bbox": [
+                        0.2685483870967742,
+                        0.4644376899696049,
+                        0.4,
+                        0.4826747720364742
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Contributions"
+                },
+                {
+                    "bbox": [
+                        0.6516129032258065,
+                        0.4644376899696049,
+                        0.7443548387096774,
+                        0.4826747720364742
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "75,000.00"
+                }
+            ]
+        }
+    ]
+}

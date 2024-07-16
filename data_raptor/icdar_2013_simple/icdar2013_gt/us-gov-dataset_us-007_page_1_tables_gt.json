@@ -1,0 +1,341 @@
+{
+    "TD": [
+        [
+            0.07712287528842103,
+            0.24713799447724313,
+            0.4517263773999183,
+            0.4378423209142203
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.07712287528842103,
+                        0.24713799447724313,
+                        0.17604946311003242,
+                        0.2585016308408795
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Payroll Period"
+                },
+                {
+                    "bbox": [
+                        0.3471233642179202,
+                        0.24713799447724313,
+                        0.4517263773999183,
+                        0.2585016308408795
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Add Additional"
+                },
+                {
+                    "bbox": [
+                        0.0771228815215865,
+                        0.2677723855683298,
+                        0.1253288992090163,
+                        0.2791360219319661
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Weekly"
+                },
+                {
+                    "bbox": [
+                        0.36640409083148234,
+                        0.2677723855683298,
+                        0.4260659809985192,
+                        0.2791360219319661
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 40.40"
+                },
+                {
+                    "bbox": [
+                        0.0771228815215865,
+                        0.28847871645532475,
+                        0.13513770757936963,
+                        0.2998423528189611
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Biweekly"
+                },
+                {
+                    "bbox": [
+                        0.38927993275760825,
+                        0.28847871645532475,
+                        0.42607420877693525,
+                        0.2998423528189611
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "80.80"
+                },
+                {
+                    "bbox": [
+                        0.07712290645424837,
+                        0.30918504734231966,
+                        0.16210831536187065,
+                        0.3205486837059561
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Semimonthly"
+                },
+                {
+                    "bbox": [
+                        0.38927995769027013,
+                        0.30918504734231966,
+                        0.42607420877693525,
+                        0.3205486837059561
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "87.50"
+                },
+                {
+                    "bbox": [
+                        0.07712293138691023,
+                        0.3298913974954624,
+                        0.1286083545560151,
+                        0.3412550338590988
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Monthly"
+                },
+                {
+                    "bbox": [
+                        0.3811100230497472,
+                        0.3298913974954624,
+                        0.4260660308638429,
+                        0.3412550338590988
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "175.00"
+                },
+                {
+                    "bbox": [
+                        0.07712293138691023,
+                        0.3505977283824574,
+                        0.137593649571238,
+                        0.36196136474609375
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Quarterly"
+                },
+                {
+                    "bbox": [
+                        0.3811100230497472,
+                        0.3505977283824574,
+                        0.4260660308638429,
+                        0.36196136474609375
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "525.00"
+                },
+                {
+                    "bbox": [
+                        0.07712293138691023,
+                        0.3713040592694523,
+                        0.16538774577620763,
+                        0.3826676956330887
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Semiannually"
+                },
+                {
+                    "bbox": [
+                        0.36885512108896296,
+                        0.3713040592694523,
+                        0.42606114406211704,
+                        0.3826676956330887
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,050.00"
+                },
+                {
+                    "bbox": [
+                        0.07712293138691023,
+                        0.3920105057533341,
+                        0.1335201138764425,
+                        0.4033741421169705
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Annually"
+                },
+                {
+                    "bbox": [
+                        0.36885512108896296,
+                        0.3920105057533341,
+                        0.42606114406211704,
+                        0.4033741421169705
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2,100.00"
+                },
+                {
+                    "bbox": [
+                        0.07712293138691023,
+                        0.4127168366403291,
+                        0.294696458804062,
+                        0.4378423209142203
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Daily or Miscellaneous\n(each day ofthe payroll period)"
+                },
+                {
+                    "bbox": [
+                        0.39744986739813115,
+                        0.4127168366403291,
+                        0.42606767641952614,
+                        0.42408047300396545
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.10"
+                }
+            ]
+        }
+    ]
+}

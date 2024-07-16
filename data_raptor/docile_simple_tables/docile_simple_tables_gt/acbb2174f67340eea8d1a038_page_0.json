@@ -1,0 +1,359 @@
+{
+    "TD": [
+        [
+            0.024193548387096774,
+            0.3891317926296065,
+            0.8653225806451613,
+            0.6302311055590256
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.024193548387096774,
+                        0.3891317926296065,
+                        0.12338709677419354,
+                        0.4084946908182386
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.23651312602925506,
+                        0.3891317926296065,
+                        0.37900259130097835,
+                        0.4078216572682532
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.5340931657463915,
+                        0.3891317926296065,
+                        0.6038839242468275,
+                        0.4073713756331303
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "PRICE"
+                },
+                {
+                    "bbox": [
+                        0.7861153492201879,
+                        0.3891317926296065,
+                        0.8653225806451613,
+                        0.4078216572682532
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.024193548387096774,
+                        0.4203622735790131,
+                        0.12338709677419354,
+                        0.43597751405371643
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "32,346"
+                },
+                {
+                    "bbox": [
+                        0.16048387096774194,
+                        0.4203622735790131,
+                        0.5129032258064516,
+                        0.43597751405371643
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "SHAREFORCE LIFESTYLE DATABASE"
+                },
+                {
+                    "bbox": [
+                        0.024193548387096774,
+                        0.44722048719550284,
+                        0.12338709677419354,
+                        0.46408494690818236
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17,155"
+                },
+                {
+                    "bbox": [
+                        0.16048387096774194,
+                        0.44722048719550284,
+                        0.5129032258064516,
+                        0.46408494690818236
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "RENTAL"
+                },
+                {
+                    "bbox": [
+                        0.5129032258064516,
+                        0.44722048719550284,
+                        0.6282258064516129,
+                        0.46408494690818236
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$500.00/M"
+                },
+                {
+                    "bbox": [
+                        0.7548387096774194,
+                        0.44722048719550284,
+                        0.8653225806451613,
+                        0.46408494690818236
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$8.577.50"
+                },
+                {
+                    "bbox": [
+                        0.024193548387096774,
+                        0.5546533416614616,
+                        0.12338709677419354,
+                        0.580262336039975
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15,191"
+                },
+                {
+                    "bbox": [
+                        0.16048387096774194,
+                        0.5546533416614616,
+                        0.5129032258064516,
+                        0.580262336039975
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "RUNNING CHARGE"
+                },
+                {
+                    "bbox": [
+                        0.5129032258064516,
+                        0.5546533416614616,
+                        0.6282258064516129,
+                        0.580262336039975
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.00/M"
+                },
+                {
+                    "bbox": [
+                        0.7548387096774194,
+                        0.5546533416614616,
+                        0.8653225806451613,
+                        0.580262336039975
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "75.96"
+                },
+                {
+                    "bbox": [
+                        0.16048387096774194,
+                        0.580262336039975,
+                        0.5129032258064516,
+                        0.6083697688944409
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9TRK/6250 BPI TAPE"
+                },
+                {
+                    "bbox": [
+                        0.5129032258064516,
+                        0.580262336039975,
+                        0.6282258064516129,
+                        0.6083697688944409
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15.00"
+                },
+                {
+                    "bbox": [
+                        0.7548387096774194,
+                        0.580262336039975,
+                        0.8653225806451613,
+                        0.6083697688944409
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15.00"
+                },
+                {
+                    "bbox": [
+                        0.16048387096774194,
+                        0.6083697688944409,
+                        0.5129032258064516,
+                        0.6302311055590256
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "SHIPPING & HANDLING"
+                },
+                {
+                    "bbox": [
+                        0.7548387096774194,
+                        0.6083697688944409,
+                        0.8653225806451613,
+                        0.6302311055590256
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "30.00"
+                }
+            ]
+        }
+    ]
+}

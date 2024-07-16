@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.008064516129032258,
+            0.3720364741641337,
+            0.8508064516129032,
+            0.4092765421849685
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.013211082853700975,
+                        0.3744091694227602,
+                        0.10241935483870968,
+                        0.38662613981762917
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "INVOICE DATE"
+                },
+                {
+                    "bbox": [
+                        0.13431267567929328,
+                        0.3727488183388455,
+                        0.2950475170659885,
+                        0.38686180255212027
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "INVOICE # OR DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.3032258064516129,
+                        0.3720364741641337,
+                        0.3864241734707536,
+                        0.3860316270101629
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "BATCH NO."
+                },
+                {
+                    "bbox": [
+                        0.4524795877392585,
+                        0.37357899388080285,
+                        0.4965165305849284,
+                        0.3876919780940776
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "GROSS"
+                },
+                {
+                    "bbox": [
+                        0.8113806719314683,
+                        0.3752393449647175,
+                        0.8411056083522955,
+                        0.3876919780940776
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NET"
+                },
+                {
+                    "bbox": [
+                        0.008064516129032258,
+                        0.38662613981762917,
+                        0.10241935483870968,
+                        0.40911854103343465
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/30/00"
+                },
+                {
+                    "bbox": [
+                        0.11935483870967742,
+                        0.38662613981762917,
+                        0.22661290322580646,
+                        0.40911854103343465
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DUES-2000"
+                },
+                {
+                    "bbox": [
+                        0.3032258064516129,
+                        0.38662613981762917,
+                        0.3524193548387097,
+                        0.40911854103343465
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "D747"
+                },
+                {
+                    "bbox": [
+                        0.42016129032258065,
+                        0.38662613981762917,
+                        0.5362903225806451,
+                        0.40911854103343465
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103,219.00"
+                },
+                {
+                    "bbox": [
+                        0.7274193548387097,
+                        0.38662613981762917,
+                        0.8508064516129032,
+                        0.4092765421849685
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103, 219.00"
+                }
+            ]
+        }
+    ]
+}

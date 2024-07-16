@@ -1,0 +1,53 @@
+{
+    "TD": [
+        [
+            0.15161290322580645,
+            0.5305486284289277,
+            0.8104838709677419,
+            0.6552734375
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.15161290322580645,
+                        0.5305486284289277,
+                        0.37508969068036313,
+                        0.5498753117206983
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "ITEM DESCRIPTION:"
+                },
+                {
+                    "bbox": [
+                        0.15161290322580645,
+                        0.5692019950124688,
+                        0.8104838709677419,
+                        0.6552734375
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "\"Bruce Poliquin for Congress\" - 24 (:60) ads to run on WXME-AM starting through MFS Order # WXME-AM spot rate: :60 second spot"
+                }
+            ]
+        }
+    ]
+}

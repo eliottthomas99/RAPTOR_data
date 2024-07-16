@@ -1,0 +1,161 @@
+{
+    "TD": [
+        [
+            0.04566240065451145,
+            0.3586934451864303,
+            0.9467741935483871,
+            0.44437689969604866
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.04566240065451145,
+                        0.36110753451260247,
+                        0.1297773492286115,
+                        0.3743850258065495
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.36770248948106593,
+                        0.3586934451864303,
+                        0.4814579437431821,
+                        0.37197093648037727
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.7386093579554308,
+                        0.3586934451864303,
+                        0.812310074801309,
+                        0.37197093648037727
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "CHARGE"
+                },
+                {
+                    "bbox": [
+                        0.8675856124357175,
+                        0.36050401218105943,
+                        0.9220600553218014,
+                        0.3731779811434634
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "TOTAL"
+                },
+                {
+                    "bbox": [
+                        0.11451612903225807,
+                        0.382370820668693,
+                        0.1282258064516129,
+                        0.44437689969604866
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.14838709677419354,
+                        0.382370820668693,
+                        0.4629032258064516,
+                        0.44437689969604866
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NETWORK/NEW YORK TV COMMERCIAL UNITED STATES CENSUS 2000 CENSUS FORM TALKS TO MAN 1/12/00 WPIX NEW YORK, NY"
+                },
+                {
+                    "bbox": [
+                        0.75,
+                        0.382370820668693,
+                        0.807258064516129,
+                        0.44437689969604866
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50.00"
+                },
+                {
+                    "bbox": [
+                        0.8903225806451613,
+                        0.382370820668693,
+                        0.9467741935483871,
+                        0.44437689969604866
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50.00"
+                }
+            ]
+        }
+    ]
+}

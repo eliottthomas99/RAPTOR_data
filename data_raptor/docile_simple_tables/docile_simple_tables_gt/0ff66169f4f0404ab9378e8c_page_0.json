@@ -1,0 +1,377 @@
+{
+    "TD": [
+        [
+            0.0967741935483871,
+            0.4196242171189979,
+            0.8991935483870968,
+            0.5146137787056367
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.10336110266637422,
+                        0.42024618472888886,
+                        0.1489100749434571,
+                        0.4406477071650793
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "ORDERED"
+                },
+                {
+                    "bbox": [
+                        0.16905673575832067,
+                        0.4213796026420106,
+                        0.21986135868275927,
+                        0.4542487221225395
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "BACK ORDERED"
+                },
+                {
+                    "bbox": [
+                        0.24526367014497857,
+                        0.4213796026420106,
+                        0.28468105000014643,
+                        0.4406477071650793
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "SHIPPED"
+                },
+                {
+                    "bbox": [
+                        0.3302300222772293,
+                        0.4259132742944973,
+                        0.3749030527797529,
+                        0.4542487221225395
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "ITEM NUMBER"
+                },
+                {
+                    "bbox": [
+                        0.5273169215530686,
+                        0.4196242171189979,
+                        0.5930125546450151,
+                        0.4395142892519576
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.7638212006840759,
+                        0.4213796026420106,
+                        0.7900994539208545,
+                        0.45311530420941787
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT PRICE"
+                },
+                {
+                    "bbox": [
+                        0.8379032258064516,
+                        0.4196242171189979,
+                        0.8855771073478166,
+                        0.4395142892519576
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.0967741935483871,
+                        0.4780793319415449,
+                        0.1314516129032258,
+                        0.49582463465553234
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7500"
+                },
+                {
+                    "bbox": [
+                        0.1596774193548387,
+                        0.4780793319415449,
+                        0.19435483870967743,
+                        0.49582463465553234
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7500"
+                },
+                {
+                    "bbox": [
+                        0.3064516129032258,
+                        0.4780793319415449,
+                        0.3895161290322581,
+                        0.49582463465553234
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "PMPOS09439"
+                },
+                {
+                    "bbox": [
+                        0.39919354838709675,
+                        0.4780793319415449,
+                        0.6532258064516129,
+                        0.49582463465553234
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2' FLEXI CTN SHELF KITPOS# 09439"
+                },
+                {
+                    "bbox": [
+                        0.7693548387096775,
+                        0.4780793319415449,
+                        0.8096774193548387,
+                        0.49582463465553234
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12. 37"
+                },
+                {
+                    "bbox": [
+                        0.8379032258064516,
+                        0.4780793319415449,
+                        0.8991935483870968,
+                        0.49582463465553234
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ".00"
+                },
+                {
+                    "bbox": [
+                        0.0967741935483871,
+                        0.49582463465553234,
+                        0.1314516129032258,
+                        0.5146137787056367
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9244"
+                },
+                {
+                    "bbox": [
+                        0.1596774193548387,
+                        0.49582463465553234,
+                        0.19435483870967743,
+                        0.5146137787056367
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8704"
+                },
+                {
+                    "bbox": [
+                        0.23629032258064517,
+                        0.49582463465553234,
+                        0.26370967741935486,
+                        0.5146137787056367
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "540"
+                },
+                {
+                    "bbox": [
+                        0.3064516129032258,
+                        0.49582463465553234,
+                        0.3895161290322581,
+                        0.5146137787056367
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "PMPOS09441"
+                },
+                {
+                    "bbox": [
+                        0.39919354838709675,
+                        0.49582463465553234,
+                        0.6532258064516129,
+                        0.5146137787056367
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3' FLEXI CTN SHELF KITPOS# 09441"
+                },
+                {
+                    "bbox": [
+                        0.7693548387096775,
+                        0.49582463465553234,
+                        0.8096774193548387,
+                        0.5146137787056367
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14.31"
+                },
+                {
+                    "bbox": [
+                        0.8379032258064516,
+                        0.49582463465553234,
+                        0.8991935483870968,
+                        0.5146137787056367
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7727.40"
+                }
+            ]
+        }
+    ]
+}

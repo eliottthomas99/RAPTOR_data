@@ -1,0 +1,611 @@
+{
+    "TD": [
+        [
+            0.25215687471277576,
+            0.18198098076714408,
+            0.7478539959277982,
+            0.3687065972222222
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 2,
+            "data": [
+                {
+                    "bbox": [
+                        0.25215687471277576,
+                        0.18198098076714408,
+                        0.30307550367966196,
+                        0.19885808771306818
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Locales"
+                },
+                {
+                    "bbox": [
+                        0.6579411824544271,
+                        0.18198098076714408,
+                        0.679527980829376,
+                        0.19885808771306818
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "n ="
+                },
+                {
+                    "bbox": [
+                        0.734215680290671,
+                        0.18198098076714408,
+                        0.7478539959277982,
+                        0.19885808771306818
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "%"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.2019052601823903,
+                        0.42644545611213236,
+                        0.2187823671283144
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dorm Room or Apartment"
+                },
+                {
+                    "bbox": [
+                        0.6625490375593597,
+                        0.2019052601823903,
+                        0.6789707358366524,
+                        0.2187823671283144
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "48"
+                },
+                {
+                    "bbox": [
+                        0.7186274310342626,
+                        0.2019052601823903,
+                        0.7473154504314746,
+                        0.2187823671283144
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "30.2"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.21766281127929688,
+                        0.31162750643063214,
+                        0.23453991822522097
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Office(s)"
+                },
+                {
+                    "bbox": [
+                        0.6625490375593597,
+                        0.21766281127929688,
+                        0.6789707358366524,
+                        0.23453991822522097
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22"
+                },
+                {
+                    "bbox": [
+                        0.7186274310342626,
+                        0.21766281127929688,
+                        0.7473154504314746,
+                        0.23453991822522097
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "13.8"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.23296583541715987,
+                        0.37116775014042075,
+                        0.24984294236308396
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Instructional Area"
+                },
+                {
+                    "bbox": [
+                        0.6625490375593597,
+                        0.23296583541715987,
+                        0.6789707358366524,
+                        0.24984294236308396
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20"
+                },
+                {
+                    "bbox": [
+                        0.7186274310342626,
+                        0.23296583541715987,
+                        0.7473154504314746,
+                        0.24984294236308396
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12.6"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.24819310506184897,
+                        0.47689250871246935,
+                        0.26507021200777303
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Non-specific/Other/Undetermined"
+                },
+                {
+                    "bbox": [
+                        0.6625490375593597,
+                        0.24819310506184897,
+                        0.6789707358366524,
+                        0.26507021200777303
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16"
+                },
+                {
+                    "bbox": [
+                        0.7186274310342626,
+                        0.24819310506184897,
+                        0.7473154504314746,
+                        0.26507021200777303
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10.1"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.2638749016655816,
+                        0.3494151495640574,
+                        0.2807520086115057
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Common Area"
+                },
+                {
+                    "bbox": [
+                        0.6625490375593597,
+                        0.2638749016655816,
+                        0.6789707358366524,
+                        0.2807520086115057
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15"
+                },
+                {
+                    "bbox": [
+                        0.7268627391142004,
+                        0.2638749016655816,
+                        0.7473039814070159,
+                        0.2807520086115057
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.4"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.27963252982707937,
+                        0.49154269149880003,
+                        0.29650963677300346
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Hallway(s)/Stairwell(s)/Restroom(s)"
+                },
+                {
+                    "bbox": [
+                        0.6625490375593597,
+                        0.27963252982707937,
+                        0.6789707358366524,
+                        0.29650963677300346
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15"
+                },
+                {
+                    "bbox": [
+                        0.7268627391142004,
+                        0.27963252982707937,
+                        0.7473039814070159,
+                        0.29650963677300346
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.4"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.295314326430812,
+                        0.4815484339894812,
+                        0.3121914333767361
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Student Services Locales/Cafeteria"
+                },
+                {
+                    "bbox": [
+                        0.6625490375593597,
+                        0.295314326430812,
+                        0.6789707358366524,
+                        0.3121914333767361
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10"
+                },
+                {
+                    "bbox": [
+                        0.7268627391142004,
+                        0.295314326430812,
+                        0.7473039814070159,
+                        0.3121914333767361
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.3"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.31319308040117977,
+                        0.5355492884816687,
+                        0.33007018734710386
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Multiple Locales within the Same Building"
+                },
+                {
+                    "bbox": [
+                        0.6707842957739737,
+                        0.31319308040117977,
+                        0.6789705862406812,
+                        0.33007018734710386
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7"
+                },
+                {
+                    "bbox": [
+                        0.7268627391142004,
+                        0.31319308040117977,
+                        0.7473039814070159,
+                        0.33007018734710386
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.4"
+                },
+                {
+                    "bbox": [
+                        0.2526470508450776,
+                        0.33304160532325205,
+                        0.4411223667119843,
+                        0.34991871226917615
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Multiple Facilities/Buildings"
+                },
+                {
+                    "bbox": [
+                        0.6707842957739737,
+                        0.33304160532325205,
+                        0.6789705862406812,
+                        0.34991871226917615
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6"
+                },
+                {
+                    "bbox": [
+                        0.7268627391142004,
+                        0.33304160532325205,
+                        0.7473039814070159,
+                        0.34991871226917615
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.8"
+                },
+                {
+                    "bbox": [
+                        0.5766666886074091,
+                        0.3518294902762981,
+                        0.6112225601096558,
+                        0.3687065972222222
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.6544117647058824,
+                        0.3518294902762981,
+                        0.6789704865100337,
+                        0.3687065972222222
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "159"
+                },
+                {
+                    "bbox": [
+                        0.7227451100068933,
+                        0.3518294902762981,
+                        0.7473038318110448,
+                        0.3687065972222222
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100"
+                }
+            ]
+        }
+    ]
+}

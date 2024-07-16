@@ -1,0 +1,1312 @@
+{
+    "TD": [
+        [
+            0.15078431173087725,
+            0.14339138763119477,
+            0.8212724573471967,
+            0.41754300666577887
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.34745097939485037,
+                        0.14339138763119477,
+                        0.42667533525454454,
+                        0.15849487227622908
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2008 Actual"
+                },
+                {
+                    "bbox": [
+                        0.4668627470926522,
+                        0.14339138763119477,
+                        0.5607340195599724,
+                        0.15849487227622908
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2009 Estimate"
+                },
+                {
+                    "bbox": [
+                        0.5937254662607231,
+                        0.14339138763119477,
+                        0.6962060866013072,
+                        0.15849487227622908
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2009 Recovery*"
+                },
+                {
+                    "bbox": [
+                        0.7231372509127348,
+                        0.14339138763119477,
+                        0.8212724573471967,
+                        0.15849487227622908
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2010 Proposed"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.15903577900896168,
+                        0.18343529046750537,
+                        0.17675274550312697
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NSF"
+                },
+                {
+                    "bbox": [
+                        0.36803922466203276,
+                        0.15903577900896168,
+                        0.3948996300790824,
+                        0.17675274550312697
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "409"
+                },
+                {
+                    "bbox": [
+                        0.5031372768427033,
+                        0.15903577900896168,
+                        0.5299976323944291,
+                        0.17675274550312697
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "397"
+                },
+                {
+                    "bbox": [
+                        0.6217646879308364,
+                        0.15903577900896168,
+                        0.6486250434825623,
+                        0.17675274550312697
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "108"
+                },
+                {
+                    "bbox": [
+                        0.7654902140299479,
+                        0.15903577900896168,
+                        0.7923505695816738,
+                        0.17675274550312697
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "423"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.17861951962865966,
+                        0.20209782419641034,
+                        0.19460329383310646
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DOD**"
+                },
+                {
+                    "bbox": [
+                        0.36803922466203276,
+                        0.17767214534258602,
+                        0.3948996300790824,
+                        0.1953891214698252
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "460"
+                },
+                {
+                    "bbox": [
+                        0.5031372768427033,
+                        0.17767214534258602,
+                        0.5299976323944291,
+                        0.1953891214698252
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "464"
+                },
+                {
+                    "bbox": [
+                        0.7654902140299479,
+                        0.17767214534258602,
+                        0.7923505695816738,
+                        0.1953891214698252
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "379"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.19615693525834518,
+                        0.21063843272090738,
+                        0.21387391138558437
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DOE***"
+                },
+                {
+                    "bbox": [
+                        0.3680305979610269,
+                        0.19615693525834518,
+                        0.3948910033780765,
+                        0.21387391138558437
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "245"
+                },
+                {
+                    "bbox": [
+                        0.5031262566061581,
+                        0.19615693525834518,
+                        0.529986612157884,
+                        0.21387391138558437
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "337"
+                },
+                {
+                    "bbox": [
+                        0.63057329763774,
+                        0.19615693525834518,
+                        0.6486124774209814,
+                        0.21387391138558437
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "25"
+                },
+                {
+                    "bbox": [
+                        0.7654705670923968,
+                        0.19615693525834518,
+                        0.7923309226441227,
+                        0.21387391138558437
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "351"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.21479331122504342,
+                        0.2806125466340508,
+                        0.2325102873522826
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DHHS(NIH)****"
+                },
+                {
+                    "bbox": [
+                        0.36803922466203276,
+                        0.21479331122504342,
+                        0.3948996300790824,
+                        0.2325102873522826
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "305"
+                },
+                {
+                    "bbox": [
+                        0.5031372768427033,
+                        0.21479331122504342,
+                        0.5299976323944291,
+                        0.2325102873522826
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "311"
+                },
+                {
+                    "bbox": [
+                        0.7654902140299479,
+                        0.21479331122504342,
+                        0.7923505695816738,
+                        0.2325102873522826
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "326"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.23342968719174165,
+                        0.24794350418390013,
+                        0.25114666331898083
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DOC(NIST)"
+                },
+                {
+                    "bbox": [
+                        0.3768627441007327,
+                        0.23342968719174165,
+                        0.3949019737492979,
+                        0.25114666331898083
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "86"
+                },
+                {
+                    "bbox": [
+                        0.5119607962814032,
+                        0.23342968719174165,
+                        0.5299999760646447,
+                        0.25114666331898083
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "87"
+                },
+                {
+                    "bbox": [
+                        0.6396078471264808,
+                        0.23342968719174165,
+                        0.6486274370181015,
+                        0.25114666331898083
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7"
+                },
+                {
+                    "bbox": [
+                        0.7743137334686478,
+                        0.23342968719174165,
+                        0.7923529132518893,
+                        0.25114666331898083
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "91"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.2520660631584399,
+                        0.18240705502578636,
+                        0.26978303928567904
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EPA"
+                },
+                {
+                    "bbox": [
+                        0.3768627441007327,
+                        0.2520660631584399,
+                        0.3949019737492979,
+                        0.26978303928567904
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12"
+                },
+                {
+                    "bbox": [
+                        0.5119607962814032,
+                        0.2520660631584399,
+                        0.5299999760646447,
+                        0.26978303928567904
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16"
+                },
+                {
+                    "bbox": [
+                        0.7743137334686478,
+                        0.2520660631584399,
+                        0.7923529132518893,
+                        0.26978303928567904
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "18"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.2705509301387902,
+                        0.19595451604307088,
+                        0.28826790626602944
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NASA"
+                },
+                {
+                    "bbox": [
+                        0.3768627441007327,
+                        0.2705509301387902,
+                        0.3949019737492979,
+                        0.28826790626602944
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17"
+                },
+                {
+                    "bbox": [
+                        0.5119607962814032,
+                        0.2705509301387902,
+                        0.5299999760646447,
+                        0.28826790626602944
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17"
+                },
+                {
+                    "bbox": [
+                        0.7743137334686478,
+                        0.2705509301387902,
+                        0.7923529132518893,
+                        0.28826790626602944
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.2891872290408973,
+                        0.27554356194789115,
+                        0.30690420516813643
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DHHS(NIOSH)"
+                },
+                {
+                    "bbox": [
+                        0.3858823589250153,
+                        0.2891872290408973,
+                        0.3949019737492979,
+                        0.30690420516813643
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7"
+                },
+                {
+                    "bbox": [
+                        0.5209803861730239,
+                        0.2891872290408973,
+                        0.5299999760646447,
+                        0.30690420516813643
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7"
+                },
+                {
+                    "bbox": [
+                        0.7743137334686478,
+                        0.2891872290408973,
+                        0.7923529132518893,
+                        0.30690420516813643
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.3078236050075955,
+                        0.18803530425028084,
+                        0.3255406004009825
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DHS"
+                },
+                {
+                    "bbox": [
+                        0.3858823589250153,
+                        0.3078236050075955,
+                        0.3949019737492979,
+                        0.3255406004009825
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3"
+                },
+                {
+                    "bbox": [
+                        0.5209803861730239,
+                        0.3078236050075955,
+                        0.5299999760646447,
+                        0.3255406004009825
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9"
+                },
+                {
+                    "bbox": [
+                        0.7743137334686478,
+                        0.3078236050075955,
+                        0.7923529132518893,
+                        0.3255406004009825
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.32645998097429374,
+                        0.23224941577786715,
+                        0.3441769763676807
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "USDA(FS)"
+                },
+                {
+                    "bbox": [
+                        0.3858823589250153,
+                        0.32645998097429374,
+                        0.3949019737492979,
+                        0.3441769763676807
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5"
+                },
+                {
+                    "bbox": [
+                        0.5209803861730239,
+                        0.32645998097429374,
+                        0.5299999760646447,
+                        0.3441769763676807
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5"
+                },
+                {
+                    "bbox": [
+                        0.7833333233602686,
+                        0.32645998097429374,
+                        0.7923529132518893,
+                        0.3441769763676807
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.3449448479546441,
+                        0.27615690542981514,
+                        0.3626618433480311
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "USDA(CSREES)"
+                },
+                {
+                    "bbox": [
+                        0.3858823589250153,
+                        0.3449448479546441,
+                        0.3949019737492979,
+                        0.3626618433480311
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6"
+                },
+                {
+                    "bbox": [
+                        0.5209803861730239,
+                        0.3449448479546441,
+                        0.5299999760646447,
+                        0.3626618433480311
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3"
+                },
+                {
+                    "bbox": [
+                        0.7833333233602686,
+                        0.3449448479546441,
+                        0.7923529132518893,
+                        0.3626618433480311
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.3635811853890467,
+                        0.25910982119491677,
+                        0.3812981807824337
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DOT(FHWA)"
+                },
+                {
+                    "bbox": [
+                        0.3858823589250153,
+                        0.3635811853890467,
+                        0.3949019737492979,
+                        0.3812981807824337
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.5209803861730239,
+                        0.3635811853890467,
+                        0.5299999760646447,
+                        0.3812981807824337
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3"
+                },
+                {
+                    "bbox": [
+                        0.7833333233602686,
+                        0.3635811853890467,
+                        0.7923529132518893,
+                        0.3812981807824337
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.382217561355745,
+                        0.18525725719975492,
+                        0.3999345567491319
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DOJ"
+                },
+                {
+                    "bbox": [
+                        0.38587136362113206,
+                        0.382217561355745,
+                        0.3948909784454146,
+                        0.3999345567491319
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0"
+                },
+                {
+                    "bbox": [
+                        0.520967072131587,
+                        0.382217561355745,
+                        0.5299866620232078,
+                        0.3999345567491319
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0"
+                },
+                {
+                    "bbox": [
+                        0.7833114324831495,
+                        0.382217561355745,
+                        0.7923310223747703,
+                        0.3999345567491319
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0"
+                },
+                {
+                    "bbox": [
+                        0.15078431173087725,
+                        0.4008018031264796,
+                        0.2476910360498366,
+                        0.41754300666577887
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "TOTAL*****"
+                },
+                {
+                    "bbox": [
+                        0.3539215786005157,
+                        0.4008018031264796,
+                        0.39506904751646754,
+                        0.41754300666577887
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,554"
+                },
+                {
+                    "bbox": [
+                        0.48901960584852433,
+                        0.4008018031264796,
+                        0.5301670248991524,
+                        0.41754300666577887
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,657"
+                },
+                {
+                    "bbox": [
+                        0.6211764765720741,
+                        0.4008018031264796,
+                        0.6487944858526092,
+                        0.41754300666577887
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "140"
+                },
+                {
+                    "bbox": [
+                        0.751372543035769,
+                        0.4008018031264796,
+                        0.7925199620863971,
+                        0.41754300666577887
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,640"
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                }
+            ]
+        }
+    ]
+}

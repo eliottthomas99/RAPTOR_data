@@ -1,0 +1,305 @@
+{
+    "TD": [
+        [
+            0.15519624597886028,
+            0.10721220151342527,
+            0.8412176393995098,
+            0.42304156524966463
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.19205848843443626,
+                        0.10721220151342527,
+                        0.2345251694224239,
+                        0.12819705346618035
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Type"
+                },
+                {
+                    "bbox": [
+                        0.5184391994102329,
+                        0.10721220151342527,
+                        0.6153020921096303,
+                        0.12819705346618035
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description"
+                },
+                {
+                    "bbox": [
+                        0.15519624597886028,
+                        0.1251743393714982,
+                        0.25455985973083894,
+                        0.1596530085862285
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Visual analog\nscale (VAS)"
+                },
+                {
+                    "bbox": [
+                        0.15519624597886028,
+                        0.1781288879086273,
+                        0.24557131100324245,
+                        0.22850974882491912
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Anchored or\ncategorized\nVAS"
+                },
+                {
+                    "bbox": [
+                        0.15519624597886028,
+                        0.22661369015472105,
+                        0.23943907295177186,
+                        0.24510776635372278
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Likert scale"
+                },
+                {
+                    "bbox": [
+                        0.15519624597886028,
+                        0.25343193670715947,
+                        0.24347402535232843,
+                        0.2719260129061612
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Rating scale"
+                },
+                {
+                    "bbox": [
+                        0.15519624597886028,
+                        0.29320466397988676,
+                        0.2560275956696155,
+                        0.34366792621034564
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Recording of\nevents as they\noccur"
+                },
+                {
+                    "bbox": [
+                        0.15519624597886028,
+                        0.34176520145300665,
+                        0.2564583572686887,
+                        0.36025931618430396
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Pictorial scale"
+                },
+                {
+                    "bbox": [
+                        0.15519624597886028,
+                        0.3816136832189078,
+                        0.22304976220224418,
+                        0.4001077979502052
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Checklist"
+                },
+                {
+                    "bbox": [
+                        0.28901971555223654,
+                        0.12530686156918305,
+                        0.8350851021560968,
+                        0.1797046276053997
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A line of fixed length (usually 100 mm) with words that anchor the scale at the extreme ends\nand no words describing intermediate positions. Patients are instructed to indicate the place\non the line corresponding to their perceived state. The mark\u2019s position is measured as the\nscore."
+                },
+                {
+                    "bbox": [
+                        0.28901976541756025,
+                        0.178261323408647,
+                        0.8412176393995098,
+                        0.2195568084716797
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A VAS that has the addition of one or more intermediate marks positioned along the line with\nreference terms assigned to eachmark to help patients identify the locations between the\nscale\u2019s ends (e.g., half-way)."
+                },
+                {
+                    "bbox": [
+                        0.28901976541756025,
+                        0.22674658804228812,
+                        0.8203430674434488,
+                        0.2550079846622968
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "An ordered set of discrete terms or statements from which patients are asked to choose the\nresponse that best describes their state or experience."
+                },
+                {
+                    "bbox": [
+                        0.28901976541756025,
+                        0.253564295142588,
+                        0.8385135426240808,
+                        0.29485978020562065
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A set of numerical categories from which patients are asked to choose the category that best\ndescribes their state or experience. The ends of rating scales are anchored with words but the\ncategories are numbered rather than labeled with words."
+                },
+                {
+                    "bbox": [
+                        0.28901976541756025,
+                        0.29333663709235913,
+                        0.8383443994459763,
+                        0.32159803371236784
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Specific events are recorded as they occur using an event log that can be included in a patient\ndiary or other reporting system (e.g., interactive voice response system)."
+                },
+                {
+                    "bbox": [
+                        0.28901976541756025,
+                        0.3418976369530264,
+                        0.8306269926183364,
+                        0.3831930834837634
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A set of pictures applied to any of the other response option types. Pictorial scales are often\nused in pediatric questionnaires but also have been used for patients with cognitive\nimpairments and for patients who are otherwise unable to speak or write."
+                },
+                {
+                    "bbox": [
+                        0.2890195659562653,
+                        0.38174611871892755,
+                        0.8238900876512715,
+                        0.42304156524966463
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Checklists provide a simple choice between a limited set of options, such asYes, No, and\nDon\u2019t know. Some checklists ask patients to place a mark in a space if the statement in the\nitem is true. Checklists are reviewed for completeness and nonredundancy."
+                }
+            ]
+        }
+    ]
+}

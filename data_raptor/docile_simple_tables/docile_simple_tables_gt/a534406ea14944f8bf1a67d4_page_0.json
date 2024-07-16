@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.11048387096774194,
+            0.32957969015706384,
+            0.8998279302079568,
+            0.5009118541033435
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3401853834828002,
+                        0.32957969015706384,
+                        0.437066657743274,
+                        0.3445228499122959
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.8398026888415753,
+                        0.3316551290119572,
+                        0.8998279302079568,
+                        0.34369267437033857
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.11048387096774194,
+                        0.44376899696048633,
+                        0.38870967741935486,
+                        0.4601823708206687
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Ongoing Fixed Expenses"
+                },
+                {
+                    "bbox": [
+                        0.4161290322580645,
+                        0.44376899696048633,
+                        0.6129032258064516,
+                        0.4601823708206687
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$89,167.00"
+                },
+                {
+                    "bbox": [
+                        0.11048387096774194,
+                        0.4601823708206687,
+                        0.38870967741935486,
+                        0.47416413373860183
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Ongoing Variable Expenses"
+                },
+                {
+                    "bbox": [
+                        0.4161290322580645,
+                        0.4601823708206687,
+                        0.6129032258064516,
+                        0.47416413373860183
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "208,760.00"
+                },
+                {
+                    "bbox": [
+                        0.11048387096774194,
+                        0.47416413373860183,
+                        0.38870967741935486,
+                        0.4857142857142857
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Additional AWS Geos"
+                },
+                {
+                    "bbox": [
+                        0.4161290322580645,
+                        0.47416413373860183,
+                        0.6129032258064516,
+                        0.4857142857142857
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10,834.00"
+                },
+                {
+                    "bbox": [
+                        0.11048387096774194,
+                        0.4857142857142857,
+                        0.38870967741935486,
+                        0.5009118541033435
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Frozen Database"
+                },
+                {
+                    "bbox": [
+                        0.4161290322580645,
+                        0.4857142857142857,
+                        0.6129032258064516,
+                        0.5009118541033435
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,500.00"
+                }
+            ]
+        }
+    ]
+}

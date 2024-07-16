@@ -1,0 +1,790 @@
+{
+    "TD": [
+        [
+            0.27423529104024424,
+            0.10796816501934568,
+            0.7235022280396534,
+            0.1413758792107009
+        ],
+        [
+            0.15845283059512869,
+            0.47020277444653724,
+            0.8199473661534926,
+            0.7989531673331725
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 4,
+            "data": [
+                {
+                    "bbox": [
+                        0.3038805536863183,
+                        0.10796816501934568,
+                        0.3680975136636686,
+                        0.12526897693190042
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Products"
+                },
+                {
+                    "bbox": [
+                        0.42247727338005514,
+                        0.10796816501934568,
+                        0.46828618410254724,
+                        0.12526897693190042
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Butter"
+                },
+                {
+                    "bbox": [
+                        0.4936316225709034,
+                        0.10796816501934568,
+                        0.5697412827435662,
+                        0.12526897693190042
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Margarine"
+                },
+                {
+                    "bbox": [
+                        0.5985003815979517,
+                        0.10796816501934568,
+                        0.7235022280396534,
+                        0.12526897693190042
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Low fat products"
+                },
+                {
+                    "bbox": [
+                        0.27423529104024424,
+                        0.12407506729814616,
+                        0.39747535000328255,
+                        0.1413758792107009
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Turnover Ffr. m."
+                },
+                {
+                    "bbox": [
+                        0.4269685376592043,
+                        0.12407506729814616,
+                        0.4639496618960084,
+                        0.1413758792107009
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6028"
+                },
+                {
+                    "bbox": [
+                        0.5132640165441177,
+                        0.12407506729814616,
+                        0.5502451151358981,
+                        0.1413758792107009
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1385"
+                },
+                {
+                    "bbox": [
+                        0.6469468060661765,
+                        0.12407506729814616,
+                        0.6746596905363708,
+                        0.1413758792107009
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "836"
+                }
+            ]
+        },
+        {
+            "page": 4,
+            "data": [
+                {
+                    "bbox": [
+                        0.15845283059512869,
+                        0.47020277444653724,
+                        0.21782462496717436,
+                        0.4881650149963814
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Groups"
+                },
+                {
+                    "bbox": [
+                        0.27945379689961924,
+                        0.47020277444653724,
+                        0.33038319820115547,
+                        0.4881650149963814
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Butter"
+                },
+                {
+                    "bbox": [
+                        0.4609827378216912,
+                        0.47020277444653724,
+                        0.5456999450170693,
+                        0.4881650149963814
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Margarine"
+                },
+                {
+                    "bbox": [
+                        0.6611766142003677,
+                        0.47020277444653724,
+                        0.7967314904477416,
+                        0.4881650149963814
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Low fat products"
+                },
+                {
+                    "bbox": [
+                        0.15847058977399553,
+                        0.4859278445572298,
+                        0.24531670578387604,
+                        0.5032286292866687
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Astra Calv\u00e9"
+                },
+                {
+                    "bbox": [
+                        0.2794715176109506,
+                        0.4872506837097313,
+                        0.35363579758075103,
+                        0.5030859722943883
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 0%"
+                },
+                {
+                    "bbox": [
+                        0.46096381179424895,
+                        0.4872506837097313,
+                        0.6455942875196954,
+                        0.5489836849112975
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 47%\n(Fruit d\u2019or, Plantafin,\nEquilibre, Effi, Astra, ...)"
+                },
+                {
+                    "bbox": [
+                        0.6612493947774423,
+                        0.4872506837097313,
+                        0.7920326040572478,
+                        0.5642353701195071
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 39%\nFruit d\u2019or (8.4%)\nEffi (10.5%)\nPlantafin (20.1%)"
+                },
+                {
+                    "bbox": [
+                        0.15847058977399553,
+                        0.5630299982718787,
+                        0.2143920129086791,
+                        0.5803307830013176
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Besnier"
+                },
+                {
+                    "bbox": [
+                        0.2794715176109506,
+                        0.5643528374243802,
+                        0.4121999532234769,
+                        0.6260858748701009
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 18.1%\nBfpridel (4.4%)\nPr\u00e9sident (13.5%)"
+                },
+                {
+                    "bbox": [
+                        0.46098212234112396,
+                        0.5643528374243802,
+                        0.5351464536009717,
+                        0.5801881260090372
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 0%"
+                },
+                {
+                    "bbox": [
+                        0.6612310842305672,
+                        0.5643528374243802,
+                        0.7906377199317227,
+                        0.6413375600783106
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 9.5%\nBrid\u00e9light (5.6%)\nBrid\u00e9lice (3.2%)\nPr\u00e9sident (0.7%)"
+                },
+                {
+                    "bbox": [
+                        0.15847058977399553,
+                        0.6401320794982185,
+                        0.20117788875804227,
+                        0.6574329367159665
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Cema"
+                },
+                {
+                    "bbox": [
+                        0.46105551839876574,
+                        0.6401320794982185,
+                        0.5911044593618697,
+                        0.6574329367159665
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Primev\u00e8re (1.3%)"
+                },
+                {
+                    "bbox": [
+                        0.15847058977399553,
+                        0.6562365896628192,
+                        0.19306588052701548,
+                        0.673537446880567
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "CLE"
+                },
+                {
+                    "bbox": [
+                        0.2794715432559743,
+                        0.6562365896628192,
+                        0.4223125553932511,
+                        0.673537446880567
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Elles \u00a7 Vire (6.7%)"
+                },
+                {
+                    "bbox": [
+                        0.15847058977399553,
+                        0.6723410998274199,
+                        0.19587388238987002,
+                        0.6896419570451677
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "La\u00efta"
+                },
+                {
+                    "bbox": [
+                        0.2794898794478729,
+                        0.6723410998274199,
+                        0.4406837271041229,
+                        0.6896419570451677
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Paysan Breton (6.3%)"
+                },
+                {
+                    "bbox": [
+                        0.15847058977399553,
+                        0.6884456099920205,
+                        0.2073444654961594,
+                        0.7057464672097684
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Vedial"
+                },
+                {
+                    "bbox": [
+                        0.2794715176109506,
+                        0.689768449144522,
+                        0.35363579758075103,
+                        0.7056038102174881
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 0%"
+                },
+                {
+                    "bbox": [
+                        0.46096381179424895,
+                        0.689768449144522,
+                        0.6425476587119223,
+                        0.7667532080426069
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 19%\n(Prima, St Hubert 41, Le\nFleurier,Mr Tournesol,\nTournolive...)"
+                },
+                {
+                    "bbox": [
+                        0.6612493947774423,
+                        0.6897814245518483,
+                        0.8199473661534926,
+                        0.7667661834499332
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total: 34.8%\nPrima (3.3%)\nSt Hubert 41 (18.7%)\nLe Fleurier (12.8%)"
+                },
+                {
+                    "bbox": [
+                        0.15847058977399553,
+                        0.7655477274625149,
+                        0.24790449382878152,
+                        0.7828485846802627
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Own brands"
+                },
+                {
+                    "bbox": [
+                        0.2794899050928965,
+                        0.7655477274625149,
+                        0.3272626347902442,
+                        0.7828485846802627
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "26.9%"
+                },
+                {
+                    "bbox": [
+                        0.4610188460149685,
+                        0.7655477274625149,
+                        0.5087915244222689,
+                        0.7828485846802627
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "19.4%"
+                },
+                {
+                    "bbox": [
+                        0.661304480288209,
+                        0.7655477274625149,
+                        0.6858607187992385,
+                        0.7828485846802627
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7%"
+                },
+                {
+                    "bbox": [
+                        0.15847058977399553,
+                        0.7816523101154246,
+                        0.20736281451056984,
+                        0.7989531673331725
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Others"
+                },
+                {
+                    "bbox": [
+                        0.2794898794478729,
+                        0.7816523101154246,
+                        0.3271891617975315,
+                        0.7989531673331725
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "42.2%"
+                },
+                {
+                    "bbox": [
+                        0.46094544995732667,
+                        0.7816523101154246,
+                        0.5086448348870798,
+                        0.7989531673331725
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "13.3%"
+                },
+                {
+                    "bbox": [
+                        0.6611576881729254,
+                        0.7816523101154246,
+                        0.6996071695279674,
+                        0.7989531673331725
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.7%"
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,395 @@
+{
+    "TD": [
+        [
+            0.10967741935483871,
+            0.27057356608478805,
+            0.9193548387096774,
+            0.5324189526184538
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.10967741935483871,
+                        0.27057356608478805,
+                        0.15753631272087643,
+                        0.28638392520892897
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Date"
+                },
+                {
+                    "bbox": [
+                        0.2967741935483871,
+                        0.27057356608478805,
+                        0.4008424369515281,
+                        0.28585741964973355
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description"
+                },
+                {
+                    "bbox": [
+                        0.8445697930124648,
+                        0.27826062575179245,
+                        0.9193548387096774,
+                        0.2938302830446374
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Amount"
+                },
+                {
+                    "bbox": [
+                        0.10967741935483871,
+                        0.3110972568578554,
+                        0.27741935483870966,
+                        0.3478802992518703
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "June 16, 1999"
+                },
+                {
+                    "bbox": [
+                        0.2967741935483871,
+                        0.3110972568578554,
+                        0.7637096774193548,
+                        0.3478802992518703
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Professional Services Rendered from March 1999 to May 31, 1999"
+                },
+                {
+                    "bbox": [
+                        0.8290322580645161,
+                        0.3110972568578554,
+                        0.9193548387096774,
+                        0.3478802992518703
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$8,974.50"
+                },
+                {
+                    "bbox": [
+                        0.10967741935483871,
+                        0.3478802992518703,
+                        0.27741935483870966,
+                        0.3721945137157107
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "July 19, 1999"
+                },
+                {
+                    "bbox": [
+                        0.2967741935483871,
+                        0.3478802992518703,
+                        0.7637096774193548,
+                        0.3721945137157107
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Credit Adjustment Per July 19, 1999 Memo"
+                },
+                {
+                    "bbox": [
+                        0.8290322580645161,
+                        0.3478802992518703,
+                        0.9193548387096774,
+                        0.3721945137157107
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(477.88)"
+                },
+                {
+                    "bbox": [
+                        0.2967741935483871,
+                        0.3721945137157107,
+                        0.7637096774193548,
+                        0.38965087281795513
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Invoice Paid"
+                },
+                {
+                    "bbox": [
+                        0.8290322580645161,
+                        0.3721945137157107,
+                        0.9193548387096774,
+                        0.38965087281795513
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(8,974.50)"
+                },
+                {
+                    "bbox": [
+                        0.10967741935483871,
+                        0.38965087281795513,
+                        0.27741935483870966,
+                        0.42830423940149626
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "August 20, 1999"
+                },
+                {
+                    "bbox": [
+                        0.2967741935483871,
+                        0.38965087281795513,
+                        0.7637096774193548,
+                        0.42830423940149626
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Professional Service Rendered from June 1 to June 31, 1999"
+                },
+                {
+                    "bbox": [
+                        0.8290322580645161,
+                        0.38965087281795513,
+                        0.9193548387096774,
+                        0.42830423940149626
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3,819.97"
+                },
+                {
+                    "bbox": [
+                        0.2967741935483871,
+                        0.42830423940149626,
+                        0.7637096774193548,
+                        0.4513715710723192
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Invoice Paid"
+                },
+                {
+                    "bbox": [
+                        0.8290322580645161,
+                        0.42830423940149626,
+                        0.9193548387096774,
+                        0.4513715710723192
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(3,819.97"
+                },
+                {
+                    "bbox": [
+                        0.2967741935483871,
+                        0.4513715710723192,
+                        0.7637096774193548,
+                        0.47194513715710723
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Prior Balance Due"
+                },
+                {
+                    "bbox": [
+                        0.8290322580645161,
+                        0.4513715710723192,
+                        0.9193548387096774,
+                        0.47194513715710723
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(477.88)"
+                },
+                {
+                    "bbox": [
+                        0.10967741935483871,
+                        0.4906483790523691,
+                        0.27741935483870966,
+                        0.5324189526184538
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "September 30, 1999"
+                },
+                {
+                    "bbox": [
+                        0.2967741935483871,
+                        0.4906483790523691,
+                        0.7637096774193548,
+                        0.5324189526184538
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Professional Service Rendered from July 1 to August 31, 1999"
+                },
+                {
+                    "bbox": [
+                        0.8290322580645161,
+                        0.4906483790523691,
+                        0.9193548387096774,
+                        0.5324189526184538
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.634.75"
+                }
+            ]
+        }
+    ]
+}

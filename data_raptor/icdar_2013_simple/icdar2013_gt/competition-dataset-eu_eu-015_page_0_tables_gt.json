@@ -1,0 +1,712 @@
+{
+    "TD": [
+        [
+            0.07181779222646971,
+            0.15468907716895353,
+            0.4229458697901203,
+            0.5132879689961922
+        ],
+        [
+            0.07181779222646971,
+            0.5431366736147584,
+            0.4229458697901203,
+            0.901519006039916
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.15468907716895353,
+                        0.09856757302182304,
+                        0.17163024389443277
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Topic"
+                },
+                {
+                    "bbox": [
+                        0.36854694574858965,
+                        0.15468907716895353,
+                        0.4146123963127227,
+                        0.17163024389443277
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Enquiries"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.18574734214975053,
+                        0.1431094643055968,
+                        0.20268850887522977
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EU Institutions"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.1839329439051011,
+                        0.4229111478900683,
+                        0.20087411063058036
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.597"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.21680728687959558,
+                        0.22305515316489757,
+                        0.23374846642758665
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EU general and Member States"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.21499287581243434,
+                        0.4229111478900683,
+                        0.2319340553604254
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.847"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.24786723160944066,
+                        0.3193658751716523,
+                        0.2648084111574317
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Employment, social affairs and equal opportunities"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.24605282054227942,
+                        0.4229111478900683,
+                        0.26299400009027046
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.783"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.2789271763392857,
+                        0.17270303395468378,
+                        0.2958683558872768
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Air passengers rights"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.2771127652721245,
+                        0.4229111478900683,
+                        0.29405394482011554
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.726"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.3099871210691308,
+                        0.2137116275887025,
+                        0.32692830061712186
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Justice Freedom and Security"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.30817271000196955,
+                        0.4229111478900683,
+                        0.3251138895499606
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.451"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.34104706579897587,
+                        0.2611278253043349,
+                        0.35798824534696694
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Consumer / Food safety / Public health"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.3392326547318146,
+                        0.4229111478900683,
+                        0.35617383427980565
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.241"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.3721070105288209,
+                        0.18554267067807304,
+                        0.38904819007681196
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Enterprise and industry"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.37029259946165966,
+                        0.4229111478900683,
+                        0.3872337790096507
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.215"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.40316695525866597,
+                        0.24559568282827346,
+                        0.42010813480665704
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "External relations and development"
+                },
+                {
+                    "bbox": [
+                        0.40473916241788527,
+                        0.40135254419150473,
+                        0.4229458697901203,
+                        0.4182937237394958
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "732"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.4342268743434874,
+                        0.20859692498793794,
+                        0.45116802824645486
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Education / Training / Youth"
+                },
+                {
+                    "bbox": [
+                        0.40473916241788527,
+                        0.4324124889213498,
+                        0.4229458697901203,
+                        0.4493536428243172
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "714"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.4652868447183561,
+                        0.17745899191378414,
+                        0.48222799862132354
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Customs and taxation"
+                },
+                {
+                    "bbox": [
+                        0.40473916241788527,
+                        0.4634724592962185,
+                        0.4229458697901203,
+                        0.4804136131991859
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "556"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.4963468150932248,
+                        0.09719268726339816,
+                        0.5132879689961922
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.38565781110822445,
+                        0.4963468150932248,
+                        0.41920000017397197,
+                        0.5132879689961922
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14.862"
+                }
+            ]
+        },
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.0718178647147788,
+                        0.5431366736147584,
+                        0.09856764551013213,
+                        0.5600778275177258
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Topic"
+                },
+                {
+                    "bbox": [
+                        0.36854694574858965,
+                        0.5431366736147584,
+                        0.41461243255687724,
+                        0.5600778275177258
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Enquiries"
+                },
+                {
+                    "bbox": [
+                        0.0718178647147788,
+                        0.5683468602284664,
+                        0.36041600460677703,
+                        0.6962104348575368
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Other specific policies including Competition, External\ntrade, Enlargement, Agriculture and rural development,\nRegional policy, Information Society and media, Culture,\nEconomic and monetary affairs, Research and innovation,\nFisheries and maritime affairs, Internal Market and services\nand Environment"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.622597676766019,
+                        0.4229111478900683,
+                        0.6395388306689863
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.330"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.7113372546284139,
+                        0.08651052008332097,
+                        0.7282784085313813
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EIT"
+                },
+                {
+                    "bbox": [
+                        0.40473916241788527,
+                        0.7066987366235556,
+                        0.4229458697901203,
+                        0.7236398905265231
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "119"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.7425971023174895,
+                        0.19274858850764548,
+                        0.7595382562204569
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Research enquiry service"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.7383618266642594,
+                        0.4229111478900683,
+                        0.7553029805672269
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.003"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.7736553801207983,
+                        0.1511480553416345,
+                        0.7905965340237657
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Export Helpdesk"
+                },
+                {
+                    "bbox": [
+                        0.40473916241788527,
+                        0.7694201044675683,
+                        0.4229458697901203,
+                        0.7863612583705357
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "169"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.7956382943802521,
+                        0.36518551787967635,
+                        0.8791329520089286
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Practicalities (Including complaints, OPOCE, mission, history,\nissues not related to the EU, bilateral agreements, national\nauthorities, request for contact details and request for\nclarification)"
+                },
+                {
+                    "bbox": [
+                        0.39561806721811904,
+                        0.8293173910189076,
+                        0.4229111478900683,
+                        0.846258544921875
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.417"
+                },
+                {
+                    "bbox": [
+                        0.07181779222646971,
+                        0.8845778008469013,
+                        0.13054528315673247,
+                        0.901519006039916
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Grand Total"
+                },
+                {
+                    "bbox": [
+                        0.3856625953366241,
+                        0.8845778008469013,
+                        0.4192047844023716,
+                        0.901519006039916
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "23.900"
+                }
+            ]
+        }
+    ]
+}

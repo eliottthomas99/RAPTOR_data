@@ -1,0 +1,395 @@
+{
+    "TD": [
+        [
+            0.18085634888721114,
+            0.13231417911919166,
+            0.8183091107536765,
+            0.24157502815445925
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 2,
+            "data": [
+                {
+                    "bbox": [
+                        0.18085634888721114,
+                        0.13231417911919166,
+                        0.24022811761423318,
+                        0.15027641060799715
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Groups"
+                },
+                {
+                    "bbox": [
+                        0.39543895561154147,
+                        0.13231417911919166,
+                        0.6080026322052259,
+                        0.15027641060799715
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Foreign turnover (FFr bn.)"
+                },
+                {
+                    "bbox": [
+                        0.652508544921875,
+                        0.13231417911919166,
+                        0.8183091107536765,
+                        0.15027641060799715
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "% of Total Turnover"
+                },
+                {
+                    "bbox": [
+                        0.1808571438829438,
+                        0.1480181007657085,
+                        0.2519380970161502,
+                        0.16531892173930188
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Carrefour"
+                },
+                {
+                    "bbox": [
+                        0.47332958574054623,
+                        0.1480181007657085,
+                        0.505667498933167,
+                        0.16531892173930188
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "62.7"
+                },
+                {
+                    "bbox": [
+                        0.7227827312565651,
+                        0.1480181007657085,
+                        0.7704821161863182,
+                        0.16531892173930188
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "40.5%"
+                },
+                {
+                    "bbox": [
+                        0.1808571438829438,
+                        0.16326746634802738,
+                        0.25395692456670166,
+                        0.18056828732162078
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Promod\u00e8s"
+                },
+                {
+                    "bbox": [
+                        0.4733112751936712,
+                        0.16326746634802738,
+                        0.505649188386292,
+                        0.18056828732162078
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "37.0"
+                },
+                {
+                    "bbox": [
+                        0.7227644719997374,
+                        0.16326746634802738,
+                        0.7704638569294906,
+                        0.18056828732162078
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "35.7%"
+                },
+                {
+                    "bbox": [
+                        0.18085716952796743,
+                        0.17851915155623702,
+                        0.2380266205603335,
+                        0.19581997252983038
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Auchan"
+                },
+                {
+                    "bbox": [
+                        0.4732929646467962,
+                        0.17851915155623702,
+                        0.5056308778394171,
+                        0.19581997252983038
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "23.5"
+                },
+                {
+                    "bbox": [
+                        0.7227461101628151,
+                        0.17851915155623702,
+                        0.7704454950925683,
+                        0.19581997252983038
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "19.5%"
+                },
+                {
+                    "bbox": [
+                        0.18085716952796743,
+                        0.19377083676444662,
+                        0.21646187405626313,
+                        0.21107165773804
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Cora"
+                },
+                {
+                    "bbox": [
+                        0.4733296370305935,
+                        0.19377083676444662,
+                        0.5056675502232143,
+                        0.21107165773804
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11.0"
+                },
+                {
+                    "bbox": [
+                        0.7227828338366596,
+                        0.19377083676444662,
+                        0.7704822187664128,
+                        0.21107165773804
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "24.0%"
+                },
+                {
+                    "bbox": [
+                        0.18085716952796743,
+                        0.20902252197265625,
+                        0.23178659647452732,
+                        0.22632334294624962
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Casino"
+                },
+                {
+                    "bbox": [
+                        0.4825795406053046,
+                        0.20902252197265625,
+                        0.5056675502232143,
+                        0.22632334294624962
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.5"
+                },
+                {
+                    "bbox": [
+                        0.7227828338366596,
+                        0.20902252197265625,
+                        0.7704822187664128,
+                        0.22632334294624962
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11.5%"
+                },
+                {
+                    "bbox": [
+                        0.18085716952796743,
+                        0.22427420718086588,
+                        0.3359028792180935,
+                        0.24157502815445925
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Comptoirs Modernes"
+                },
+                {
+                    "bbox": [
+                        0.48265293666294645,
+                        0.22427420718086588,
+                        0.5057409462808561,
+                        0.24157502815445925
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.0"
+                },
+                {
+                    "bbox": [
+                        0.7321244953059348,
+                        0.22427420718086588,
+                        0.7705923384978992,
+                        0.24157502815445925
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.0%"
+                }
+            ]
+        }
+    ]
+}

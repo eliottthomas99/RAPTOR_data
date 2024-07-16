@@ -1,0 +1,1475 @@
+{
+    "TD": [
+        [
+            0.02258064516129032,
+            0.30860349127182046,
+            0.7798387096774193,
+            0.7288029925187033
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.30860349127182046,
+                        0.10241935483870968,
+                        0.32356608478802995
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Run Date"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.30860349127182046,
+                        0.5443548387096774,
+                        0.32356608478802995
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.30860349127182046,
+                        0.7798387096774193,
+                        0.32356608478802995
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1Le"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.33790523690773067,
+                        0.10241935483870968,
+                        0.35224438902743144
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/21/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.33790523690773067,
+                        0.5443548387096774,
+                        0.35224438902743144
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.33790523690773067,
+                        0.7798387096774193,
+                        0.35224438902743144
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.35224438902743144,
+                        0.10241935483870968,
+                        0.3690773067331671
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/21/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.35224438902743144,
+                        0.5443548387096774,
+                        0.3690773067331671
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.35224438902743144,
+                        0.7798387096774193,
+                        0.3690773067331671
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.3690773067331671,
+                        0.10241935483870968,
+                        0.3846633416458853
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/21/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.3690773067331671,
+                        0.5443548387096774,
+                        0.3846633416458853
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.3690773067331671,
+                        0.7798387096774193,
+                        0.3846633416458853
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.3846633416458853,
+                        0.10241935483870968,
+                        0.3983790523690773
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/21/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.3846633416458853,
+                        0.5443548387096774,
+                        0.3983790523690773
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.3846633416458853,
+                        0.7798387096774193,
+                        0.3983790523690773
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.3983790523690773,
+                        0.10241935483870968,
+                        0.4139650872817955
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/21/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.3983790523690773,
+                        0.5443548387096774,
+                        0.4139650872817955
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.3983790523690773,
+                        0.7798387096774193,
+                        0.4139650872817955
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.4139650872817955,
+                        0.10241935483870968,
+                        0.42768079800498754
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/21/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.4139650872817955,
+                        0.5443548387096774,
+                        0.42768079800498754
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.4139650872817955,
+                        0.7798387096774193,
+                        0.42768079800498754
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.42768079800498754,
+                        0.10241935483870968,
+                        0.44139650872817954
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/22/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.42768079800498754,
+                        0.5443548387096774,
+                        0.44139650872817954
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.42768079800498754,
+                        0.7798387096774193,
+                        0.44139650872817954
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.44139650872817954,
+                        0.10241935483870968,
+                        0.45822942643391523
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/22/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.44139650872817954,
+                        0.5443548387096774,
+                        0.45822942643391523
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.44139650872817954,
+                        0.7798387096774193,
+                        0.45822942643391523
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.45822942643391523,
+                        0.10241935483870968,
+                        0.47443890274314215
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/22/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.45822942643391523,
+                        0.5443548387096774,
+                        0.47443890274314215
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.45822942643391523,
+                        0.7798387096774193,
+                        0.47443890274314215
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.47443890274314215,
+                        0.10241935483870968,
+                        0.48815461346633415
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/23/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.47443890274314215,
+                        0.5443548387096774,
+                        0.48815461346633415
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.47443890274314215,
+                        0.7798387096774193,
+                        0.48815461346633415
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.-82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.48815461346633415,
+                        0.10241935483870968,
+                        0.5031172069825436
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/23/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.48815461346633415,
+                        0.5443548387096774,
+                        0.5031172069825436
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.48815461346633415,
+                        0.7798387096774193,
+                        0.5031172069825436
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.5031172069825436,
+                        0.10241935483870968,
+                        0.5187032418952618
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/23/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.5031172069825436,
+                        0.5443548387096774,
+                        0.5187032418952618
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.5031172069825436,
+                        0.7798387096774193,
+                        0.5187032418952618
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.5187032418952618,
+                        0.10241935483870968,
+                        0.5324189526184538
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/26/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.5187032418952618,
+                        0.5443548387096774,
+                        0.5324189526184538
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.5187032418952618,
+                        0.7798387096774193,
+                        0.5324189526184538
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.5324189526184538,
+                        0.10241935483870968,
+                        0.5480049875311721
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/26/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.5324189526184538,
+                        0.5443548387096774,
+                        0.5480049875311721
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.5324189526184538,
+                        0.7798387096774193,
+                        0.5480049875311721
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.5480049875311721,
+                        0.10241935483870968,
+                        0.5635910224438903
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/26/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.5480049875311721,
+                        0.5443548387096774,
+                        0.5635910224438903
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.5480049875311721,
+                        0.7798387096774193,
+                        0.5635910224438903
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.5635910224438903,
+                        0.10241935483870968,
+                        0.5785536159600998
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/27/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.5635910224438903,
+                        0.5443548387096774,
+                        0.5785536159600998
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.5635910224438903,
+                        0.7798387096774193,
+                        0.5785536159600998
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.5785536159600998,
+                        0.10241935483870968,
+                        0.5928927680798005
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/27/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.5785536159600998,
+                        0.5443548387096774,
+                        0.5928927680798005
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.5785536159600998,
+                        0.7798387096774193,
+                        0.5928927680798005
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "447.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.5928927680798005,
+                        0.10241935483870968,
+                        0.6072319201995012
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/27/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.5928927680798005,
+                        0.5443548387096774,
+                        0.6072319201995012
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.5928927680798005,
+                        0.7798387096774193,
+                        0.6072319201995012
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.6072319201995012,
+                        0.10241935483870968,
+                        0.621571072319202
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/28/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.6072319201995012,
+                        0.5443548387096774,
+                        0.621571072319202
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.6072319201995012,
+                        0.7798387096774193,
+                        0.621571072319202
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.621571072319202,
+                        0.10241935483870968,
+                        0.6371571072319202
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/28/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.621571072319202,
+                        0.5443548387096774,
+                        0.6371571072319202
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.621571072319202,
+                        0.7798387096774193,
+                        0.6371571072319202
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.6371571072319202,
+                        0.10241935483870968,
+                        0.6533665835411472
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/28/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.6371571072319202,
+                        0.5443548387096774,
+                        0.6533665835411472
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.6371571072319202,
+                        0.7798387096774193,
+                        0.6533665835411472
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "447.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.6533665835411472,
+                        0.10241935483870968,
+                        0.6683291770573566
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/29/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.6533665835411472,
+                        0.5443548387096774,
+                        0.6683291770573566
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.6533665835411472,
+                        0.7798387096774193,
+                        0.6683291770573566
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.6683291770573566,
+                        0.10241935483870968,
+                        0.6826683291770573
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/29/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.6683291770573566,
+                        0.5443548387096774,
+                        0.6826683291770573
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.6683291770573566,
+                        0.7798387096774193,
+                        0.6826683291770573
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.6826683291770573,
+                        0.10241935483870968,
+                        0.6988778054862843
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/29/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.6826683291770573,
+                        0.5443548387096774,
+                        0.6988778054862843
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.6826683291770573,
+                        0.7798387096774193,
+                        0.6988778054862843
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.6988778054862843,
+                        0.10241935483870968,
+                        0.7119700748129676
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/30/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.6988778054862843,
+                        0.5443548387096774,
+                        0.7119700748129676
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.6988778054862843,
+                        0.7798387096774193,
+                        0.7119700748129676
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58.82"
+                },
+                {
+                    "bbox": [
+                        0.02258064516129032,
+                        0.7119700748129676,
+                        0.10241935483870968,
+                        0.7288029925187033
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/30/20"
+                },
+                {
+                    "bbox": [
+                        0.24758064516129033,
+                        0.7119700748129676,
+                        0.5443548387096774,
+                        0.7288029925187033
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Patriotic Veterans/SRN T 10/21"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.7119700748129676,
+                        0.7798387096774193,
+                        0.7288029925187033
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47.06"
+                }
+            ]
+        }
+    ]
+}

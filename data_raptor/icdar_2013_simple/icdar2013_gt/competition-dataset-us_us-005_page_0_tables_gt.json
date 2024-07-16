@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.12647059072856032,
+            0.4204544683899542,
+            0.7879182404162837,
+            0.513318187058574
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.12647079018985524,
+                        0.4204544683899542,
+                        0.4958433263442096,
+                        0.4413180881076389
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Income level of individual or geography"
+                },
+                {
+                    "bbox": [
+                        0.5176862828871783,
+                        0.4204544683899542,
+                        0.7879182404162837,
+                        0.4413180881076389
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "% of the area median income"
+                },
+                {
+                    "bbox": [
+                        0.12647059072856032,
+                        0.4383333379572088,
+                        0.23216870875140422,
+                        0.45915152809836646
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Low-income"
+                },
+                {
+                    "bbox": [
+                        0.5176471386080473,
+                        0.4383333379572088,
+                        0.6298668057310814,
+                        0.45915152809836646
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Less than 50"
+                },
+                {
+                    "bbox": [
+                        0.12647059072856032,
+                        0.4564393939393939,
+                        0.27890979542451744,
+                        0.47725758408055163
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Moderate-income"
+                },
+                {
+                    "bbox": [
+                        0.5175333459392871,
+                        0.4564393939393939,
+                        0.7596080505770016,
+                        0.47725758408055163
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "At least 50 and less than 80"
+                },
+                {
+                    "bbox": [
+                        0.12647059072856032,
+                        0.47446969542840517,
+                        0.25403505213120403,
+                        0.4952878855695628
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Middle-income"
+                },
+                {
+                    "bbox": [
+                        0.5176586076325062,
+                        0.47446969542840517,
+                        0.770627439411637,
+                        0.4952878855695628
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "At least 80 and less than 120"
+                },
+                {
+                    "bbox": [
+                        0.12647059072856032,
+                        0.49249999691741636,
+                        0.24950197007921007,
+                        0.513318187058574
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Upper-income"
+                },
+                {
+                    "bbox": [
+                        0.5175353405522365,
+                        0.49249999691741636,
+                        0.6232609468347886,
+                        0.513318187058574
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "120 or more"
+                }
+            ]
+        }
+    ]
+}

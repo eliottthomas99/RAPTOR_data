@@ -1,0 +1,606 @@
+{
+    "TD": [
+        [
+            0.19843137928400456,
+            0.44536221423360906,
+            0.8016345748152234,
+            0.6340930909451553
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.321371768364487,
+                        0.44536221423360906,
+                        0.4004536811512771,
+                        0.4582953867764883
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Tax Period"
+                },
+                {
+                    "bbox": [
+                        0.5704228290899359,
+                        0.44536221423360906,
+                        0.6557426206001336,
+                        0.4582953867764883
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Check Date"
+                },
+                {
+                    "bbox": [
+                        0.7238990689526653,
+                        0.44536221423360906,
+                        0.7802997950885856,
+                        0.4582953867764883
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A m ount"
+                },
+                {
+                    "bbox": [
+                        0.19843137928400456,
+                        0.475032047652514,
+                        0.45269976043256455,
+                        0.4879652201953932
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2007 payable 2008 Fall Provisional"
+                },
+                {
+                    "bbox": [
+                        0.5802391983180551,
+                        0.475032047652514,
+                        0.645682838963826,
+                        0.4879652201953932
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "01-22-10"
+                },
+                {
+                    "bbox": [
+                        0.6948667563143424,
+                        0.475032047652514,
+                        0.8015528050614196,
+                        0.4879652201953932
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 45,439.03"
+                },
+                {
+                    "bbox": [
+                        0.19843140491715622,
+                        0.48958956965450884,
+                        0.5115918238448804,
+                        0.502522742197388
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Penalty 2007 payable 2008 Fall Provisional"
+                },
+                {
+                    "bbox": [
+                        0.580108212913059,
+                        0.48958956965450884,
+                        0.6455354996080691,
+                        0.502522742197388
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "01-22-10"
+                },
+                {
+                    "bbox": [
+                        0.7376122411628429,
+                        0.48958956965450884,
+                        0.8012712505235571,
+                        0.502522742197388
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9,087.80"
+                },
+                {
+                    "bbox": [
+                        0.19843140491715622,
+                        0.5041470916565037,
+                        0.4207869223761522,
+                        0.5170802641993829
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2008 payable 2009 Spring Tax"
+                },
+                {
+                    "bbox": [
+                        0.5801900851994695,
+                        0.5041470916565037,
+                        0.6456337258452404,
+                        0.5170802641993829
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "01-22-10"
+                },
+                {
+                    "bbox": [
+                        0.7288430887127493,
+                        0.5041470916565037,
+                        0.8015560861048324,
+                        0.5170802641993829
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "48,989.80"
+                },
+                {
+                    "bbox": [
+                        0.19843140491715622,
+                        0.5187046136584985,
+                        0.3999118988577355,
+                        0.5316377862013777
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2008 payable 2009 FallTax"
+                },
+                {
+                    "bbox": [
+                        0.580329324479301,
+                        0.5187046136584985,
+                        0.645756611174311,
+                        0.5316377862013777
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "01-22-10"
+                },
+                {
+                    "bbox": [
+                        0.7288121238655408,
+                        0.5187046136584985,
+                        0.8014924133561024,
+                        0.5316377862013777
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "48,989.80"
+                },
+                {
+                    "bbox": [
+                        0.19843143055030787,
+                        0.5332621356604934,
+                        0.4798590074125948,
+                        0.5461953082033726
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Penalty 2008 payable 2009 Spring Tax"
+                },
+                {
+                    "bbox": [
+                        0.5801081103804524,
+                        0.5332621356604934,
+                        0.6455353970754625,
+                        0.5461953082033726
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "01-22-10"
+                },
+                {
+                    "bbox": [
+                        0.7378037208057627,
+                        0.5332621356604934,
+                        0.8014790841172378,
+                        0.5461953082033726
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4,898.98"
+                },
+                {
+                    "bbox": [
+                        0.19843140491715622,
+                        0.5478196576624882,
+                        0.4207869223761522,
+                        0.5607528302053674
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2009 payable 2010 Spring Tax"
+                },
+                {
+                    "bbox": [
+                        0.5801900851994695,
+                        0.5478196576624882,
+                        0.6456337258452404,
+                        0.5607528302053674
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "04-14-10"
+                },
+                {
+                    "bbox": [
+                        0.7288430887127493,
+                        0.5478196576624882,
+                        0.8015560861048324,
+                        0.5607528302053674
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "45,328.50"
+                },
+                {
+                    "bbox": [
+                        0.19843140491715622,
+                        0.5623771796644831,
+                        0.3999118988577355,
+                        0.5753103522073623
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2009 payable 2010 FallTax"
+                },
+                {
+                    "bbox": [
+                        0.580329324479301,
+                        0.5623771796644831,
+                        0.645756611174311,
+                        0.5753103522073623
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10-06-10"
+                },
+                {
+                    "bbox": [
+                        0.7288121238655408,
+                        0.5623771796644831,
+                        0.8014924133561024,
+                        0.5753103522073623
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "45,328.50"
+                },
+                {
+                    "bbox": [
+                        0.19843143055030787,
+                        0.576934701666478,
+                        0.42078694800930383,
+                        0.5898678742093572
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2010 payable 2011 Spring Tax"
+                },
+                {
+                    "bbox": [
+                        0.5801900851994695,
+                        0.576934701666478,
+                        0.6456337258452404,
+                        0.5898678742093572
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "04-29-11"
+                },
+                {
+                    "bbox": [
+                        0.7288430887127493,
+                        0.576934701666478,
+                        0.8015560861048324,
+                        0.5898678742093572
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "45,436.50"
+                },
+                {
+                    "bbox": [
+                        0.19843140491715622,
+                        0.5914922236684728,
+                        0.3999118988577355,
+                        0.6044253962113519
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2010 payable 2011 FallTax"
+                },
+                {
+                    "bbox": [
+                        0.580329324479301,
+                        0.5914922236684728,
+                        0.645756611174311,
+                        0.6044253962113519
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10-14-11"
+                },
+                {
+                    "bbox": [
+                        0.7288121238655408,
+                        0.5914922236684728,
+                        0.8014924133561024,
+                        0.6044253962113519
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "45,436.50"
+                },
+                {
+                    "bbox": [
+                        0.19843137928400456,
+                        0.6211599184022761,
+                        0.38545749280092934,
+                        0.6340930909451553
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total Property Taxes paid"
+                },
+                {
+                    "bbox": [
+                        0.6949321721173854,
+                        0.6211599184022761,
+                        0.8016345748152234,
+                        0.6340930909451553
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 338,935.41"
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                }
+            ]
+        }
+    ]
+}

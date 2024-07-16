@@ -1,0 +1,161 @@
+{
+    "TD": [
+        [
+            0.10768377222269618,
+            0.35063663075416257,
+            0.8870967741935484,
+            0.38491674828599415
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.10768377222269618,
+                        0.3507125100361353,
+                        0.17772201543581206,
+                        0.36294254446205265
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Amount"
+                },
+                {
+                    "bbox": [
+                        0.3939650913563073,
+                        0.3512442506633491,
+                        0.48589028557352193,
+                        0.36347428508926644
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.35063663075416257,
+                        0.7677942145063134,
+                        0.3624108038348389
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Each"
+                },
+                {
+                    "bbox": [
+                        0.8274193548387097,
+                        0.35063663075416257,
+                        0.8754780134464789,
+                        0.36347428508926644
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.1282258064516129,
+                        0.37267384916748286,
+                        0.15483870967741936,
+                        0.38491674828599415
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "45"
+                },
+                {
+                    "bbox": [
+                        0.19596774193548386,
+                        0.37267384916748286,
+                        0.5782258064516129,
+                        0.38491674828599415
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "60 second Political Candidate Spots: 10/14 - 19"
+                },
+                {
+                    "bbox": [
+                        0.7258064516129032,
+                        0.37267384916748286,
+                        0.7685483870967742,
+                        0.38491674828599415
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.20"
+                },
+                {
+                    "bbox": [
+                        0.8274193548387097,
+                        0.37267384916748286,
+                        0.8870967741935484,
+                        0.38491674828599415
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "369.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "TD": [
+        [
+            0.14999993642171225,
+            0.26378727760635506,
+            0.810247802734375,
+            0.37912838719472164
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.17228564307803199,
+                        0.26378727760635506,
+                        0.3391051519484747,
+                        0.28948541208475576
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Faculty cluster"
+                },
+                {
+                    "bbox": [
+                        0.41485697428385415,
+                        0.26378727760635506,
+                        0.5845335824148995,
+                        0.28948541208475576
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Population size"
+                },
+                {
+                    "bbox": [
+                        0.6799997238885789,
+                        0.26378727760635506,
+                        0.810247802734375,
+                        0.28948541208475576
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Sample size"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.28701520647321427,
+                        0.24194452194940477,
+                        0.3117670652245273
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Sciences"
+                },
+                {
+                    "bbox": [
+                        0.42742839994884674,
+                        0.28701520647321427,
+                        0.5716145833333334,
+                        0.3117670652245273
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1269 (19.9%)"
+                },
+                {
+                    "bbox": [
+                        0.6828568231491815,
+                        0.28701520647321427,
+                        0.8073290143694196,
+                        0.3117670652245273
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "101(20.4%)"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.3094017221146271,
+                        0.31394446236746654,
+                        0.3341535808659401
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Social Sciences"
+                },
+                {
+                    "bbox": [
+                        0.42742839994884674,
+                        0.3094017221146271,
+                        0.5716145833333334,
+                        0.3341535808659401
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3212 (50.6%)"
+                },
+                {
+                    "bbox": [
+                        0.6828568231491815,
+                        0.3094017221146271,
+                        0.8073290143694196,
+                        0.3341535808659401
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "247(50.0%)"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.33198996151194854,
+                        0.27108730134509856,
+                        0.35674182026326157
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Humanities"
+                },
+                {
+                    "bbox": [
+                        0.42742839994884674,
+                        0.33198996151194854,
+                        0.5716145833333334,
+                        0.35674182026326157
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1168 (18.4%)"
+                },
+                {
+                    "bbox": [
+                        0.6894282749720982,
+                        0.33198996151194854,
+                        0.8010431925455729,
+                        0.35674182026326157
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "95(19.3%)"
+                },
+                {
+                    "bbox": [
+                        0.14999993642171225,
+                        0.3543765284434086,
+                        0.3008015950520833,
+                        0.37912838719472164
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Civil Sciences"
+                },
+                {
+                    "bbox": [
+                        0.4339998154413132,
+                        0.3543765284434086,
+                        0.5650431678408668,
+                        0.37912838719472164
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "705 (11.1%)"
+                },
+                {
+                    "bbox": [
+                        0.6894282749720982,
+                        0.3543765284434086,
+                        0.8010432652064732,
+                        0.37912838719472164
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "51(10.3%)"
+                }
+            ]
+        }
+    ]
+}

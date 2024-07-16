@@ -1,0 +1,89 @@
+{
+    "TD": [
+        [
+            0.1380679060925047,
+            0.3389953069463699,
+            0.8741935483870967,
+            0.46274359168536683
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.2503150869130144,
+                        0.3389953069463699,
+                        0.3345004725283967,
+                        0.35493258604154376
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.796350851946119,
+                        0.3389953069463699,
+                        0.8536436838232542,
+                        0.35118263801914995
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.1380679060925047,
+                        0.39336955327108064,
+                        0.5905643537751845,
+                        0.46274359168536683
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "GROUND TRANSPORTATION SERVICES PROVIDED TO PHILLIP MORRIS PERSONNEL IN THE CALLE 8 MIAMI FESTIVAL THE EVENT WAS SCHEDULED FOR MARCH 14, 1999 AND WAS HELD IN MIAMI FL."
+                },
+                {
+                    "bbox": [
+                        0.8088709677419355,
+                        0.35940530058177117,
+                        0.8741935483870967,
+                        0.37743227417590686
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "619.85"
+                }
+            ]
+        }
+    ]
+}

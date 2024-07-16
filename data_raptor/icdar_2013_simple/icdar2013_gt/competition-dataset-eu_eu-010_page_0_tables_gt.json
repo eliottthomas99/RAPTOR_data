@@ -1,0 +1,413 @@
+{
+    "TD": [
+        [
+            0.3638319255925026,
+            0.2162212815817065,
+            0.6329104127002363,
+            0.3949356985205426
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.2162212815817065,
+                        0.48443049583114495,
+                        0.23260791624526797
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "FEMIP Country"
+                },
+                {
+                    "bbox": [
+                        0.5379832035353204,
+                        0.2162212815817065,
+                        0.6329104127002363,
+                        0.2462895771669945
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Signed TA\n(EURm)"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.24604375118880828,
+                        0.4162214519596901,
+                        0.2593385601270227
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Algeria"
+                },
+                {
+                    "bbox": [
+                        0.5985882414489233,
+                        0.2462403213609709,
+                        0.6328844599363183,
+                        0.26017199446073336
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.19"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.26093690922028095,
+                        0.40678877630153626,
+                        0.2742317181584954
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Egypt"
+                },
+                {
+                    "bbox": [
+                        0.5985882414489233,
+                        0.2611334069041345,
+                        0.6328844599363183,
+                        0.27506508000389696
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.60"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.2759012507712756,
+                        0.5058060846408876,
+                        0.28919605970949
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Gaza & West Bank"
+                },
+                {
+                    "bbox": [
+                        0.5985882414489233,
+                        0.27609774845512913,
+                        0.6328844599363183,
+                        0.29002942155489164
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.60"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.2907943363144392,
+                        0.41534911083574055,
+                        0.3040891452526536
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Jordan"
+                },
+                {
+                    "bbox": [
+                        0.5985882414489233,
+                        0.29099090648660186,
+                        0.6328844599363183,
+                        0.3049225795863643
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.20"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.30575876847582023,
+                        0.4293468315060399,
+                        0.3190535592919574
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Lebanon"
+                },
+                {
+                    "bbox": [
+                        0.5985882414489233,
+                        0.3059552480375965,
+                        0.6328844599363183,
+                        0.31988692113735895
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.57"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.32065185401898383,
+                        0.42838014234013916,
+                        0.333946644835121
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Morocco"
+                },
+                {
+                    "bbox": [
+                        0.58880671653427,
+                        0.32084840606906917,
+                        0.6328846650965073,
+                        0.3347800791688316
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "21.09"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.33561626805828754,
+                        0.4302160439371061,
+                        0.34891105887442475
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Regional"
+                },
+                {
+                    "bbox": [
+                        0.5985882414489233,
+                        0.33581260264344565,
+                        0.6328844599363183,
+                        0.34974427574320816
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.29"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.35058046463266407,
+                        0.40216985109473474,
+                        0.3638752554488012
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Syria"
+                },
+                {
+                    "bbox": [
+                        0.58880671653427,
+                        0.3507770891710585,
+                        0.6328846650965073,
+                        0.36470876227082094
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "33.42"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.3654736951524458,
+                        0.418077279740021,
+                        0.378768485968583
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Tunisia"
+                },
+                {
+                    "bbox": [
+                        0.58880671653427,
+                        0.36567024720253116,
+                        0.6328846650965073,
+                        0.37960192030229367
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14.50"
+                },
+                {
+                    "bbox": [
+                        0.3638319255925026,
+                        0.37854906385698117,
+                        0.4040702242811187,
+                        0.3949356985205426
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.5907301958869485,
+                        0.37854906385698117,
+                        0.6328713809742647,
+                        0.3949356985205426
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "98.46"
+                }
+            ]
+        }
+    ]
+}

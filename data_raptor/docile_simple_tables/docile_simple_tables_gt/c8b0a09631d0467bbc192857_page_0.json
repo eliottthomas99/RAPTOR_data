@@ -1,0 +1,215 @@
+{
+    "TD": [
+        [
+            0.014516129032258065,
+            0.32570120206067543,
+            0.9704795646727216,
+            0.4527761877504293
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.01573011274663326,
+                        0.33644543665631216,
+                        0.06497220482305043,
+                        0.3490682091715562
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.35153382398997807,
+                        0.33353248915279426,
+                        0.43702356717820234,
+                        0.34566977041745206
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.8672079549013466,
+                        0.32570120206067543,
+                        0.9704795646727216,
+                        0.35088723526044646
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "BALANCE PAY LAST AMOUNT IN THIS COLUMN"
+                },
+                {
+                    "bbox": [
+                        0.014516129032258065,
+                        0.35718374356038923,
+                        0.07741935483870968,
+                        0.3772180881511162
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3,036"
+                },
+                {
+                    "bbox": [
+                        0.875,
+                        0.35718374356038923,
+                        0.9653225806451613,
+                        0.3772180881511162
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1821.60"
+                },
+                {
+                    "bbox": [
+                        0.10669119949890386,
+                        0.3612054904362139,
+                        0.3399072189163796,
+                        0.37479924545263055
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Behavior Bank Names"
+                },
+                {
+                    "bbox": [
+                        0.014516129032258065,
+                        0.42014882655981683,
+                        0.07741935483870968,
+                        0.4356038923869491
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.875,
+                        0.42014882655981683,
+                        0.9653225806451613,
+                        0.4356038923869491
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "25.00"
+                },
+                {
+                    "bbox": [
+                        0.10874295333542124,
+                        0.42237738801008884,
+                        0.24552654243658004,
+                        0.4369421255276781
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Cartridge/s"
+                },
+                {
+                    "bbox": [
+                        0.875,
+                        0.4356038923869491,
+                        0.9653225806451613,
+                        0.4527761877504293
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22.00"
+                },
+                {
+                    "bbox": [
+                        0.10805903538991543,
+                        0.43791310802885075,
+                        0.4842139054181021,
+                        0.45102137179468105
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Shipping and Handling Overnight"
+                }
+            ]
+        }
+    ]
+}

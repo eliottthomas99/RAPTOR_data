@@ -1,0 +1,449 @@
+{
+    "TD": [
+        [
+            0.2647058823529412,
+            0.6474823614563605,
+            0.7997799044341044,
+            0.8158298068576388
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.2647058823529412,
+                        0.6474823614563605,
+                        0.30079735649956596,
+                        0.6607103444109059
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Type"
+                },
+                {
+                    "bbox": [
+                        0.6605882332995047,
+                        0.6474823614563605,
+                        0.730660083247166,
+                        0.6607103444109059
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Bil. of lbs."
+                },
+                {
+                    "bbox": [
+                        0.7453971314274408,
+                        0.6474823614563605,
+                        0.7997799044341044,
+                        0.6607103444109059
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Percent"
+                },
+                {
+                    "bbox": [
+                        0.2647058823529412,
+                        0.6663266576901831,
+                        0.4554135191674326,
+                        0.6831893150252525
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Conventional pesticides"
+                },
+                {
+                    "bbox": [
+                        0.6802254969777625,
+                        0.6663266576901831,
+                        0.7026876811108558,
+                        0.6831893150252525
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ".97"
+                },
+                {
+                    "bbox": [
+                        0.7613414689606312,
+                        0.6663266576901831,
+                        0.779328140557981,
+                        0.6831893150252525
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "21"
+                },
+                {
+                    "bbox": [
+                        0.2647058823529412,
+                        0.687534987324416,
+                        0.5288106880935968,
+                        0.7044014208244554
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Other pesticide chemicals (sulfur, petroleum, etc.)"
+                },
+                {
+                    "bbox": [
+                        0.6801960764367596,
+                        0.687538763489386,
+                        0.7026582605698529,
+                        0.7044014208244554
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ".25"
+                },
+                {
+                    "bbox": [
+                        0.7703349294226154,
+                        0.687538763489386,
+                        0.779352674297258,
+                        0.7044014208244554
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6"
+                },
+                {
+                    "bbox": [
+                        0.26471243964301217,
+                        0.7088696258236663,
+                        0.3259095335318372,
+                        0.7255077169399069
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Subtotal"
+                },
+                {
+                    "bbox": [
+                        0.6712271497140523,
+                        0.7088696258236663,
+                        0.7026582605698529,
+                        0.7255077169399069
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.22"
+                },
+                {
+                    "bbox": [
+                        0.7613480013180403,
+                        0.7088696258236663,
+                        0.7793346729153902,
+                        0.7255077169399069
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "27"
+                },
+                {
+                    "bbox": [
+                        0.26471243964301217,
+                        0.7345109419389204,
+                        0.42414551778556475,
+                        0.75137359927399
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Wood preservatives"
+                },
+                {
+                    "bbox": [
+                        0.6802320293351716,
+                        0.7345109419389204,
+                        0.7026942134682649,
+                        0.75137359927399
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ".72"
+                },
+                {
+                    "bbox": [
+                        0.7613480013180403,
+                        0.7345109419389204,
+                        0.7793346729153902,
+                        0.75137359927399
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16"
+                },
+                {
+                    "bbox": [
+                        0.2647124147103503,
+                        0.7557192715731534,
+                        0.40658507004282834,
+                        0.7725819289082229
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Specialty biocides"
+                },
+                {
+                    "bbox": [
+                        0.6802140778186274,
+                        0.7557192715731534,
+                        0.7026762619517208,
+                        0.7725819289082229
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ".26"
+                },
+                {
+                    "bbox": [
+                        0.7703529308044833,
+                        0.7557192715731534,
+                        0.7793706756791258,
+                        0.7725819289082229
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6"
+                },
+                {
+                    "bbox": [
+                        0.26471243964301217,
+                        0.7769276012073864,
+                        0.45410799512676164,
+                        0.7937902585424558
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Chlorine / hypochlorites"
+                },
+                {
+                    "bbox": [
+                        0.6711731954337725,
+                        0.7769276012073864,
+                        0.7026043062895732,
+                        0.7937902585424558
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.32"
+                },
+                {
+                    "bbox": [
+                        0.7612940470377604,
+                        0.7769276012073864,
+                        0.7792807186351103,
+                        0.7937902585424558
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "51"
+                },
+                {
+                    "bbox": [
+                        0.2647124147103503,
+                        0.7992462004073942,
+                        0.30763663497625615,
+                        0.8158298068576388
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.6711552439172284,
+                        0.7992462004073942,
+                        0.702586354773029,
+                        0.8158298068576388
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.52"
+                },
+                {
+                    "bbox": [
+                        0.7524509305268331,
+                        0.7992462004073942,
+                        0.7794065288468903,
+                        0.8158298068576388
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100"
+                }
+            ]
+        }
+    ]
+}

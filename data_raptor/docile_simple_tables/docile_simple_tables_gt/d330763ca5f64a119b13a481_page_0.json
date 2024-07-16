@@ -1,0 +1,161 @@
+{
+    "TD": [
+        [
+            0.04596774193548387,
+            0.3014741543062684,
+            0.9207467097784626,
+            0.44839449541284404
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3656553919215904,
+                        0.3014741543062684,
+                        0.4636774698764746,
+                        0.3163520995837207
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.8568671533584257,
+                        0.3014741543062684,
+                        0.9207467097784626,
+                        0.3147860000808309
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.04596774193548387,
+                        0.3876146788990826,
+                        0.5290322580645161,
+                        0.40309633027522934
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5673-199 Basic Monthly Processing Sep data"
+                },
+                {
+                    "bbox": [
+                        0.5975806451612903,
+                        0.3876146788990826,
+                        0.6701612903225806,
+                        0.40309633027522934
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$10,914.00"
+                },
+                {
+                    "bbox": [
+                        0.04596774193548387,
+                        0.40309633027522934,
+                        0.5290322580645161,
+                        0.4329128440366973
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5673-199 Incremental CRA Processing Charge - modified geographic procedure and report production of additional divisions Sep data"
+                },
+                {
+                    "bbox": [
+                        0.5975806451612903,
+                        0.40309633027522934,
+                        0.6701612903225806,
+                        0.4329128440366973
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$101.00"
+                },
+                {
+                    "bbox": [
+                        0.04596774193548387,
+                        0.4329128440366973,
+                        0.5290322580645161,
+                        0.44839449541284404
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5673-199 Tar/Nicotine Report - Maintenance of Tar History Sep data"
+                },
+                {
+                    "bbox": [
+                        0.5975806451612903,
+                        0.4329128440366973,
+                        0.6701612903225806,
+                        0.44839449541284404
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$302.00"
+                }
+            ]
+        }
+    ]
+}

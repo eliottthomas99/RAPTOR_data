@@ -1,0 +1,269 @@
+{
+    "TD": [
+        [
+            0.24823738546932445,
+            0.1972288651899858,
+            0.7209733451893127,
+            0.3810057206587358
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.33441107257518893,
+                        0.1972288651899858,
+                        0.4055577695759293,
+                        0.21582401160037878
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Organism"
+                },
+                {
+                    "bbox": [
+                        0.5405991498161765,
+                        0.1972288651899858,
+                        0.7209733451893127,
+                        0.21582401160037878
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Wildlife Criterion (pg/L)"
+                },
+                {
+                    "bbox": [
+                        0.24823738546932445,
+                        0.22678028453480115,
+                        0.28732838350183826,
+                        0.24537543094519412
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Mink"
+                },
+                {
+                    "bbox": [
+                        0.6217929615693933,
+                        0.22678028453480115,
+                        0.6398321413526348,
+                        0.24537543094519412
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "57"
+                },
+                {
+                    "bbox": [
+                        0.24823741040198632,
+                        0.2539065582583649,
+                        0.3258962444230622,
+                        0.2725017046687579
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "River otter"
+                },
+                {
+                    "bbox": [
+                        0.6218485115400327,
+                        0.2539065582583649,
+                        0.639887691323274,
+                        0.2725017046687579
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "42"
+                },
+                {
+                    "bbox": [
+                        0.24823741040198632,
+                        0.28103229252979006,
+                        0.32539115855896394,
+                        0.29962743894018307
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Kingfisher"
+                },
+                {
+                    "bbox": [
+                        0.6217929615693933,
+                        0.28103229252979006,
+                        0.6398321413526348,
+                        0.29962743894018307
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "33"
+                },
+                {
+                    "bbox": [
+                        0.24823741040198632,
+                        0.30815856625335386,
+                        0.28631821177364175,
+                        0.32675371266374686
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Loon"
+                },
+                {
+                    "bbox": [
+                        0.6217570086709814,
+                        0.30815856625335386,
+                        0.6397961884542228,
+                        0.32675371266374686
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "82"
+                },
+                {
+                    "bbox": [
+                        0.24823741040198632,
+                        0.33528430052477903,
+                        0.3003346810933032,
+                        0.35387944693517204
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Osprey"
+                },
+                {
+                    "bbox": [
+                        0.6217570086709814,
+                        0.33528430052477903,
+                        0.6397961884542228,
+                        0.35387944693517204
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "82"
+                },
+                {
+                    "bbox": [
+                        0.24823741040198632,
+                        0.3624105742483428,
+                        0.32474171258265677,
+                        0.3810057206587358
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Bald eagle"
+                },
+                {
+                    "bbox": [
+                        0.6172295364679075,
+                        0.3624105742483428,
+                        0.6442523033790339,
+                        0.3810057206587358
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100"
+                }
+            ]
+        }
+    ]
+}

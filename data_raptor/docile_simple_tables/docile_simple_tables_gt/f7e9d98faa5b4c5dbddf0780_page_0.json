@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.0016129032258064516,
+            0.39696048632218844,
+            0.839516129032258,
+            0.435258358662614
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.018024609245094785,
+                        0.3974760809816257,
+                        0.09915405719986697,
+                        0.40835097027430467
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "INVOICE DATE"
+                },
+                {
+                    "bbox": [
+                        0.14081725972730294,
+                        0.39747608098162573,
+                        0.2967783505154639,
+                        0.40886656493374196
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "INVOICE # OR DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.3204626704356502,
+                        0.39747608098162573,
+                        0.38362362820086465,
+                        0.4073197809554302
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "BATCH NO."
+                },
+                {
+                    "bbox": [
+                        0.44927045227801793,
+                        0.39696048632218844,
+                        0.4957702859993348,
+                        0.40783537561486743
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "GROSS"
+                },
+                {
+                    "bbox": [
+                        0.8137470901230462,
+                        0.39696048632218844,
+                        0.839516129032258,
+                        0.41033434650455924
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NET"
+                },
+                {
+                    "bbox": [
+                        0.0016129032258064516,
+                        0.41033434650455924,
+                        0.0935483870967742,
+                        0.435258358662614
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5/10/01"
+                },
+                {
+                    "bbox": [
+                        0.11209677419354838,
+                        0.41033434650455924,
+                        0.2870967741935484,
+                        0.435258358662614
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4TH INSTALLMENT"
+                },
+                {
+                    "bbox": [
+                        0.29516129032258065,
+                        0.41033434650455924,
+                        0.3467741935483871,
+                        0.435258358662614
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "D886"
+                },
+                {
+                    "bbox": [
+                        0.42096774193548386,
+                        0.41033434650455924,
+                        0.5298387096774193,
+                        0.435258358662614
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "64,746.00"
+                },
+                {
+                    "bbox": [
+                        0.7290322580645161,
+                        0.41033434650455924,
+                        0.839516129032258,
+                        0.435258358662614
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "64,746.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "TD": [
+        [
+            0.07258064516129033,
+            0.2589179491350832,
+            0.7443548387096774,
+            0.3367808661926309
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.07258064516129033,
+                        0.26057919553878617,
+                        0.23627678283782982,
+                        0.27472527472527475
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "This is a Progress Bill"
+                },
+                {
+                    "bbox": [
+                        0.6600811714349791,
+                        0.2589179491350832,
+                        0.7443548387096774,
+                        0.27472527472527475
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Invoice Amt"
+                },
+                {
+                    "bbox": [
+                        0.07258064516129033,
+                        0.2837750484809308,
+                        0.25725806451612904,
+                        0.29476405946994183
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Non-Comissionable Charges"
+                },
+                {
+                    "bbox": [
+                        0.682258064516129,
+                        0.2837750484809308,
+                        0.7443548387096774,
+                        0.29476405946994183
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2,151.69"
+                },
+                {
+                    "bbox": [
+                        0.07258064516129033,
+                        0.3031674208144796,
+                        0.25725806451612904,
+                        0.3148028442146089
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Commissionable Charges"
+                },
+                {
+                    "bbox": [
+                        0.682258064516129,
+                        0.3031674208144796,
+                        0.7443548387096774,
+                        0.3148028442146089
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.00"
+                },
+                {
+                    "bbox": [
+                        0.07258064516129033,
+                        0.32320620555914675,
+                        0.25725806451612904,
+                        0.3367808661926309
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Agency Commission"
+                },
+                {
+                    "bbox": [
+                        0.682258064516129,
+                        0.32320620555914675,
+                        0.7443548387096774,
+                        0.3367808661926309
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.050272575339558576,
+            0.3761041404881431,
+            0.9387096774193548,
+            0.4356819650937298
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.050272575339558576,
+                        0.3761041404881431,
+                        0.13474418152235426,
+                        0.38624689063250267
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "SALES CODE"
+                },
+                {
+                    "bbox": [
+                        0.25170486700622524,
+                        0.3762120232708468,
+                        0.34062234719864176,
+                        0.3867951473970626
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.5940371657470289,
+                        0.3762120232708468,
+                        0.6620932371250708,
+                        0.3865210190147826
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.7393830468307867,
+                        0.3761041404881431,
+                        0.7804218838426712,
+                        0.38706927577934264
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "PRICE"
+                },
+                {
+                    "bbox": [
+                        0.8679714028013582,
+                        0.377200654017263,
+                        0.925767764926429,
+                        0.38624689063250267
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.05161290322580645,
+                        0.4078862314156432,
+                        0.09758064516129032,
+                        0.4356819650937298
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "/E02"
+                },
+                {
+                    "bbox": [
+                        0.1532258064516129,
+                        0.4078862314156432,
+                        0.4588709677419355,
+                        0.4356819650937298
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10' x20' CUSTOM VINYL BANNER (FOR WINNER CIRCLE)"
+                },
+                {
+                    "bbox": [
+                        0.589516129032258,
+                        0.4078862314156432,
+                        0.646774193548387,
+                        0.4356819650937298
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.000"
+                },
+                {
+                    "bbox": [
+                        0.667741935483871,
+                        0.4078862314156432,
+                        0.7709677419354839,
+                        0.4356819650937298
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,200.000"
+                },
+                {
+                    "bbox": [
+                        0.8475806451612903,
+                        0.4078862314156432,
+                        0.9387096774193548,
+                        0.4356819650937298
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,200.00"
+                }
+            ]
+        }
+    ]
+}

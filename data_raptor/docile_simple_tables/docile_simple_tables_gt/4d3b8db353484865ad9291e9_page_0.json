@@ -1,0 +1,125 @@
+{
+    "TD": [
+        [
+            0.12338709677419354,
+            0.4488778054862843,
+            0.8104369194693158,
+            0.47880299251870323
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.12338709677419354,
+                        0.4488778054862843,
+                        0.14965949574938053,
+                        0.45926729145267714
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Qty"
+                },
+                {
+                    "bbox": [
+                        0.29516129032258065,
+                        0.4488778054862843,
+                        0.3640839577512139,
+                        0.46062117469553326
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description"
+                },
+                {
+                    "bbox": [
+                        0.7516129032258064,
+                        0.4488778054862843,
+                        0.8104369194693158,
+                        0.45994423307410515
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Line Total"
+                },
+                {
+                    "bbox": [
+                        0.12338709677419354,
+                        0.46633416458852867,
+                        0.19112903225806452,
+                        0.47880299251870323
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22 x 60sec"
+                },
+                {
+                    "bbox": [
+                        0.29516129032258065,
+                        0.46633416458852867,
+                        0.6427419354838709,
+                        0.47880299251870323
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Election Campaign for Christian Wise \u2013 Ga. Attorney Gen."
+                },
+                {
+                    "bbox": [
+                        0.7516129032258064,
+                        0.46633416458852867,
+                        0.7991935483870968,
+                        0.47880299251870323
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$220.00"
+                }
+            ]
+        }
+    ]
+}

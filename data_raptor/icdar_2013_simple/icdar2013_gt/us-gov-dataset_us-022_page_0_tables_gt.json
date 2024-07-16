@@ -1,0 +1,588 @@
+{
+    "TD": [
+        [
+            0.10569444585729529,
+            0.2970873302883572,
+            0.9308935094762731,
+            0.6329187605116102
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.10569444585729529,
+                        0.3059193293253581,
+                        0.14531577781394675,
+                        0.3269873301188151
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "LRP"
+                },
+                {
+                    "bbox": [
+                        0.43525887948495373,
+                        0.30625667572021487,
+                        0.5030322039568865,
+                        0.32732467651367186
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Awards"
+                },
+                {
+                    "bbox": [
+                        0.5796988593207465,
+                        0.30625667572021487,
+                        0.742559305826823,
+                        0.32732467651367186
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Hispanic or Latino"
+                },
+                {
+                    "bbox": [
+                        0.7917077523690683,
+                        0.2970873302883572,
+                        0.9308935094762731,
+                        0.3364939795600043
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Hispanic\nor Latino"
+                },
+                {
+                    "bbox": [
+                        0.10569444585729529,
+                        0.3503303951687283,
+                        0.24948736120153356,
+                        0.3693373786078559
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Clinical Research"
+                },
+                {
+                    "bbox": [
+                        0.4539440013744213,
+                        0.3508560604519314,
+                        0.4846355296947338,
+                        0.369863043891059
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "872"
+                },
+                {
+                    "bbox": [
+                        0.6288342511212385,
+                        0.3508560604519314,
+                        0.6931685271086516,
+                        0.369863043891059
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "36(4%)"
+                },
+                {
+                    "bbox": [
+                        0.8190702085141782,
+                        0.3508560604519314,
+                        0.9036381474247686,
+                        0.369863043891059
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "836(96%)"
+                },
+                {
+                    "bbox": [
+                        0.10569446705005787,
+                        0.39026722378200956,
+                        0.26147624828197336,
+                        0.40927420722113717
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Pediatric Research"
+                },
+                {
+                    "bbox": [
+                        0.4539440296314381,
+                        0.3907928890652127,
+                        0.48463558620876734,
+                        0.4097998725043403
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "412"
+                },
+                {
+                    "bbox": [
+                        0.6288342511212385,
+                        0.3907928890652127,
+                        0.6931685271086516,
+                        0.4097998725043403
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15(4%)"
+                },
+                {
+                    "bbox": [
+                        0.8190702085141782,
+                        0.3907928890652127,
+                        0.9036381474247686,
+                        0.4097998725043403
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "397(96%)"
+                },
+                {
+                    "bbox": [
+                        0.10569446705005787,
+                        0.4302040523952908,
+                        0.3343502751103154,
+                        0.4492110358344184
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Health Disparities Research"
+                },
+                {
+                    "bbox": [
+                        0.4539440296314381,
+                        0.43072971767849394,
+                        0.48463558620876734,
+                        0.44973670111762154
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "232"
+                },
+                {
+                    "bbox": [
+                        0.6237251564308449,
+                        0.43072971767849394,
+                        0.6982776783130787,
+                        0.44973670111762154
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "30 (13%)"
+                },
+                {
+                    "bbox": [
+                        0.8190702650282118,
+                        0.43072971767849394,
+                        0.9036382039388021,
+                        0.44973670111762154
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "202(87%)"
+                },
+                {
+                    "bbox": [
+                        0.10569452356409144,
+                        0.46350089179144965,
+                        0.36753192477756075,
+                        0.515846210055881
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Clinical Research for Individuals\nfrom Disadvantaged\nBackgrounds"
+                },
+                {
+                    "bbox": [
+                        0.45903472900390624,
+                        0.4806957244873047,
+                        0.4795080679434317,
+                        0.4997027079264323
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "26"
+                },
+                {
+                    "bbox": [
+                        0.6574785020616319,
+                        0.4806957244873047,
+                        0.6646534107349537,
+                        0.4997027079264323
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "*"
+                },
+                {
+                    "bbox": [
+                        0.8577298764829282,
+                        0.4806957244873047,
+                        0.86490478515625,
+                        0.4997027079264323
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "*"
+                },
+                {
+                    "bbox": [
+                        0.105694580078125,
+                        0.5235098944769965,
+                        0.32929659242983217,
+                        0.559186045328776
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Contraception and Infertility\nResearch"
+                },
+                {
+                    "bbox": [
+                        0.4590532656069155,
+                        0.5323632134331597,
+                        0.47952660454644097,
+                        0.5513701968722873
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "30"
+                },
+                {
+                    "bbox": [
+                        0.6574970386646412,
+                        0.5323632134331597,
+                        0.664671947337963,
+                        0.5513701968722873
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "*"
+                },
+                {
+                    "bbox": [
+                        0.8577484130859375,
+                        0.5323632134331597,
+                        0.8649233217592592,
+                        0.5513701968722873
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "*"
+                },
+                {
+                    "bbox": [
+                        0.10571311668113426,
+                        0.5735450320773654,
+                        0.15014579207808884,
+                        0.5925935109456381
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.44617911444769964,
+                        0.5740706973605686,
+                        0.49219801161024307,
+                        0.5931191762288411
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,572"
+                },
+                {
+                    "bbox": [
+                        0.6508386682581019,
+                        0.5740706973605686,
+                        0.6713120071976273,
+                        0.5931191762288411
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "86"
+                },
+                {
+                    "bbox": [
+                        0.8377361156322338,
+                        0.5773472256130643,
+                        0.8847754584418402,
+                        0.5926805708143447
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,486"
+                },
+                {
+                    "bbox": [
+                        0.10569444585729529,
+                        0.6134552849663628,
+                        0.26699114199037904,
+                        0.6325037638346355
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Percent of Awards"
+                },
+                {
+                    "bbox": [
+                        0.647702874077691,
+                        0.6139117770724827,
+                        0.674318214699074,
+                        0.6329187605116102
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5%"
+                },
+                {
+                    "bbox": [
+                        0.8428450972945601,
+                        0.6139117770724827,
+                        0.8796786838107639,
+                        0.6329187605116102
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "95%"
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                }
+            ]
+        }
+    ]
+}

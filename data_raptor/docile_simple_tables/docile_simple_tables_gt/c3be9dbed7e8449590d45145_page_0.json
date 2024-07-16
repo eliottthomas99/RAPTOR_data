@@ -1,0 +1,89 @@
+{
+    "TD": [
+        [
+            0.04435483870967742,
+            0.2886542726869371,
+            0.925393193485471,
+            0.384
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3642039274965172,
+                        0.28927473803594883,
+                        0.46313432852109093,
+                        0.30602730245926635
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.8562294617957247,
+                        0.2886542726869371,
+                        0.925393193485471,
+                        0.30602730245926635
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.04435483870967742,
+                        0.36914285714285716,
+                        0.4330645161290322,
+                        0.384
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5673-1499 Computer Access and Storage (Disk Usage) Jan-00"
+                },
+                {
+                    "bbox": [
+                        0.6032258064516128,
+                        0.36914285714285716,
+                        0.6725806451612903,
+                        0.384
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$5,060.00"
+                }
+            ]
+        }
+    ]
+}

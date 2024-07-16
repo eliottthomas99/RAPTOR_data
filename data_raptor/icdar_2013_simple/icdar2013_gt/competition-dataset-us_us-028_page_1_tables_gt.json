@@ -1,0 +1,449 @@
+{
+    "TD": [
+        [
+            0.5435294357000613,
+            0.4051628112792969,
+            0.8823638118170445,
+            0.5348429439043758
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.5435294357000613,
+                        0.4051628112792969,
+                        0.6071612289528442,
+                        0.42203991822522097
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Buildings"
+                },
+                {
+                    "bbox": [
+                        0.801960764367596,
+                        0.4051628112792969,
+                        0.8235482109917535,
+                        0.42203991822522097
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "n ="
+                },
+                {
+                    "bbox": [
+                        0.8687254463145936,
+                        0.4051628112792969,
+                        0.8823638118170445,
+                        0.42203991822522097
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "%"
+                },
+                {
+                    "bbox": [
+                        0.5440196118323631,
+                        0.4237234327528212,
+                        0.6425739363128063,
+                        0.44060053969874524
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "IHE Residence"
+                },
+                {
+                    "bbox": [
+                        0.8065686194725286,
+                        0.4237234327528212,
+                        0.8229903177498212,
+                        0.44060053969874524
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "60"
+                },
+                {
+                    "bbox": [
+                        0.853137246923509,
+                        0.4237234327528212,
+                        0.8818151935253268,
+                        0.44060053969874524
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "27.7"
+                },
+                {
+                    "bbox": [
+                        0.5440196118323631,
+                        0.439253720370206,
+                        0.7364999609055862,
+                        0.45613082731613
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "IHE Grounds & Parking Lots"
+                },
+                {
+                    "bbox": [
+                        0.8065686194725286,
+                        0.439253720370206,
+                        0.8229903177498212,
+                        0.45613082731613
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "58"
+                },
+                {
+                    "bbox": [
+                        0.853137246923509,
+                        0.439253720370206,
+                        0.8818151935253268,
+                        0.45613082731613
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "26.7"
+                },
+                {
+                    "bbox": [
+                        0.5440196118323631,
+                        0.45501130999940814,
+                        0.7300247491574755,
+                        0.47188841694533223
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Administrative or Academic"
+                },
+                {
+                    "bbox": [
+                        0.8065686194725286,
+                        0.45501130999940814,
+                        0.8229903177498212,
+                        0.47188841694533223
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "56"
+                },
+                {
+                    "bbox": [
+                        0.853137246923509,
+                        0.45501130999940814,
+                        0.8818151935253268,
+                        0.47188841694533223
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "25.8"
+                },
+                {
+                    "bbox": [
+                        0.5440196118323631,
+                        0.47031433413727114,
+                        0.7242150400199142,
+                        0.48719144108319523
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Student/Employee Services"
+                },
+                {
+                    "bbox": [
+                        0.8065686194725286,
+                        0.47031433413727114,
+                        0.8229903177498212,
+                        0.48719144108319523
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22"
+                },
+                {
+                    "bbox": [
+                        0.853137246923509,
+                        0.47031433413727114,
+                        0.8818151935253268,
+                        0.48719144108319523
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10.1"
+                },
+                {
+                    "bbox": [
+                        0.5440196118323631,
+                        0.4855416037819602,
+                        0.6793224359649459,
+                        0.5024187107278844
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Other/Undetermined"
+                },
+                {
+                    "bbox": [
+                        0.8065686194725286,
+                        0.4855416037819602,
+                        0.8229903177498212,
+                        0.5024187107278844
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15"
+                },
+                {
+                    "bbox": [
+                        0.8613725051381229,
+                        0.4855416037819602,
+                        0.8818136975656148,
+                        0.5024187107278844
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.9"
+                },
+                {
+                    "bbox": [
+                        0.5440196118323631,
+                        0.5012991548788668,
+                        0.7324951271605648,
+                        0.5181762618247909
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Multiple Facilities/Buildings"
+                },
+                {
+                    "bbox": [
+                        0.8148039275524663,
+                        0.5012991548788668,
+                        0.8229902180191738,
+                        0.5181762618247909
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6"
+                },
+                {
+                    "bbox": [
+                        0.8613725051381229,
+                        0.5012991548788668,
+                        0.8818136975656148,
+                        0.5181762618247909
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.8"
+                },
+                {
+                    "bbox": [
+                        0.7225490395539726,
+                        0.5179658369584517,
+                        0.7570921455333436,
+                        0.5348429439043758
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.798431396484375,
+                        0.5179658369584517,
+                        0.8229901182885263,
+                        0.5348429439043758
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "217"
+                },
+                {
+                    "bbox": [
+                        0.8450000239353553,
+                        0.5179658369584517,
+                        0.8818135978349673,
+                        0.5348429439043758
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.0"
+                }
+            ]
+        }
+    ]
+}

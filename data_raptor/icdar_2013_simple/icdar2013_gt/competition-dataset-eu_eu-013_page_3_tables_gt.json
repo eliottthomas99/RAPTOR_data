@@ -1,0 +1,552 @@
+{
+    "TD": [
+        [
+            0.12322840329979648,
+            0.13054955996696851,
+            0.8698205258665966,
+            0.33775376707244653
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 3,
+            "data": [
+                {
+                    "bbox": [
+                        0.6627238810563287,
+                        0.13054955996696851,
+                        0.7852698574547007,
+                        0.16046140765917272
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Number of\nparticipants (*)"
+                },
+                {
+                    "bbox": [
+                        0.8045053177521009,
+                        0.13054955996696851,
+                        0.8698205258665966,
+                        0.16046140765917272
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Females\n(%)"
+                },
+                {
+                    "bbox": [
+                        0.12322840329979648,
+                        0.1670340857426514,
+                        0.640527548910189,
+                        0.1815542008134928
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Vocational further education and training, not apprenticeship training"
+                },
+                {
+                    "bbox": [
+                        0.723418420102416,
+                        0.1670340857426514,
+                        0.7745177709755777,
+                        0.1815542008134928
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "79 935"
+                },
+                {
+                    "bbox": [
+                        0.8302001953125,
+                        0.1670340857426514,
+                        0.8487733472295168,
+                        0.1815542008134928
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "55"
+                },
+                {
+                    "bbox": [
+                        0.12322840329979648,
+                        0.18655902925976098,
+                        0.6121055795365021,
+                        0.20107914433060237
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Vocational further education and training, apprenticeship training"
+                },
+                {
+                    "bbox": [
+                        0.7327106379661239,
+                        0.18655902925976098,
+                        0.7745197199973739,
+                        0.20107914433060237
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2 961"
+                },
+                {
+                    "bbox": [
+                        0.8302040420660451,
+                        0.18655902925976098,
+                        0.8487790404247637,
+                        0.20107914433060237
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "73"
+                },
+                {
+                    "bbox": [
+                        0.12322840329979648,
+                        0.20608397277687054,
+                        0.295242694245667,
+                        0.22060408784771193
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Labour market training"
+                },
+                {
+                    "bbox": [
+                        0.7234110343356093,
+                        0.20608397277687054,
+                        0.7745327989594275,
+                        0.22060408784771193
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "51 955"
+                },
+                {
+                    "bbox": [
+                        0.8302208652015494,
+                        0.20608397277687054,
+                        0.8487996077337185,
+                        0.22060408784771193
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "52"
+                },
+                {
+                    "bbox": [
+                        0.12322840329979648,
+                        0.2256089162939801,
+                        0.34908011300223213,
+                        0.24012903136482147
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Courses ordered by employers"
+                },
+                {
+                    "bbox": [
+                        0.7141356396074054,
+                        0.2256089162939801,
+                        0.7745216177291229,
+                        0.24012903136482147
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "298 839"
+                },
+                {
+                    "bbox": [
+                        0.8302021956243435,
+                        0.2256089162939801,
+                        0.8487735010996587,
+                        0.24012903136482147
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "43"
+                },
+                {
+                    "bbox": [
+                        0.12322840329979648,
+                        0.24513385981108968,
+                        0.40935358640526526,
+                        0.25965397488193104
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Courses organised as liberal education"
+                },
+                {
+                    "bbox": [
+                        0.7001954150800945,
+                        0.24513385981108968,
+                        0.7745251054523372,
+                        0.25965397488193104
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1 649 692"
+                },
+                {
+                    "bbox": [
+                        0.8302075297892595,
+                        0.24513385981108968,
+                        0.8487806817062763,
+                        0.25965397488193104
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "72"
+                },
+                {
+                    "bbox": [
+                        0.12322840329979648,
+                        0.26465880332819924,
+                        0.33884249134224004,
+                        0.2791789183990406
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Open polytechnics education"
+                },
+                {
+                    "bbox": [
+                        0.7234631450236344,
+                        0.26465880332819924,
+                        0.7745477756532301,
+                        0.2791789183990406
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "13 560"
+                },
+                {
+                    "bbox": [
+                        0.8302265583967963,
+                        0.26465880332819924,
+                        0.8487960174304097,
+                        0.2791789183990406
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "66"
+                },
+                {
+                    "bbox": [
+                        0.12322840329979648,
+                        0.2841837468453088,
+                        0.3190706653755252,
+                        0.29870386191615017
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Open university education"
+                },
+                {
+                    "bbox": [
+                        0.7234612472918855,
+                        0.2841837468453088,
+                        0.7745680352219012,
+                        0.29870386191615017
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "57 986"
+                },
+                {
+                    "bbox": [
+                        0.8302523572905725,
+                        0.2841837468453088,
+                        0.848827355649291,
+                        0.29870386191615017
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "80"
+                },
+                {
+                    "bbox": [
+                        0.12322840329979648,
+                        0.30370854538580017,
+                        0.24247344201352417,
+                        0.31822867857871884
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Other education"
+                },
+                {
+                    "bbox": [
+                        0.7234983299960609,
+                        0.30370854538580017,
+                        0.774590295102416,
+                        0.31822867857871884
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "91 568"
+                },
+                {
+                    "bbox": [
+                        0.8302708729976366,
+                        0.30370854538580017,
+                        0.8488421784729517,
+                        0.31822867857871884
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "55"
+                },
+                {
+                    "bbox": [
+                        0.6036317456670168,
+                        0.3232336338795279,
+                        0.6458960268677784,
+                        0.33775376707244653
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.7004423253676471,
+                        0.3232336338795279,
+                        0.7746607163373161,
+                        0.33775376707244653
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2 246 496"
+                },
+                {
+                    "bbox": [
+                        0.8303246249671744,
+                        0.3232336338795279,
+                        0.8488792098870799,
+                        0.33775376707244653
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "66"
+                },
+                {
+                    "bbox": [],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                }
+            ]
+        }
+    ]
+}

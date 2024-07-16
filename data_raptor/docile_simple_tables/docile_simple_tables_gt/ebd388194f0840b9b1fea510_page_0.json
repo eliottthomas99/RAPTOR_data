@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.03975971998864818,
+            0.3495031426111582,
+            0.8857582064137735,
+            0.4271948608137045
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.03975971998864818,
+                        0.35194722053151595,
+                        0.1347412732948633,
+                        0.3695445815580918
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "December 1999"
+                },
+                {
+                    "bbox": [
+                        0.526448144294138,
+                        0.3495031426111582,
+                        0.5934506353861193,
+                        0.3710110283103064
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.6243748620439568,
+                        0.35341366728373064,
+                        0.6552990887017942,
+                        0.3700333971421633
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT"
+                },
+                {
+                    "bbox": [
+                        0.7105209220193611,
+                        0.35145840494744446,
+                        0.7838803183576352,
+                        0.3726593425424578
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UNIT PRICE"
+                },
+                {
+                    "bbox": [
+                        0.8113928042127834,
+                        0.35145840494744446,
+                        0.8857582064137735,
+                        0.3700333971421633
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "ITEM PRICE"
+                },
+                {
+                    "bbox": [
+                        0.054838709677419356,
+                        0.4079229122055675,
+                        0.16048387096774194,
+                        0.4271948608137045
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Monthly Update"
+                },
+                {
+                    "bbox": [
+                        0.575,
+                        0.4079229122055675,
+                        0.6112903225806452,
+                        0.4271948608137045
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.00"
+                },
+                {
+                    "bbox": [
+                        0.6112903225806452,
+                        0.4079229122055675,
+                        0.6459677419354839,
+                        0.4271948608137045
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EACH"
+                },
+                {
+                    "bbox": [
+                        0.6701612903225806,
+                        0.4079229122055675,
+                        0.7596774193548387,
+                        0.4271948608137045
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$13,000.0000"
+                },
+                {
+                    "bbox": [
+                        0.8048387096774193,
+                        0.4079229122055675,
+                        0.8790322580645161,
+                        0.4271948608137045
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$13,000.00"
+                }
+            ]
+        }
+    ]
+}

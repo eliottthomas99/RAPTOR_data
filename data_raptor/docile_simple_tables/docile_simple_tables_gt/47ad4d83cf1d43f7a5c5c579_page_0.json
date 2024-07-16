@@ -1,0 +1,71 @@
+{
+    "TD": [
+        [
+            0.2306451612903226,
+            0.32751091703056767,
+            0.7920998051195329,
+            0.4067373674360574
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3352201231137235,
+                        0.32751091703056767,
+                        0.462131145893115,
+                        0.3445524601390624
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.7064516129032258,
+                        0.32751091703056767,
+                        0.7920998051195329,
+                        0.3459824529297372
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.2306451612903226,
+                        0.3624454148471616,
+                        0.5838709677419355,
+                        0.4067373674360574
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "To invoice amount upon the Research Agreement under the direction of Dr. Aaron P. Fox for the second quarter."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "TD": [
+        [
+            0.11764705882352941,
+            0.6116623926644373,
+            0.8639608146318423,
+            0.7698017467151989
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.2738235324036841,
+                        0.6116623926644373,
+                        0.3358629264083563,
+                        0.6285894759977707
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Funder"
+                },
+                {
+                    "bbox": [
+                        0.5162744958416309,
+                        0.6116623926644373,
+                        0.6284933651194853,
+                        0.6285894759977707
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Delay Period"
+                },
+                {
+                    "bbox": [
+                        0.7292156842798968,
+                        0.6116623926644373,
+                        0.7999638077480341,
+                        0.6285894759977707
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Funding"
+                },
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.6357532848011364,
+                        0.4475850123985141,
+                        0.670104672210385
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NIH Public Access Requirement (Sec.\n218)"
+                },
+                {
+                    "bbox": [
+                        0.5007843316770068,
+                        0.6357532848011364,
+                        0.6042972140842013,
+                        0.6526803681344697
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "up to 12 mo"
+                },
+                {
+                    "bbox": [
+                        0.6527451159907323,
+                        0.6357532848011364,
+                        0.8639608146318423,
+                        0.6526803681344697
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "allowable cost for grants"
+                },
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.6772684424814551,
+                        0.40521876017252606,
+                        0.6941955258147885
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Howard Hughes Medical Institute"
+                },
+                {
+                    "bbox": [
+                        0.5007843316770068,
+                        0.6772684424814551,
+                        0.5933952580869587,
+                        0.6941955258147885
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "up to 6 mo"
+                },
+                {
+                    "bbox": [
+                        0.6527451159907323,
+                        0.6772684424814551,
+                        0.7811795402975643,
+                        0.6941955258147885
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "dedicated fund"
+                },
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.7024956905480587,
+                        0.36261120964499083,
+                        0.7194227738813921
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "European Research Council"
+                },
+                {
+                    "bbox": [
+                        0.5007843316770068,
+                        0.7024956905480587,
+                        0.5933952580869587,
+                        0.7194227738813921
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "up to 6 mo"
+                },
+                {
+                    "bbox": [
+                        0.6527451159907323,
+                        0.7024956905480587,
+                        0.8639608146318423,
+                        0.7194227738813921
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "allowable cost for grants"
+                },
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.7276472611860796,
+                        0.37798379137625104,
+                        0.7445743445194128
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UK Medical Research Council"
+                },
+                {
+                    "bbox": [
+                        0.5007843316770068,
+                        0.7276472611860796,
+                        0.5933952580869587,
+                        0.7445743445194128
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "up to 6 mo"
+                },
+                {
+                    "bbox": [
+                        0.6527451159907323,
+                        0.7276472611860796,
+                        0.8639608146318423,
+                        0.7445743445194128
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "allowable cost for grants"
+                },
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.7528746633818655,
+                        0.2537810381721048,
+                        0.7698017467151989
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Wellcome Trust"
+                },
+                {
+                    "bbox": [
+                        0.5007843316770068,
+                        0.7528746633818655,
+                        0.5933952580869587,
+                        0.7698017467151989
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "up to 6 mo"
+                },
+                {
+                    "bbox": [
+                        0.6527451159907323,
+                        0.7528746633818655,
+                        0.7811795402975643,
+                        0.7698017467151989
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "dedicated fund"
+                }
+            ]
+        }
+    ]
+}

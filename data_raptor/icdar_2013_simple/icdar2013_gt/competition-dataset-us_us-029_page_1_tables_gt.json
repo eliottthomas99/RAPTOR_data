@@ -1,0 +1,665 @@
+{
+    "TD": [
+        [
+            0.25284314623066023,
+            0.6164506854433002,
+            0.7471677493425756,
+            0.81226718786991
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 1,
+            "data": [
+                {
+                    "bbox": [
+                        0.25284314623066023,
+                        0.6164506854433002,
+                        0.3228965958738639,
+                        0.6333277923892243
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Categories"
+                },
+                {
+                    "bbox": [
+                        0.6520588195401859,
+                        0.6164506854433002,
+                        0.6736455181844874,
+                        0.6333277923892243
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "n ="
+                },
+                {
+                    "bbox": [
+                        0.7335294337054483,
+                        0.6164506854433002,
+                        0.7471677493425756,
+                        0.6333277923892243
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "%"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.637208225751164,
+                        0.4847862393248315,
+                        0.654085332697088
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Related to an Intimate Relationship"
+                },
+                {
+                    "bbox": [
+                        0.6566666746451184,
+                        0.637208225751164,
+                        0.6730883729224112,
+                        0.654085332697088
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "77"
+                },
+                {
+                    "bbox": [
+                        0.71794118444904,
+                        0.637208225751164,
+                        0.7466292038462521,
+                        0.654085332697088
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "33.9"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.6529658153803661,
+                        0.4717862496968188,
+                        0.6698429608585859
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Retaliation for Specific Action(s)"
+                },
+                {
+                    "bbox": [
+                        0.6566666746451184,
+                        0.6529658153803661,
+                        0.6730883729224112,
+                        0.6698429608585859
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "31"
+                },
+                {
+                    "bbox": [
+                        0.71794118444904,
+                        0.6529658153803661,
+                        0.7466292038462521,
+                        0.6698429608585859
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "13.7"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.6686476119840988,
+                        0.5684579587450215,
+                        0.6855247574623184
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Refused Advances or Obsession with the Target"
+                },
+                {
+                    "bbox": [
+                        0.6566666746451184,
+                        0.6686476119840988,
+                        0.6730883729224112,
+                        0.6855247574623184
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "23"
+                },
+                {
+                    "bbox": [
+                        0.71794118444904,
+                        0.6686476119840988,
+                        0.7466292038462521,
+                        0.6855247574623184
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10.1"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.6844051630810054,
+                        0.4970664230047488,
+                        0.701282308559225
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Response to Academic Stress/Failure"
+                },
+                {
+                    "bbox": [
+                        0.6566666746451184,
+                        0.6844051630810054,
+                        0.6730883729224112,
+                        0.701282308559225
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "23"
+                },
+                {
+                    "bbox": [
+                        0.71794118444904,
+                        0.6844051630810054,
+                        0.7466292038462521,
+                        0.701282308559225
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10.1"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.7000870367493293,
+                        0.5587013593686172,
+                        0.7169641822275489
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Acquaintance/Stranger Based Sexual Violence"
+                },
+                {
+                    "bbox": [
+                        0.6566666746451184,
+                        0.7000870367493293,
+                        0.6730883729224112,
+                        0.7169641822275489
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22"
+                },
+                {
+                    "bbox": [
+                        0.7261764925289778,
+                        0.7000870367493293,
+                        0.7466177348217933,
+                        0.7169641822275489
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.7"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.7158445878462358,
+                        0.3719233593909569,
+                        0.7327217333244554
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Psychotic Actions"
+                },
+                {
+                    "bbox": [
+                        0.6566666746451184,
+                        0.7158445878462358,
+                        0.6730883729224112,
+                        0.7327217333244554
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "18"
+                },
+                {
+                    "bbox": [
+                        0.7261764925289778,
+                        0.7158445878462358,
+                        0.7466177348217933,
+                        0.7327217333244554
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.9"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.7315263844499684,
+                        0.4553607616549224,
+                        0.7484035299281881
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Workplace Dismissal/Sanction"
+                },
+                {
+                    "bbox": [
+                        0.6566666746451184,
+                        0.7315263844499684,
+                        0.6730883729224112,
+                        0.7484035299281881
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14"
+                },
+                {
+                    "bbox": [
+                        0.7261764925289778,
+                        0.7315263844499684,
+                        0.7466177348217933,
+                        0.7484035299281881
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.2"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.7472840126114663,
+                        0.4869944753210529,
+                        0.7641611580896859
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Need to Kill / Specific Victimology"
+                },
+                {
+                    "bbox": [
+                        0.6649019827250562,
+                        0.7472840126114663,
+                        0.6730882731917637,
+                        0.7641611580896859
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7"
+                },
+                {
+                    "bbox": [
+                        0.7261764925289778,
+                        0.7472840126114663,
+                        0.7466177348217933,
+                        0.7641611580896859
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.7629658092151989,
+                        0.4580678004844516,
+                        0.7798429546934186
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Draw Attention to Self/Issue(s)"
+                },
+                {
+                    "bbox": [
+                        0.6649019827250562,
+                        0.7629658092151989,
+                        0.6730882731917637,
+                        0.7798429546934186
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7"
+                },
+                {
+                    "bbox": [
+                        0.7261764925289778,
+                        0.7629658092151989,
+                        0.7466177348217933,
+                        0.7798429546934186
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1"
+                },
+                {
+                    "bbox": [
+                        0.25333332236296213,
+                        0.7787233603121054,
+                        0.33638304666756025,
+                        0.7956005057903252
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Bias Related"
+                },
+                {
+                    "bbox": [
+                        0.6649019827250562,
+                        0.7787233603121054,
+                        0.6730882731917637,
+                        0.7956005057903252
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5"
+                },
+                {
+                    "bbox": [
+                        0.7261764925289778,
+                        0.7787233603121054,
+                        0.7466177348217933,
+                        0.7956005057903252
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.2"
+                },
+                {
+                    "bbox": [
+                        0.5760784273833232,
+                        0.7953900423916903,
+                        0.6106342988855699,
+                        0.81226718786991
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.6485294017916411,
+                        0.7953900423916903,
+                        0.6730881235957925,
+                        0.81226718786991
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "227"
+                },
+                {
+                    "bbox": [
+                        0.722058813556347,
+                        0.7953900423916903,
+                        0.7466175353604984,
+                        0.81226718786991
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100"
+                }
+            ]
+        }
+    ]
+}

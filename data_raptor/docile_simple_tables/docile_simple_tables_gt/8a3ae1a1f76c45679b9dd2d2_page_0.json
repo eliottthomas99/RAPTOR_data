@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.05241935483870968,
+            0.37945442792501616,
+            0.932258064516129,
+            0.4544279250161603
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.05281611454820087,
+                        0.3796147382029735,
+                        0.13764199548925077,
+                        0.39179831932773107
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "SALES CODE"
+                },
+                {
+                    "bbox": [
+                        0.252076910343686,
+                        0.38073691014867483,
+                        0.340904012083842,
+                        0.39163800904977375
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.5905801899480643,
+                        0.37945442792501616,
+                        0.6578006993730473,
+                        0.3922792501616031
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QUANTITY"
+                },
+                {
+                    "bbox": [
+                        0.7338238945560637,
+                        0.38073691014867483,
+                        0.7762368350265886,
+                        0.3922792501616031
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "PRICE"
+                },
+                {
+                    "bbox": [
+                        0.8602624718078173,
+                        0.3813781512605042,
+                        0.9146790746756606,
+                        0.3922792501616031
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUN"
+                },
+                {
+                    "bbox": [
+                        0.05241935483870968,
+                        0.40917905623787976,
+                        0.1,
+                        0.4544279250161603
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "/E02"
+                },
+                {
+                    "bbox": [
+                        0.15241935483870966,
+                        0.40917905623787976,
+                        0.42983870967741933,
+                        0.4544279250161603
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3\u00b4x5\u00b4CUSTOM NYLON FLAGS RE: MARLBORO 500 (WHITE COPY ON RED NYLON)"
+                },
+                {
+                    "bbox": [
+                        0.5637096774193548,
+                        0.40917905623787976,
+                        0.6451612903225806,
+                        0.4544279250161603
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.000"
+                },
+                {
+                    "bbox": [
+                        0.6943548387096774,
+                        0.40917905623787976,
+                        0.7661290322580645,
+                        0.4544279250161603
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "37.500"
+                },
+                {
+                    "bbox": [
+                        0.8370967741935483,
+                        0.40917905623787976,
+                        0.932258064516129,
+                        0.4544279250161603
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3,750.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "TD": [
+        [
+            0.16048387096774194,
+            0.40077569489334197,
+            0.742741935483871,
+            0.46218487394957986
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.16048387096774194,
+                        0.40206851971557855,
+                        0.30060857557725706,
+                        0.4166654801534304
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.6628804487088233,
+                        0.40077569489334197,
+                        0.7311505281439513,
+                        0.4166654801534304
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "TOTAL"
+                },
+                {
+                    "bbox": [
+                        0.16048387096774194,
+                        0.4447317388493859,
+                        0.42016129032258065,
+                        0.46218487394957986
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Installation and removal of banners"
+                },
+                {
+                    "bbox": [
+                        0.6725806451612903,
+                        0.4447317388493859,
+                        0.742741935483871,
+                        0.46218487394957986
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2,108.00"
+                }
+            ]
+        }
+    ]
+}

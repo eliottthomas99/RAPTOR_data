@@ -1,0 +1,341 @@
+{
+    "TD": [
+        [
+            0.09135945638020833,
+            0.237562545622238,
+            0.8458844353170956,
+            0.4476694819903133
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3615604475432751,
+                        0.237562545622238,
+                        0.5363567576688879,
+                        0.29585659142696497
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Active Ingredient\n(in billions of lbs.) 1994/95"
+                },
+                {
+                    "bbox": [
+                        0.6399934556749132,
+                        0.237562545622238,
+                        0.8458844353170956,
+                        0.29585659142696497
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Sales Value\n(in billions of dollars) 1994/95"
+                },
+                {
+                    "bbox": [
+                        0.09135945638020833,
+                        0.27997920489070394,
+                        0.1792849871068219,
+                        0.29614673961292615
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Category"
+                },
+                {
+                    "bbox": [
+                        0.09137254602768842,
+                        0.31332012137981374,
+                        0.21340441236308977,
+                        0.329487656102036
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "U.S. Production"
+                },
+                {
+                    "bbox": [
+                        0.4281666574914471,
+                        0.31332012137981374,
+                        0.4520629683351205,
+                        0.329487656102036
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.3"
+                },
+                {
+                    "bbox": [
+                        0.7296475179834303,
+                        0.31332012137981374,
+                        0.7535438288271038,
+                        0.329487656102036
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.0"
+                },
+                {
+                    "bbox": [
+                        0.09137252109502655,
+                        0.3345284510140467,
+                        0.1888518738590814,
+                        0.3506959857362689
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "U.S. Imports"
+                },
+                {
+                    "bbox": [
+                        0.42810193230124083,
+                        0.3345284510140467,
+                        0.4519982431449142,
+                        0.3506959857362689
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.2"
+                },
+                {
+                    "bbox": [
+                        0.7296959870780995,
+                        0.3345284510140467,
+                        0.7535922979217728,
+                        0.3506959857362689
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.2"
+                },
+                {
+                    "bbox": [
+                        0.09137247122970282,
+                        0.3648340244485874,
+                        0.20177453483631408,
+                        0.38100155917080963
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total Supply"
+                },
+                {
+                    "bbox": [
+                        0.4262254004384957,
+                        0.3648340244485874,
+                        0.45375454971213747,
+                        0.38100155917080963
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.5"
+                },
+                {
+                    "bbox": [
+                        0.7277547798904718,
+                        0.3648340244485874,
+                        0.7552839291641136,
+                        0.38100155917080963
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.2"
+                },
+                {
+                    "bbox": [
+                        0.09137247122970282,
+                        0.39816735007546167,
+                        0.18792976429259856,
+                        0.4143348847976839
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "U.S. Exports"
+                },
+                {
+                    "bbox": [
+                        0.4281180388008068,
+                        0.39816735007546167,
+                        0.4520143496444802,
+                        0.4143348847976839
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.5"
+                },
+                {
+                    "bbox": [
+                        0.72959889929279,
+                        0.39816735007546167,
+                        0.7534952101364635,
+                        0.4143348847976839
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.6"
+                },
+                {
+                    "bbox": [
+                        0.09137247122970282,
+                        0.43150067570233586,
+                        0.24628199159709457,
+                        0.44766821042455807
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Net Supply/Usage"
+                },
+                {
+                    "bbox": [
+                        0.4260636373283037,
+                        0.43150067570233586,
+                        0.4535604240068423,
+                        0.44766821042455807
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.0"
+                },
+                {
+                    "bbox": [
+                        0.7264705982083589,
+                        0.43150194726809105,
+                        0.7569506277445874,
+                        0.4476694819903133
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.6"
+                }
+            ]
+        }
+    ]
+}

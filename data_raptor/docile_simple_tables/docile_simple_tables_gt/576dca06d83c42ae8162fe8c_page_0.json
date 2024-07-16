@@ -1,0 +1,161 @@
+{
+    "TD": [
+        [
+            0.10572674783481863,
+            0.37630888256148504,
+            0.8830645161290323,
+            0.4275220372184133
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.10572674783481863,
+                        0.37744330943911597,
+                        0.1770122066022342,
+                        0.3900841762951865
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Amount"
+                },
+                {
+                    "bbox": [
+                        0.38926666248274133,
+                        0.37630888256148504,
+                        0.48458092757625204,
+                        0.3894359366043275
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description"
+                },
+                {
+                    "bbox": [
+                        0.7192622693611146,
+                        0.37744330943911597,
+                        0.7653225806451613,
+                        0.3900841762951865
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Each"
+                },
+                {
+                    "bbox": [
+                        0.8281928580394126,
+                        0.3779294966258879,
+                        0.8746485502698632,
+                        0.3900841762951865
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451613,
+                        0.40107737512242897,
+                        0.15241935483870966,
+                        0.4275220372184133
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "36"
+                },
+                {
+                    "bbox": [
+                        0.1967741935483871,
+                        0.40107737512242897,
+                        0.6008064516129032,
+                        0.4275220372184133
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2020 GENERAL ELECTION 60 second Political Issue Spots: 10/27 - 11/02"
+                },
+                {
+                    "bbox": [
+                        0.7161290322580646,
+                        0.40107737512242897,
+                        0.7653225806451613,
+                        0.4275220372184133
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11.75"
+                },
+                {
+                    "bbox": [
+                        0.8217741935483871,
+                        0.40107737512242897,
+                        0.8830645161290323,
+                        0.4275220372184133
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "423.00"
+                }
+            ]
+        }
+    ]
+}

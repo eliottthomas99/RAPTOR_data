@@ -1,0 +1,1637 @@
+{
+    "TD": [
+        [
+            0.23225806451612904,
+            0.34606516968404993,
+            0.7274193548387097,
+            0.8443768996960487
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.34786135568587023,
+                        0.2812101603245123,
+                        0.3629179331306991
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Date"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.34606516968404993,
+                        0.44961850492563266,
+                        0.3629179331306991
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description"
+                },
+                {
+                    "bbox": [
+                        0.6664839675487735,
+                        0.34606516968404993,
+                        0.7274193548387097,
+                        0.3629179331306991
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Debit"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.3762917933130699,
+                        0.29193548387096774,
+                        0.39270516717325227
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/12"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.3762917933130699,
+                        0.6370967741935484,
+                        0.39270516717325227
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Long Dist"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.3762917933130699,
+                        0.7274193548387097,
+                        0.39270516717325227
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12.03"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.39270516717325227,
+                        0.29193548387096774,
+                        0.4066869300911854
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/12"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.39270516717325227,
+                        0.6370967741935484,
+                        0.4066869300911854
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Long Dist"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.39270516717325227,
+                        0.7274193548387097,
+                        0.4066869300911854
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.54"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.4066869300911854,
+                        0.29193548387096774,
+                        0.42006079027355625
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/12"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.4066869300911854,
+                        0.6370967741935484,
+                        0.42006079027355625
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Deville"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.4066869300911854,
+                        0.7274193548387097,
+                        0.42006079027355625
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "55.84"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.42006079027355625,
+                        0.29193548387096774,
+                        0.4492401215805471
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/12"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.42006079027355625,
+                        0.6370967741935484,
+                        0.4492401215805471
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Deville Dnr Beverage ->#816 : CHECK # 367329"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.42006079027355625,
+                        0.7274193548387097,
+                        0.4492401215805471
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20.50"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.4492401215805471,
+                        0.29193548387096774,
+                        0.46382978723404256
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/12"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.4492401215805471,
+                        0.6370967741935484,
+                        0.46382978723404256
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Room"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.4492401215805471,
+                        0.7274193548387097,
+                        0.46382978723404256
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "320.00"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.46382978723404256,
+                        0.29193548387096774,
+                        0.478419452887538
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/12"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.46382978723404256,
+                        0.6370967741935484,
+                        0.478419452887538
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Room Tax"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.46382978723404256,
+                        0.7274193548387097,
+                        0.478419452887538
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "54.40"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.478419452887538,
+                        0.29193548387096774,
+                        0.4930091185410334
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.478419452887538,
+                        0.6370967741935484,
+                        0.4930091185410334
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Long Dist"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.478419452887538,
+                        0.7274193548387097,
+                        0.4930091185410334
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.40"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.4930091185410334,
+                        0.29193548387096774,
+                        0.5075987841945289
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.4930091185410334,
+                        0.6370967741935484,
+                        0.5075987841945289
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Long Dist"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.4930091185410334,
+                        0.7274193548387097,
+                        0.5075987841945289
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.48"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.5075987841945289,
+                        0.29193548387096774,
+                        0.5209726443768997
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.5075987841945289,
+                        0.6370967741935484,
+                        0.5209726443768997
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Long Dist"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.5075987841945289,
+                        0.7274193548387097,
+                        0.5209726443768997
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.48"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.5209726443768997,
+                        0.29193548387096774,
+                        0.5343465045592705
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.5209726443768997,
+                        0.6370967741935484,
+                        0.5343465045592705
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Long Dist"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.5209726443768997,
+                        0.7274193548387097,
+                        0.5343465045592705
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.48"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.5343465045592705,
+                        0.29193548387096774,
+                        0.5477203647416413
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.5343465045592705,
+                        0.6370967741935484,
+                        0.5477203647416413
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Local"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.5343465045592705,
+                        0.7274193548387097,
+                        0.5477203647416413
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.54"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.5477203647416413,
+                        0.29193548387096774,
+                        0.5604863221884498
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.5477203647416413,
+                        0.6370967741935484,
+                        0.5604863221884498
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Local"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.5477203647416413,
+                        0.7274193548387097,
+                        0.5604863221884498
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.54"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.5604863221884498,
+                        0.29193548387096774,
+                        0.5750759878419452
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.5604863221884498,
+                        0.6370967741935484,
+                        0.5750759878419452
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Room"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.5604863221884498,
+                        0.7274193548387097,
+                        0.5750759878419452
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "320.00"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.5750759878419452,
+                        0.29193548387096774,
+                        0.5890577507598784
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.5750759878419452,
+                        0.6370967741935484,
+                        0.5890577507598784
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Room Tax"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.5750759878419452,
+                        0.7274193548387097,
+                        0.5890577507598784
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "54.40"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.5890577507598784,
+                        0.29193548387096774,
+                        0.6042553191489362
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.5890577507598784,
+                        0.6370967741935484,
+                        0.6042553191489362
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Lobby Lounge"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.5890577507598784,
+                        0.7274193548387097,
+                        0.6042553191489362
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.00"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.6042553191489362,
+                        0.29193548387096774,
+                        0.6316109422492401
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/13"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.6042553191489362,
+                        0.6370967741935484,
+                        0.6316109422492401
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Lobby Beverage >#816 : CHECK # H367721"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.6042553191489362,
+                        0.7274193548387097,
+                        0.6316109422492401
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "25.00"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.6316109422492401,
+                        0.29193548387096774,
+                        0.6462006079027356
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.6316109422492401,
+                        0.6370967741935484,
+                        0.6462006079027356
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Local"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.6316109422492401,
+                        0.7274193548387097,
+                        0.6462006079027356
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.54"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.6462006079027356,
+                        0.29193548387096774,
+                        0.660790273556231
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.6462006079027356,
+                        0.6370967741935484,
+                        0.660790273556231
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Deville"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.6462006079027356,
+                        0.7274193548387097,
+                        0.660790273556231
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "24.57"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.660790273556231,
+                        0.29193548387096774,
+                        0.6753799392097265
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.660790273556231,
+                        0.6370967741935484,
+                        0.6753799392097265
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Local"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.660790273556231,
+                        0.7274193548387097,
+                        0.6753799392097265
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.54"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.6753799392097265,
+                        0.29193548387096774,
+                        0.6911854103343466
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.6753799392097265,
+                        0.6370967741935484,
+                        0.6911854103343466
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Local"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.6753799392097265,
+                        0.7274193548387097,
+                        0.6911854103343466
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.54"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.6911854103343466,
+                        0.29193548387096774,
+                        0.7167173252279635
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.6911854103343466,
+                        0.6370967741935484,
+                        0.7167173252279635
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Private Bar Beverage ->#816 : CHECK # 367872"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.6911854103343466,
+                        0.7274193548387097,
+                        0.7167173252279635
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.25"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.7167173252279635,
+                        0.29193548387096774,
+                        0.7325227963525835
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.7167173252279635,
+                        0.6370967741935484,
+                        0.7325227963525835
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Local"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.7167173252279635,
+                        0.7274193548387097,
+                        0.7325227963525835
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.54"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.7325227963525835,
+                        0.29193548387096774,
+                        0.7465045592705167
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.7325227963525835,
+                        0.6370967741935484,
+                        0.7465045592705167
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Long Dist"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.7325227963525835,
+                        0.7274193548387097,
+                        0.7465045592705167
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.93"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.7465045592705167,
+                        0.29193548387096774,
+                        0.7592705167173253
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.7465045592705167,
+                        0.6370967741935484,
+                        0.7592705167173253
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Phone Local"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.7465045592705167,
+                        0.7274193548387097,
+                        0.7592705167173253
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.54"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.7592705167173253,
+                        0.29193548387096774,
+                        0.7866261398176292
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.7592705167173253,
+                        0.6370967741935484,
+                        0.7866261398176292
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Courier-FED EX ->418827531953"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.7592705167173253,
+                        0.7274193548387097,
+                        0.7866261398176292
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "23.20"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.7866261398176292,
+                        0.29193548387096774,
+                        0.8024316109422492
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.7866261398176292,
+                        0.6370967741935484,
+                        0.8024316109422492
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Valet Parking"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.7866261398176292,
+                        0.7274193548387097,
+                        0.8024316109422492
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.00"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.8024316109422492,
+                        0.29193548387096774,
+                        0.8158054711246201
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.8024316109422492,
+                        0.6370967741935484,
+                        0.8158054711246201
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Room"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.8024316109422492,
+                        0.7274193548387097,
+                        0.8158054711246201
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "320.00"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.8158054711246201,
+                        0.29193548387096774,
+                        0.8291793313069908
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/14"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.8158054711246201,
+                        0.6370967741935484,
+                        0.8291793313069908
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Room Tax"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.8158054711246201,
+                        0.7274193548387097,
+                        0.8291793313069908
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        28
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "54.40"
+                },
+                {
+                    "bbox": [
+                        0.23225806451612904,
+                        0.8291793313069908,
+                        0.29193548387096774,
+                        0.8443768996960487
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11/15"
+                },
+                {
+                    "bbox": [
+                        0.3233870967741935,
+                        0.8291793313069908,
+                        0.6370967741935484,
+                        0.8443768996960487
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Limo-GHLS ghl575235"
+                },
+                {
+                    "bbox": [
+                        0.6580645161290323,
+                        0.8291793313069908,
+                        0.7274193548387097,
+                        0.8443768996960487
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        29
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85.00"
+                }
+            ]
+        }
+    ]
+}

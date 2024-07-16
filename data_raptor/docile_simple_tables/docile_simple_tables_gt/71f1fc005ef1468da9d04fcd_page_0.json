@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.04112903225806452,
+            0.3029925187032419,
+            0.9604838709677419,
+            0.33915211970074816
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.04112903225806452,
+                        0.3052069825436409,
+                        0.13999441418796257,
+                        0.31546134663341646
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Invoice Number"
+                },
+                {
+                    "bbox": [
+                        0.2645161290322581,
+                        0.3029925187032419,
+                        0.34516129032258064,
+                        0.31546134663341646
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Invoice Date"
+                },
+                {
+                    "bbox": [
+                        0.36935483870967745,
+                        0.30335162094763096,
+                        0.4439822849961099,
+                        0.31546134663341646
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Voucher ID"
+                },
+                {
+                    "bbox": [
+                        0.49998005067129486,
+                        0.3052069825436409,
+                        0.5862903225806452,
+                        0.31546134663341646
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Gross Amount"
+                },
+                {
+                    "bbox": [
+                        0.8823647934247012,
+                        0.30335162094763096,
+                        0.9604838709677419,
+                        0.31546134663341646
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Paid Amount"
+                },
+                {
+                    "bbox": [
+                        0.04112903225806452,
+                        0.3254364089775561,
+                        0.20161290322580644,
+                        0.33915211970074816
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "00046848OCT2020OCT2020"
+                },
+                {
+                    "bbox": [
+                        0.2645161290322581,
+                        0.3254364089775561,
+                        0.34516129032258064,
+                        0.33915211970074816
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Oct/23/2020"
+                },
+                {
+                    "bbox": [
+                        0.36935483870967745,
+                        0.3254364089775561,
+                        0.4282258064516129,
+                        0.33915211970074816
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "00046848"
+                },
+                {
+                    "bbox": [
+                        0.5290322580645161,
+                        0.3254364089775561,
+                        0.5862903225806452,
+                        0.33915211970074816
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "98,600.00"
+                },
+                {
+                    "bbox": [
+                        0.9048387096774193,
+                        0.3254364089775561,
+                        0.9604838709677419,
+                        0.33915211970074816
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "98,600.00"
+                }
+            ]
+        }
+    ]
+}

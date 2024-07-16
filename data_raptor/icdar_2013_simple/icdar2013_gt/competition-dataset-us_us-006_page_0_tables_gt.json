@@ -1,0 +1,233 @@
+{
+    "TD": [
+        [
+            0.11764705882352941,
+            0.5284775627983941,
+            0.7150228163775276,
+            0.6203594015102194
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.5284775627983941,
+                        0.2792229995228886,
+                        0.5477836300628354
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Child Race/Ethnicity"
+                },
+                {
+                    "bbox": [
+                        0.37843138252208436,
+                        0.5284775627983941,
+                        0.5258070503184998,
+                        0.5477836300628354
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3-Year-Old Cohort"
+                },
+                {
+                    "bbox": [
+                        0.5676470488504647,
+                        0.5284775627983941,
+                        0.7150228163775276,
+                        0.5477836300628354
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4-Year-Old Cohort"
+                },
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.5527200024537365,
+                        0.18565401064804177,
+                        0.5720260697181778
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Hispanic"
+                },
+                {
+                    "bbox": [
+                        0.44098040013531453,
+                        0.552291523326527,
+                        0.4875756556691687,
+                        0.5708866697369199
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "37.4%"
+                },
+                {
+                    "bbox": [
+                        0.6274509803921569,
+                        0.552291523326527,
+                        0.674046235926011,
+                        0.5708866697369199
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "51.6%"
+                },
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.5768108945904356,
+                        0.16180737813313803,
+                        0.596116961854877
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Black"
+                },
+                {
+                    "bbox": [
+                        0.44098040013531453,
+                        0.576382415463226,
+                        0.4875756556691687,
+                        0.594977561873619
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "32.8%"
+                },
+                {
+                    "bbox": [
+                        0.6274509803921569,
+                        0.576382415463226,
+                        0.674046235926011,
+                        0.594977561873619
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17.5%"
+                },
+                {
+                    "bbox": [
+                        0.11764705882352941,
+                        0.6010533342457781,
+                        0.21567069159613717,
+                        0.6203594015102194
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "White/Other"
+                },
+                {
+                    "bbox": [
+                        0.44098040013531453,
+                        0.6006248551185684,
+                        0.4875756556691687,
+                        0.6192200015289615
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "29.8%"
+                },
+                {
+                    "bbox": [
+                        0.6274509803921569,
+                        0.6006248551185684,
+                        0.674046235926011,
+                        0.6192200015289615
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "30.8%"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "TD": [
+        [
+            0.16612903225806452,
+            0.35229476405946997,
+            0.6903225806451613,
+            0.42857142857142855
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.16612903225806452,
+                        0.35229476405946997,
+                        0.20403225806451614,
+                        0.36716224951519066
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "QTY"
+                },
+                {
+                    "bbox": [
+                        0.27580645161290324,
+                        0.35229476405946997,
+                        0.41732838880505657,
+                        0.36723059267759967
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.6096774193548387,
+                        0.35229476405946997,
+                        0.6793974034108704,
+                        0.36723059267759967
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "TOTAL"
+                },
+                {
+                    "bbox": [
+                        0.16612903225806452,
+                        0.3813833225597931,
+                        0.20403225806451614,
+                        0.40077569489334197
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5000"
+                },
+                {
+                    "bbox": [
+                        0.27580645161290324,
+                        0.3813833225597931,
+                        0.49838709677419357,
+                        0.40077569489334197
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Series Race No, 8 Grid Sheet"
+                },
+                {
+                    "bbox": [
+                        0.6096774193548387,
+                        0.3813833225597931,
+                        0.6903225806451613,
+                        0.40077569489334197
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$1,766.00"
+                },
+                {
+                    "bbox": [
+                        0.16612903225806452,
+                        0.4117647058823529,
+                        0.20403225806451614,
+                        0.42857142857142855
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.27580645161290324,
+                        0.4117647058823529,
+                        0.49838709677419357,
+                        0.42857142857142855
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Artwork/Design Charge"
+                },
+                {
+                    "bbox": [
+                        0.6096774193548387,
+                        0.4117647058823529,
+                        0.6903225806451613,
+                        0.42857142857142855
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "202.50"
+                }
+            ]
+        }
+    ]
+}

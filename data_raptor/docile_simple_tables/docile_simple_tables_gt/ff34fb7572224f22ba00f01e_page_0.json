@@ -1,0 +1,53 @@
+{
+    "TD": [
+        [
+            0.3758064516129032,
+            0.49297225404696243,
+            0.6080645161290322,
+            0.5957446808510638
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.44466023458849646,
+                        0.49297225404696243,
+                        0.5570447431988405,
+                        0.5073132650737832
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.3758064516129032,
+                        0.574468085106383,
+                        0.6080645161290322,
+                        0.5957446808510638
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Old Gold Smoker Profile Study"
+                }
+            ]
+        }
+    ]
+}

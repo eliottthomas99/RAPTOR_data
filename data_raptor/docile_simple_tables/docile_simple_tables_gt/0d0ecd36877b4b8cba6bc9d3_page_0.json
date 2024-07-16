@@ -1,0 +1,125 @@
+{
+    "TD": [
+        [
+            0.12419354838709677,
+            0.4327312723066641,
+            0.864516129032258,
+            0.5556231003039513
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.1845060815734248,
+                        0.4342935508395081,
+                        0.24150897975890867,
+                        0.44601063983583866
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "PERIOD"
+                },
+                {
+                    "bbox": [
+                        0.44257374790406995,
+                        0.4331941678839157,
+                        0.5503610462911668,
+                        0.44725467467951235
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.7431344837911668,
+                        0.4327312723066641,
+                        0.815683626936328,
+                        0.4483540576351048
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.12419354838709677,
+                        0.46261398176291796,
+                        0.24596774193548387,
+                        0.5556231003039513
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10/01/01 12/31/01"
+                },
+                {
+                    "bbox": [
+                        0.3,
+                        0.46261398176291796,
+                        0.65,
+                        0.5556231003039513
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Paynment in accordance with terms of the above referenced project between the Florida State University Research Foundation and Philip Morris, under the direction of Dr. Jim Walker. Expenditures for equipment purhcases shall be invoiced in the quarter in which they are purchased."
+                },
+                {
+                    "bbox": [
+                        0.7838709677419354,
+                        0.46261398176291796,
+                        0.864516129032258,
+                        0.5556231003039513
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$29,212.99"
+                }
+            ]
+        }
+    ]
+}

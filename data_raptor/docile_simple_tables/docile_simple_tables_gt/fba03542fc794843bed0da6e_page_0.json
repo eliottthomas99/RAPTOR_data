@@ -1,0 +1,197 @@
+{
+    "TD": [
+        [
+            0.03870967741935484,
+            0.3054862842892768,
+            0.8887096774193548,
+            0.3634663341645885
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.1080807219255898,
+                        0.31990816392670857,
+                        0.16827757970693094,
+                        0.331541188069498
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dates"
+                },
+                {
+                    "bbox": [
+                        0.25173231435833576,
+                        0.3066888183099024,
+                        0.36802169870865387,
+                        0.3325987357188424
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "# of Broadcasts"
+                },
+                {
+                    "bbox": [
+                        0.41522150765084187,
+                        0.31990816392670857,
+                        0.5458760512444345,
+                        0.3336562833681869
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description"
+                },
+                {
+                    "bbox": [
+                        0.6341191723102642,
+                        0.3054862842892768,
+                        0.7080645161290322,
+                        0.3329177057356609
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Unit Amount"
+                },
+                {
+                    "bbox": [
+                        0.7770867095409494,
+                        0.32043693775138077,
+                        0.8858514866685999,
+                        0.3329177057356609
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Extension"
+                },
+                {
+                    "bbox": [
+                        0.03870967741935484,
+                        0.3478802992518703,
+                        0.23870967741935484,
+                        0.3634663341645885
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "05/31/16 05/31/16"
+                },
+                {
+                    "bbox": [
+                        0.31048387096774194,
+                        0.3478802992518703,
+                        0.32016129032258067,
+                        0.3634663341645885
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1"
+                },
+                {
+                    "bbox": [
+                        0.3911290322580645,
+                        0.3478802992518703,
+                        0.5508064516129032,
+                        0.3634663341645885
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ": 30 WYQE SPOT"
+                },
+                {
+                    "bbox": [
+                        0.6491935483870968,
+                        0.3478802992518703,
+                        0.7080645161290322,
+                        0.3634663341645885
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "25.00"
+                },
+                {
+                    "bbox": [
+                        0.7467741935483871,
+                        0.3478802992518703,
+                        0.8887096774193548,
+                        0.3634663341645885
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "25.00"
+                }
+            ]
+        }
+    ]
+}

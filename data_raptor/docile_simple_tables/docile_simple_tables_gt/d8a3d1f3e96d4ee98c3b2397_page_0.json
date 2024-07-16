@@ -1,0 +1,89 @@
+{
+    "TD": [
+        [
+            0.2064516129032258,
+            0.38902743142144636,
+            0.7766129032258065,
+            0.456359102244389
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.2064516129032258,
+                        0.38902743142144636,
+                        0.33082628609378667,
+                        0.40187768969352633
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.6870967741935484,
+                        0.38902743142144636,
+                        0.7766129032258065,
+                        0.4014962593516209
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.2064516129032258,
+                        0.4395261845386534,
+                        0.46774193548387094,
+                        0.456359102244389
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Consulting services, January, 1999"
+                },
+                {
+                    "bbox": [
+                        0.6870967741935484,
+                        0.4395261845386534,
+                        0.7766129032258065,
+                        0.456359102244389
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$2,750.00"
+                }
+            ]
+        }
+    ]
+}

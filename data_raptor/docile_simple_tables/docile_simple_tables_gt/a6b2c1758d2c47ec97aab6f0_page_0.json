@@ -1,0 +1,557 @@
+{
+    "TD": [
+        [
+            0.12903225806451604,
+            0.3424828446662508,
+            0.728225806451613,
+            0.545227698066126
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.12903225806451604,
+                        0.3424828446662508,
+                        0.3337873357228196,
+                        0.35291216110695317
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Professional Personnel"
+                },
+                {
+                    "bbox": [
+                        0.42752090800477877,
+                        0.3525358147727454,
+                        0.4774253285543608,
+                        0.3645524422828947
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Hours"
+                },
+                {
+                    "bbox": [
+                        0.542099761051374,
+                        0.3530649184625612,
+                        0.5834438470728793,
+                        0.3645524422828947
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Rate"
+                },
+                {
+                    "bbox": [
+                        0.6672222222222224,
+                        0.35253581477274565,
+                        0.7250298685782556,
+                        0.36349423490326366
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Amount"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451604,
+                        0.3636930754834685,
+                        0.3717741935483871,
+                        0.38927011852776044
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Principal PAUL TAYLOR, PhD"
+                },
+                {
+                    "bbox": [
+                        0.43709677419354837,
+                        0.3636930754834685,
+                        0.4774193548387097,
+                        0.38927011852776044
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.0"
+                },
+                {
+                    "bbox": [
+                        0.525,
+                        0.3636930754834685,
+                        0.582258064516129,
+                        0.38927011852776044
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "235.00"
+                },
+                {
+                    "bbox": [
+                        0.6508064516129032,
+                        0.3636930754834685,
+                        0.728225806451613,
+                        0.38927011852776044
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "235.00"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451604,
+                        0.39737991266375544,
+                        0.3717741935483871,
+                        0.4192139737991266
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Sr. Engineer STEPHEN ANDREN"
+                },
+                {
+                    "bbox": [
+                        0.43709677419354837,
+                        0.39737991266375544,
+                        0.4774193548387097,
+                        0.4192139737991266
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17.5"
+                },
+                {
+                    "bbox": [
+                        0.525,
+                        0.39737991266375544,
+                        0.582258064516129,
+                        0.4192139737991266
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "155.00"
+                },
+                {
+                    "bbox": [
+                        0.6508064516129032,
+                        0.39737991266375544,
+                        0.728225806451613,
+                        0.4192139737991266
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2,712.50"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451604,
+                        0.4192139737991266,
+                        0.3717741935483871,
+                        0.4335620711166563
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "BRYAN J. PATRIE, PhD"
+                },
+                {
+                    "bbox": [
+                        0.43709677419354837,
+                        0.4192139737991266,
+                        0.4774193548387097,
+                        0.4335620711166563
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.5"
+                },
+                {
+                    "bbox": [
+                        0.525,
+                        0.4192139737991266,
+                        0.582258064516129,
+                        0.4335620711166563
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "150.00"
+                },
+                {
+                    "bbox": [
+                        0.6508064516129032,
+                        0.4192139737991266,
+                        0.728225806451613,
+                        0.4335620711166563
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "375.00"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451604,
+                        0.4422956955708047,
+                        0.3717741935483871,
+                        0.46600124766063633
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Engineer ALFRED M. PETTINGER, PhD"
+                },
+                {
+                    "bbox": [
+                        0.43709677419354837,
+                        0.4422956955708047,
+                        0.4774193548387097,
+                        0.46600124766063633
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.5"
+                },
+                {
+                    "bbox": [
+                        0.525,
+                        0.4422956955708047,
+                        0.582258064516129,
+                        0.46600124766063633
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "130.00"
+                },
+                {
+                    "bbox": [
+                        0.6508064516129032,
+                        0.4422956955708047,
+                        0.728225806451613,
+                        0.46600124766063633
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "65.00"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451604,
+                        0.47723019338739864,
+                        0.3717741935483871,
+                        0.5015595757953837
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Sr. Physician DANIEL J. CHER,MD"
+                },
+                {
+                    "bbox": [
+                        0.43709677419354837,
+                        0.47723019338739864,
+                        0.4774193548387097,
+                        0.5015595757953837
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.0"
+                },
+                {
+                    "bbox": [
+                        0.525,
+                        0.47723019338739864,
+                        0.582258064516129,
+                        0.5015595757953837
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "250.00"
+                },
+                {
+                    "bbox": [
+                        0.6508064516129032,
+                        0.47723019338739864,
+                        0.728225806451613,
+                        0.5015595757953837
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "250.00"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451604,
+                        0.5102932002495322,
+                        0.3717741935483871,
+                        0.5227698066126014
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Research Specialist"
+                },
+                {
+                    "bbox": [
+                        0.43709677419354837,
+                        0.5102932002495322,
+                        0.4774193548387097,
+                        0.5227698066126014
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.0"
+                },
+                {
+                    "bbox": [
+                        0.6508064516129032,
+                        0.5102932002495322,
+                        0.728225806451613,
+                        0.5227698066126014
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "80.00"
+                },
+                {
+                    "bbox": [
+                        0.12903225806451604,
+                        0.5315034310667498,
+                        0.3717741935483871,
+                        0.545227698066126
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Technical Assistant"
+                },
+                {
+                    "bbox": [
+                        0.43709677419354837,
+                        0.5315034310667498,
+                        0.4774193548387097,
+                        0.545227698066126
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.5"
+                },
+                {
+                    "bbox": [
+                        0.6508064516129032,
+                        0.5315034310667498,
+                        0.728225806451613,
+                        0.545227698066126
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50.00"
+                }
+            ]
+        }
+    ]
+}

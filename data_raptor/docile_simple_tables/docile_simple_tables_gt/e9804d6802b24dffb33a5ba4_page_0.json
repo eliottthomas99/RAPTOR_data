@@ -1,0 +1,125 @@
+{
+    "TD": [
+        [
+            0.08548387096774193,
+            0.2925233213499972,
+            0.9205088750893003,
+            0.4051222351571595
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        0.3832658085030002,
+                        0.2925233213499972,
+                        0.47908226062875026,
+                        0.3076264276153503
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DESCRIPTION"
+                },
+                {
+                    "bbox": [
+                        0.8575680973054166,
+                        0.2941594025951901,
+                        0.9205088750893003,
+                        0.3083562849598228
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": true,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AMOUNT"
+                },
+                {
+                    "bbox": [
+                        0.08548387096774193,
+                        0.370197904540163,
+                        0.42258064516129035,
+                        0.3853317811408615
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5673-999 Newport Competitive Overview Report Dec data"
+                },
+                {
+                    "bbox": [
+                        0.6298387096774194,
+                        0.370197904540163,
+                        0.682258064516129,
+                        0.3853317811408615
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$880.00"
+                },
+                {
+                    "bbox": [
+                        0.08548387096774193,
+                        0.3853317811408615,
+                        0.42258064516129035,
+                        0.4051222351571595
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5673-999 Newport 12 Month Moving Report Dec data"
+                },
+                {
+                    "bbox": [
+                        0.6298387096774194,
+                        0.3853317811408615,
+                        0.682258064516129,
+                        0.4051222351571595
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$217.00"
+                }
+            ]
+        }
+    ]
+}
