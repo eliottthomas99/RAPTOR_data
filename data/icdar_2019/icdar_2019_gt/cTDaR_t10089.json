@@ -1,0 +1,413 @@
+{
+    "TD": [
+        [
+            218,
+            896,
+            1019,
+            1382
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        218,
+                        1016,
+                        424,
+                        1033
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Description of Shares"
+                },
+                {
+                    "bbox": [
+                        630,
+                        986,
+                        734,
+                        1030
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Number of Shares"
+                },
+                {
+                    "bbox": [
+                        780,
+                        926,
+                        877,
+                        1030
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Aggregate nominal value of Shares"
+                },
+                {
+                    "bbox": [
+                        896,
+                        896,
+                        1019,
+                        1034
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Approximate of issued share capital percentage"
+                },
+                {
+                    "bbox": [
+                        825,
+                        1053,
+                        875,
+                        1072
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(US$)"
+                },
+                {
+                    "bbox": [
+                        988,
+                        1054,
+                        1019,
+                        1072
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(%)"
+                },
+                {
+                    "bbox": [
+                        219,
+                        1121,
+                        556,
+                        1198
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Shares in issue including the Shares on re-designation of the Preferred Shares)"
+                },
+                {
+                    "bbox": [
+                        624,
+                        1181,
+                        730,
+                        1197
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "199,413,883"
+                },
+                {
+                    "bbox": [
+                        790,
+                        1181,
+                        875,
+                        1197
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "19,941.39"
+                },
+                {
+                    "bbox": [
+                        953,
+                        1181,
+                        1018,
+                        1194
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20.26%"
+                },
+                {
+                    "bbox": [
+                        219,
+                        1210,
+                        487,
+                        1258
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Shares to be issued under the Global Offering"
+                },
+                {
+                    "bbox": [
+                        624,
+                        1240,
+                        731,
+                        1256
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "186,396,000"
+                },
+                {
+                    "bbox": [
+                        790,
+                        1240,
+                        875,
+                        1256
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "18,639.60"
+                },
+                {
+                    "bbox": [
+                        955,
+                        1240,
+                        1018,
+                        1254
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "18.94%"
+                },
+                {
+                    "bbox": [
+                        219,
+                        1268,
+                        538,
+                        1317
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Shares to be issued pursuant to the Capitalization Issue"
+                },
+                {
+                    "bbox": [
+                        622,
+                        1298,
+                        731,
+                        1315
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "598,241,649"
+                },
+                {
+                    "bbox": [
+                        788,
+                        1298,
+                        875,
+                        1314
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "59,824.16"
+                },
+                {
+                    "bbox": [
+                        953,
+                        1298,
+                        1018,
+                        1313
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "60.79%"
+                },
+                {
+                    "bbox": [
+                        219,
+                        1366,
+                        265,
+                        1380
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        622,
+                        1366,
+                        730,
+                        1382
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "984,051,532"
+                },
+                {
+                    "bbox": [
+                        788,
+                        1366,
+                        874,
+                        1382
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "98,405.15"
+                },
+                {
+                    "bbox": [
+                        943,
+                        1366,
+                        1018,
+                        1380
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.00%"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,532 @@
+{
+    "TD": [
+        [
+            91,
+            767,
+            774,
+            1016
+        ],
+        [
+            881,
+            765,
+            1535,
+            1037
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        569,
+                        767,
+                        611,
+                        780
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "FY17"
+                },
+                {
+                    "bbox": [
+                        731,
+                        767,
+                        774,
+                        781
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "FY18"
+                },
+                {
+                    "bbox": [
+                        91,
+                        836,
+                        124,
+                        849
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "RoE"
+                },
+                {
+                    "bbox": [
+                        570,
+                        836,
+                        610,
+                        849
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.9%"
+                },
+                {
+                    "bbox": [
+                        732,
+                        836,
+                        773,
+                        850
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.7%"
+                },
+                {
+                    "bbox": [
+                        91,
+                        917,
+                        319,
+                        935
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Reported revenue / RWAs32"
+                },
+                {
+                    "bbox": [
+                        570,
+                        918,
+                        610,
+                        931
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.9%"
+                },
+                {
+                    "bbox": [
+                        732,
+                        918,
+                        772,
+                        932
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.2%"
+                },
+                {
+                    "bbox": [
+                        91,
+                        999,
+                        217,
+                        1016
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Reported ROTE"
+                },
+                {
+                    "bbox": [
+                        570,
+                        999,
+                        610,
+                        1013
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.8%"
+                },
+                {
+                    "bbox": [
+                        732,
+                        999,
+                        773,
+                        1014
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.6%"
+                }
+            ]
+        },
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        1275,
+                        765,
+                        1317,
+                        778
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "FY17"
+                },
+                {
+                    "bbox": [
+                        1487,
+                        765,
+                        1529,
+                        779
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "FY18"
+                },
+                {
+                    "bbox": [
+                        882,
+                        819,
+                        938,
+                        832
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "RBWM"
+                },
+                {
+                    "bbox": [
+                        1270,
+                        819,
+                        1321,
+                        832
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "21.6%"
+                },
+                {
+                    "bbox": [
+                        1482,
+                        819,
+                        1533,
+                        833
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "21.0%"
+                },
+                {
+                    "bbox": [
+                        881,
+                        869,
+                        920,
+                        882
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "CMB"
+                },
+                {
+                    "bbox": [
+                        1271,
+                        869,
+                        1321,
+                        882
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14.0%"
+                },
+                {
+                    "bbox": [
+                        1483,
+                        869,
+                        1533,
+                        883
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14.0%"
+                },
+                {
+                    "bbox": [
+                        881,
+                        919,
+                        933,
+                        933
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "GB&M"
+                },
+                {
+                    "bbox": [
+                        1271,
+                        919,
+                        1321,
+                        933
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10.6%"
+                },
+                {
+                    "bbox": [
+                        1483,
+                        919,
+                        1533,
+                        933
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10.5%"
+                },
+                {
+                    "bbox": [
+                        881,
+                        969,
+                        918,
+                        983
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "GPB"
+                },
+                {
+                    "bbox": [
+                        1276,
+                        969,
+                        1316,
+                        983
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7.1%"
+                },
+                {
+                    "bbox": [
+                        1487,
+                        969,
+                        1528,
+                        983
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.9%"
+                },
+                {
+                    "bbox": [
+                        881,
+                        1019,
+                        1022,
+                        1037
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Corporate Centre"
+                },
+                {
+                    "bbox": [
+                        1270,
+                        1019,
+                        1322,
+                        1037
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(5.2)%"
+                },
+                {
+                    "bbox": [
+                        1481,
+                        1019,
+                        1535,
+                        1037
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(5.7)%"
+                }
+            ]
+        }
+    ]
+}

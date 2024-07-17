@@ -1,0 +1,737 @@
+{
+    "TD": [
+        [
+            192,
+            184,
+            818,
+            511
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        193,
+                        184,
+                        244,
+                        200
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "sample"
+                },
+                {
+                    "bbox": [
+                        542,
+                        188,
+                        581,
+                        197
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "mean"
+                },
+                {
+                    "bbox": [
+                        603,
+                        184,
+                        658,
+                        197
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "median"
+                },
+                {
+                    "bbox": [
+                        681,
+                        184,
+                        818,
+                        197
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "standard deviation"
+                },
+                {
+                    "bbox": [
+                        192,
+                        228,
+                        520,
+                        244
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "complete optical sample before 30 clipping"
+                },
+                {
+                    "bbox": [
+                        546,
+                        229,
+                        578,
+                        241
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.90"
+                },
+                {
+                    "bbox": [
+                        616,
+                        229,
+                        647,
+                        241
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.52"
+                },
+                {
+                    "bbox": [
+                        735,
+                        229,
+                        763,
+                        241
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.91"
+                },
+                {
+                    "bbox": [
+                        192,
+                        255,
+                        489,
+                        271
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Abell cluster R - 1 before 3a clipping"
+                },
+                {
+                    "bbox": [
+                        547,
+                        256,
+                        578,
+                        268
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.84"
+                },
+                {
+                    "bbox": [
+                        617,
+                        256,
+                        647,
+                        268
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.86"
+                },
+                {
+                    "bbox": [
+                        735,
+                        256,
+                        765,
+                        268
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.10"
+                },
+                {
+                    "bbox": [
+                        192,
+                        282,
+                        489,
+                        298
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Abell cluster R - 0 before 3a clipping"
+                },
+                {
+                    "bbox": [
+                        547,
+                        282,
+                        578,
+                        295
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.44"
+                },
+                {
+                    "bbox": [
+                        616,
+                        283,
+                        646,
+                        295
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.73"
+                },
+                {
+                    "bbox": [
+                        734,
+                        282,
+                        765,
+                        295
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.67"
+                },
+                {
+                    "bbox": [
+                        192,
+                        336,
+                        506,
+                        352
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "complete optical sample after 3a clipping"
+                },
+                {
+                    "bbox": [
+                        546,
+                        337,
+                        577,
+                        349
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.53"
+                },
+                {
+                    "bbox": [
+                        616,
+                        337,
+                        647,
+                        347
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.39"
+                },
+                {
+                    "bbox": [
+                        734,
+                        337,
+                        763,
+                        349
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.01"
+                },
+                {
+                    "bbox": [
+                        192,
+                        363,
+                        475,
+                        379
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Abell cluster R. - 1 after3a clipping"
+                },
+                {
+                    "bbox": [
+                        547,
+                        364,
+                        577,
+                        376
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.58"
+                },
+                {
+                    "bbox": [
+                        617,
+                        364,
+                        647,
+                        376
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.86"
+                },
+                {
+                    "bbox": [
+                        735,
+                        364,
+                        764,
+                        376
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.18"
+                },
+                {
+                    "bbox": [
+                        192,
+                        390,
+                        475,
+                        406
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Abell cluster R. - Oafter: 3a clipping"
+                },
+                {
+                    "bbox": [
+                        547,
+                        391,
+                        576,
+                        403
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.01"
+                },
+                {
+                    "bbox": [
+                        616,
+                        391,
+                        647,
+                        403
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.67"
+                },
+                {
+                    "bbox": [
+                        734,
+                        391,
+                        765,
+                        403
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.80"
+                },
+                {
+                    "bbox": [
+                        192,
+                        444,
+                        378,
+                        460
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "complete lensing sample"
+                },
+                {
+                    "bbox": [
+                        548,
+                        445,
+                        578,
+                        457
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.27"
+                },
+                {
+                    "bbox": [
+                        617,
+                        445,
+                        646,
+                        457
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.05"
+                },
+                {
+                    "bbox": [
+                        733,
+                        445,
+                        765,
+                        457
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.34"
+                },
+                {
+                    "bbox": [
+                        195,
+                        470,
+                        237,
+                        483
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "S>5"
+                },
+                {
+                    "bbox": [
+                        548,
+                        472,
+                        577,
+                        484
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.23"
+                },
+                {
+                    "bbox": [
+                        617,
+                        472,
+                        646,
+                        484
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.13"
+                },
+                {
+                    "bbox": [
+                        733,
+                        472,
+                        765,
+                        484
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.34"
+                },
+                {
+                    "bbox": [
+                        193,
+                        497,
+                        272,
+                        510
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5>9>4"
+                },
+                {
+                    "bbox": [
+                        548,
+                        499,
+                        577,
+                        511
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.32"
+                },
+                {
+                    "bbox": [
+                        617,
+                        499,
+                        646,
+                        511
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.02"
+                },
+                {
+                    "bbox": [
+                        733,
+                        499,
+                        763,
+                        511
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.31"
+                }
+            ]
+        }
+    ]
+}

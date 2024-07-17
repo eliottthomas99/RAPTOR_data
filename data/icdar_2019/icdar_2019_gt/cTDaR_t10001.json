@@ -1,0 +1,647 @@
+{
+    "TD": [
+        [
+            106,
+            784,
+            1092,
+            975
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        573,
+                        785,
+                        594,
+                        795
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "S&P"
+                },
+                {
+                    "bbox": [
+                        653,
+                        784,
+                        702,
+                        797
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Moody's"
+                },
+                {
+                    "bbox": [
+                        775,
+                        785,
+                        805,
+                        795
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "DBRS"
+                },
+                {
+                    "bbox": [
+                        897,
+                        784,
+                        922,
+                        795
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Fitch"
+                },
+                {
+                    "bbox": [
+                        1018,
+                        785,
+                        1076,
+                        795
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A.M."
+                },
+                {
+                    "bbox": [
+                        106,
+                        809,
+                        402,
+                        825
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "The Manufacturers Life Insurance Company"
+                },
+                {
+                    "bbox": [
+                        573,
+                        811,
+                        599,
+                        821
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AA-"
+                },
+                {
+                    "bbox": [
+                        653,
+                        811,
+                        669,
+                        821
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A1"
+                },
+                {
+                    "bbox": [
+                        774,
+                        810,
+                        839,
+                        824
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AA(Low)"
+                },
+                {
+                    "bbox": [
+                        897,
+                        811,
+                        923,
+                        821
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AA-"
+                },
+                {
+                    "bbox": [
+                        1018,
+                        811,
+                        1091,
+                        844
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A+ (Superior)"
+                },
+                {
+                    "bbox": [
+                        106,
+                        860,
+                        424,
+                        875
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "John Hancock Life Insurance Company (U.S.A.)"
+                },
+                {
+                    "bbox": [
+                        573,
+                        861,
+                        599,
+                        871
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AA-"
+                },
+                {
+                    "bbox": [
+                        653,
+                        861,
+                        669,
+                        871
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A1"
+                },
+                {
+                    "bbox": [
+                        775,
+                        860,
+                        848,
+                        872
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        897,
+                        861,
+                        923,
+                        871
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AA-"
+                },
+                {
+                    "bbox": [
+                        1018,
+                        861,
+                        1091,
+                        894
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A+ (Superior)"
+                },
+                {
+                    "bbox": [
+                        107,
+                        906,
+                        318,
+                        920
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Manulife (International) Limited"
+                },
+                {
+                    "bbox": [
+                        573,
+                        907,
+                        599,
+                        917
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AA-"
+                },
+                {
+                    "bbox": [
+                        653,
+                        906,
+                        726,
+                        918
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        775,
+                        906,
+                        848,
+                        918
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        897,
+                        906,
+                        970,
+                        918
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        1019,
+                        906,
+                        1092,
+                        918
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        107,
+                        933,
+                        333,
+                        948
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Manulife Life Insurance Company"
+                },
+                {
+                    "bbox": [
+                        573,
+                        934,
+                        592,
+                        944
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "A+"
+                },
+                {
+                    "bbox": [
+                        653,
+                        933,
+                        726,
+                        945
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        775,
+                        933,
+                        848,
+                        945
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        897,
+                        933,
+                        970,
+                        945
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        1019,
+                        933,
+                        1092,
+                        945
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        107,
+                        960,
+                        303,
+                        975
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Manulife (Singapore) Pte. Ltd."
+                },
+                {
+                    "bbox": [
+                        573,
+                        961,
+                        599,
+                        971
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AA-"
+                },
+                {
+                    "bbox": [
+                        653,
+                        960,
+                        726,
+                        972
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        775,
+                        960,
+                        848,
+                        972
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        897,
+                        960,
+                        970,
+                        972
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                },
+                {
+                    "bbox": [
+                        1019,
+                        960,
+                        1092,
+                        972
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Not Rated"
+                }
+            ]
+        }
+    ]
+}

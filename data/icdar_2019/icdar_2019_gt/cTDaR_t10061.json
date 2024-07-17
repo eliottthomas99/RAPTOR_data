@@ -1,0 +1,593 @@
+{
+    "TD": [
+        [
+            218,
+            389,
+            1024,
+            591
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        218,
+                        449,
+                        301,
+                        464
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Indication"
+                },
+                {
+                    "bbox": [
+                        423,
+                        449,
+                        459,
+                        464
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2013"
+                },
+                {
+                    "bbox": [
+                        492,
+                        449,
+                        528,
+                        464
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2017"
+                },
+                {
+                    "bbox": [
+                        550,
+                        449,
+                        598,
+                        464
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2022E"
+                },
+                {
+                    "bbox": [
+                        620,
+                        449,
+                        668,
+                        464
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2030E"
+                },
+                {
+                    "bbox": [
+                        686,
+                        389,
+                        780,
+                        467
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Historical CAGR (2013-2017)"
+                },
+                {
+                    "bbox": [
+                        798,
+                        389,
+                        904,
+                        467
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Predictive CAGR (2017-2030E)"
+                },
+                {
+                    "bbox": [
+                        921,
+                        390,
+                        1019,
+                        467
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Addressable Patients (2017)"
+                },
+                {
+                    "bbox": [
+                        219,
+                        517,
+                        253,
+                        530
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "AML"
+                },
+                {
+                    "bbox": [
+                        409,
+                        517,
+                        458,
+                        533
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17,400"
+                },
+                {
+                    "bbox": [
+                        479,
+                        517,
+                        528,
+                        533
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "18,800"
+                },
+                {
+                    "bbox": [
+                        547,
+                        517,
+                        598,
+                        533
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20,100"
+                },
+                {
+                    "bbox": [
+                        617,
+                        517,
+                        668,
+                        533
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "22,500"
+                },
+                {
+                    "bbox": [
+                        743,
+                        516,
+                        779,
+                        531
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.9%"
+                },
+                {
+                    "bbox": [
+                        867,
+                        517,
+                        902,
+                        531
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.4%"
+                },
+                {
+                    "bbox": [
+                        967,
+                        513,
+                        1024,
+                        533
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,600)"
+                },
+                {
+                    "bbox": [
+                        218,
+                        545,
+                        376,
+                        564
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Cholangiocarcinoma"
+                },
+                {
+                    "bbox": [
+                        407,
+                        545,
+                        458,
+                        562
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "79,900"
+                },
+                {
+                    "bbox": [
+                        478,
+                        545,
+                        528,
+                        562
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "85,800"
+                },
+                {
+                    "bbox": [
+                        547,
+                        545,
+                        598,
+                        562
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "92,900"
+                },
+                {
+                    "bbox": [
+                        609,
+                        545,
+                        668,
+                        562
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103,700"
+                },
+                {
+                    "bbox": [
+                        743,
+                        545,
+                        779,
+                        559
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.8%"
+                },
+                {
+                    "bbox": [
+                        867,
+                        545,
+                        902,
+                        559
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.5%"
+                },
+                {
+                    "bbox": [
+                        965,
+                        542,
+                        1024,
+                        562
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6,90012)"
+                },
+                {
+                    "bbox": [
+                        218,
+                        574,
+                        274,
+                        588
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Glioma"
+                },
+                {
+                    "bbox": [
+                        407,
+                        574,
+                        458,
+                        591
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "29,600"
+                },
+                {
+                    "bbox": [
+                        478,
+                        574,
+                        528,
+                        591
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "32,600"
+                },
+                {
+                    "bbox": [
+                        547,
+                        574,
+                        598,
+                        591
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "35,900"
+                },
+                {
+                    "bbox": [
+                        617,
+                        574,
+                        668,
+                        591
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "41,000"
+                },
+                {
+                    "bbox": [
+                        742,
+                        574,
+                        779,
+                        588
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.5%"
+                },
+                {
+                    "bbox": [
+                        867,
+                        574,
+                        902,
+                        588
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.8%"
+                },
+                {
+                    "bbox": [
+                        957,
+                        571,
+                        1024,
+                        591
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "13,60063)"
+                }
+            ]
+        }
+    ]
+}

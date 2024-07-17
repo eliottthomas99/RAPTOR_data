@@ -1,0 +1,773 @@
+{
+    "TD": [
+        [
+            99,
+            659,
+            682,
+            891
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        99,
+                        659,
+                        187,
+                        669
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Urbanized area"
+                },
+                {
+                    "bbox": [
+                        389,
+                        659,
+                        468,
+                        671
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Bands (MHz)"
+                },
+                {
+                    "bbox": [
+                        609,
+                        659,
+                        682,
+                        669
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "TV channels"
+                },
+                {
+                    "bbox": [
+                        99,
+                        677,
+                        171,
+                        687
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Boston, MA."
+                },
+                {
+                    "bbox": [
+                        389,
+                        677,
+                        494,
+                        687
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "470-476, 482-488."
+                },
+                {
+                    "bbox": [
+                        611,
+                        676,
+                        645,
+                        687
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14, 16"
+                },
+                {
+                    "bbox": [
+                        99,
+                        693,
+                        272,
+                        706
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Chicago, IL-Northwestern IN.."
+                },
+                {
+                    "bbox": [
+                        389,
+                        693,
+                        494,
+                        704
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "470-476, 476-482."
+                },
+                {
+                    "bbox": [
+                        611,
+                        693,
+                        644,
+                        704
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14, 15"
+                },
+                {
+                    "bbox": [
+                        99,
+                        710,
+                        186,
+                        721
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Cleveland, OH."
+                },
+                {
+                    "bbox": [
+                        389,
+                        710,
+                        494,
+                        721
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "470-476, 476-482."
+                },
+                {
+                    "bbox": [
+                        611,
+                        710,
+                        644,
+                        721
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14, 15"
+                },
+                {
+                    "bbox": [
+                        100,
+                        727,
+                        233,
+                        738
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dallas-Fort Worth, TX.."
+                },
+                {
+                    "bbox": [
+                        389,
+                        727,
+                        437,
+                        737
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "482-488."
+                },
+                {
+                    "bbox": [
+                        611,
+                        727,
+                        622,
+                        737
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16"
+                },
+                {
+                    "bbox": [
+                        99,
+                        744,
+                        165,
+                        755
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Detroit,"
+                },
+                {
+                    "bbox": [
+                        389,
+                        744,
+                        494,
+                        755
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "476-482, 482-488.."
+                },
+                {
+                    "bbox": [
+                        611,
+                        744,
+                        645,
+                        755
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "15, 16"
+                },
+                {
+                    "bbox": [
+                        100,
+                        761,
+                        175,
+                        773
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Houston, TX."
+                },
+                {
+                    "bbox": [
+                        389,
+                        761,
+                        438,
+                        771
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "488-494."
+                },
+                {
+                    "bbox": [
+                        611,
+                        761,
+                        622,
+                        770
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17"
+                },
+                {
+                    "bbox": [
+                        99,
+                        778,
+                        200,
+                        791
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Los Angeles, CA."
+                },
+                {
+                    "bbox": [
+                        389,
+                        778,
+                        550,
+                        790
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "470-476, 482-488, 506-512."
+                },
+                {
+                    "bbox": [
+                        611,
+                        778,
+                        667,
+                        790
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14, 16, 20"
+                },
+                {
+                    "bbox": [
+                        99,
+                        795,
+                        162,
+                        807
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Miami, FL."
+                },
+                {
+                    "bbox": [
+                        389,
+                        795,
+                        438,
+                        804
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "470-476.."
+                },
+                {
+                    "bbox": [
+                        611,
+                        795,
+                        623,
+                        804
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14"
+                },
+                {
+                    "bbox": [
+                        100,
+                        811,
+                        289,
+                        823
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "New York, NY-Northeastern NJ."
+                },
+                {
+                    "bbox": [
+                        389,
+                        812,
+                        550,
+                        822
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "470-476, 476-482, 482-488."
+                },
+                {
+                    "bbox": [
+                        611,
+                        812,
+                        667,
+                        822
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14, 15, 16"
+                },
+                {
+                    "bbox": [
+                        99,
+                        828,
+                        219,
+                        841
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Philadelphia, PA-NJ.,"
+                },
+                {
+                    "bbox": [
+                        390,
+                        828,
+                        494,
+                        839
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "500-506, 506-512.."
+                },
+                {
+                    "bbox": [
+                        611,
+                        828,
+                        644,
+                        839
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "19,2 20"
+                },
+                {
+                    "bbox": [
+                        99,
+                        845,
+                        185,
+                        858
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Pittsburgh, PA."
+                },
+                {
+                    "bbox": [
+                        389,
+                        845,
+                        494,
+                        858
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "470-476, 494-500.."
+                },
+                {
+                    "bbox": [
+                        611,
+                        845,
+                        644,
+                        856
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "14, 18"
+                },
+                {
+                    "bbox": [
+                        99,
+                        862,
+                        263,
+                        873
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "San Francisco-Oakland, CA."
+                },
+                {
+                    "bbox": [
+                        389,
+                        862,
+                        494,
+                        873
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "482-488, 488-494."
+                },
+                {
+                    "bbox": [
+                        611,
+                        862,
+                        644,
+                        873
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16, 17"
+                },
+                {
+                    "bbox": [
+                        99,
+                        879,
+                        251,
+                        891
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Washington, DC-MD-VA."
+                },
+                {
+                    "bbox": [
+                        389,
+                        879,
+                        494,
+                        889
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "488-494, 494-500.."
+                },
+                {
+                    "bbox": [
+                        611,
+                        879,
+                        644,
+                        890
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "17,18"
+                }
+            ]
+        }
+    ]
+}

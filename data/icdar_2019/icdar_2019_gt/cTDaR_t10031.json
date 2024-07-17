@@ -1,0 +1,892 @@
+{
+    "TD": [
+        [
+            96,
+            103,
+            1119,
+            337
+        ],
+        [
+            96,
+            1098,
+            1115,
+            1156
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        96,
+                        103,
+                        221,
+                        133
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "As at December 31, (Sr millions)"
+                },
+                {
+                    "bbox": [
+                        869,
+                        121,
+                        900,
+                        132
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2018"
+                },
+                {
+                    "bbox": [
+                        977,
+                        121,
+                        1006,
+                        131
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2017"
+                },
+                {
+                    "bbox": [
+                        1085,
+                        121,
+                        1115,
+                        131
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2016"
+                },
+                {
+                    "bbox": [
+                        97,
+                        146,
+                        263,
+                        161
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Non-controlling interests"
+                },
+                {
+                    "bbox": [
+                        835,
+                        146,
+                        899,
+                        160
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 1,093"
+                },
+                {
+                    "bbox": [
+                        943,
+                        146,
+                        1006,
+                        159
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 929"
+                },
+                {
+                    "bbox": [
+                        1051,
+                        146,
+                        1114,
+                        159
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 743"
+                },
+                {
+                    "bbox": [
+                        97,
+                        161,
+                        323,
+                        180
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Participating policyholders' equity"
+                },
+                {
+                    "bbox": [
+                        883,
+                        166,
+                        899,
+                        178
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "94"
+                },
+                {
+                    "bbox": [
+                        982,
+                        166,
+                        1004,
+                        177
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "221"
+                },
+                {
+                    "bbox": [
+                        1090,
+                        166,
+                        1115,
+                        177
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "248"
+                },
+                {
+                    "bbox": [
+                        97,
+                        184,
+                        204,
+                        196
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Preferred"
+                },
+                {
+                    "bbox": [
+                        860,
+                        185,
+                        900,
+                        199
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3,822"
+                },
+                {
+                    "bbox": [
+                        968,
+                        185,
+                        1006,
+                        197
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3,577"
+                },
+                {
+                    "bbox": [
+                        1076,
+                        185,
+                        1114,
+                        197
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3,577"
+                },
+                {
+                    "bbox": [
+                        97,
+                        203,
+                        312,
+                        218
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Common shareholders' equity\"\")"
+                },
+                {
+                    "bbox": [
+                        851,
+                        204,
+                        900,
+                        217
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "42,142"
+                },
+                {
+                    "bbox": [
+                        960,
+                        204,
+                        1007,
+                        216
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "37,436"
+                },
+                {
+                    "bbox": [
+                        1067,
+                        204,
+                        1114,
+                        216
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "38,255"
+                },
+                {
+                    "bbox": [
+                        96,
+                        230,
+                        175,
+                        245
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total equity"
+                },
+                {
+                    "bbox": [
+                        851,
+                        231,
+                        898,
+                        245
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47,151"
+                },
+                {
+                    "bbox": [
+                        959,
+                        231,
+                        1006,
+                        243
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "42,163"
+                },
+                {
+                    "bbox": [
+                        1067,
+                        231,
+                        1114,
+                        243
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "42,823"
+                },
+                {
+                    "bbox": [
+                        96,
+                        249,
+                        592,
+                        264
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Adjusted for accumulated other comprehensive loss on cash flow hedges"
+                },
+                {
+                    "bbox": [
+                        868,
+                        249,
+                        904,
+                        263
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(127)"
+                },
+                {
+                    "bbox": [
+                        977,
+                        249,
+                        1011,
+                        263
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(109)"
+                },
+                {
+                    "bbox": [
+                        1085,
+                        249,
+                        1119,
+                        263
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "(232)"
+                },
+                {
+                    "bbox": [
+                        96,
+                        276,
+                        657,
+                        291
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total equity excluding accumulated other comprehensive loss on cash flow hedges"
+                },
+                {
+                    "bbox": [
+                        851,
+                        277,
+                        900,
+                        291
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "47,278"
+                },
+                {
+                    "bbox": [
+                        959,
+                        277,
+                        1006,
+                        289
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "42,272"
+                },
+                {
+                    "bbox": [
+                        1067,
+                        277,
+                        1114,
+                        289
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "43,055"
+                },
+                {
+                    "bbox": [
+                        97,
+                        295,
+                        298,
+                        310
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Qualifying capital instruments"
+                },
+                {
+                    "bbox": [
+                        860,
+                        296,
+                        900,
+                        310
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8,732"
+                },
+                {
+                    "bbox": [
+                        968,
+                        296,
+                        1006,
+                        308
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8,387"
+                },
+                {
+                    "bbox": [
+                        1077,
+                        296,
+                        1115,
+                        308
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7,180"
+                },
+                {
+                    "bbox": [
+                        97,
+                        322,
+                        247,
+                        337
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Consolidated capital"
+                },
+                {
+                    "bbox": [
+                        835,
+                        322,
+                        900,
+                        337
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 56,010"
+                },
+                {
+                    "bbox": [
+                        943,
+                        322,
+                        1007,
+                        336
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 50,659"
+                },
+                {
+                    "bbox": [
+                        1051,
+                        322,
+                        1114,
+                        336
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 50,235"
+                }
+            ]
+        },
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        97,
+                        1098,
+                        319,
+                        1129
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "For the years ended December 31, $ per share"
+                },
+                {
+                    "bbox": [
+                        869,
+                        1117,
+                        900,
+                        1127
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2018"
+                },
+                {
+                    "bbox": [
+                        978,
+                        1117,
+                        1006,
+                        1126
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2017"
+                },
+                {
+                    "bbox": [
+                        1086,
+                        1117,
+                        1115,
+                        1126
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2016"
+                },
+                {
+                    "bbox": [
+                        96,
+                        1134,
+                        208,
+                        1156
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dividends paid"
+                },
+                {
+                    "bbox": [
+                        844,
+                        1141,
+                        900,
+                        1155
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 0.910"
+                },
+                {
+                    "bbox": [
+                        952,
+                        1141,
+                        1007,
+                        1155
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 0.820"
+                },
+                {
+                    "bbox": [
+                        1060,
+                        1141,
+                        1115,
+                        1155
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 0.740"
+                }
+            ]
+        }
+    ]
+}

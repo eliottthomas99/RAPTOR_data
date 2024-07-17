@@ -1,0 +1,503 @@
+{
+    "TD": [
+        [
+            170,
+            141,
+            1017,
+            1220
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        220,
+                        229,
+                        326,
+                        243
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Company name"
+                },
+                {
+                    "bbox": [
+                        343,
+                        163,
+                        446,
+                        240
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Date of establishment commencement of business"
+                },
+                {
+                    "bbox": [
+                        469,
+                        141,
+                        552,
+                        240
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Registered capital as at Date the Latest Practicable"
+                },
+                {
+                    "bbox": [
+                        576,
+                        207,
+                        700,
+                        240
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Principal business activities"
+                },
+                {
+                    "bbox": [
+                        730,
+                        141,
+                        815,
+                        243
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Property projects by it development undertaken"
+                },
+                {
+                    "bbox": [
+                        849,
+                        163,
+                        1013,
+                        243
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Shareholder(s) as of the Latest Practicable Date (shareholding percentage)"
+                },
+                {
+                    "bbox": [
+                        170,
+                        283,
+                        177,
+                        294
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5."
+                },
+                {
+                    "bbox": [
+                        214,
+                        283,
+                        320,
+                        319
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Zhejiang Dexin Donghang"
+                },
+                {
+                    "bbox": [
+                        342,
+                        283,
+                        422,
+                        315
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "October 29, 2010"
+                },
+                {
+                    "bbox": [
+                        511,
+                        283,
+                        562,
+                        315
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "RMB50 million"
+                },
+                {
+                    "bbox": [
+                        574,
+                        283,
+                        676,
+                        319
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Property development"
+                },
+                {
+                    "bbox": [
+                        713,
+                        283,
+                        819,
+                        318
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "North Sea Park (bAE)"
+                },
+                {
+                    "bbox": [
+                        843,
+                        283,
+                        1017,
+                        977
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dexin Real Estate (55%), Huahe Holding Group Co., Ltd.* ( FEA y (formerly known as Zhejiang Huahe Enterprise Co., Ltd.* (T E)) (\"Huahe Holding\") (15%), Hangzhou Erjian Construction Co., Ltd.* (LH: KKAFJ) (\"Hangzhou Erjian\") (10%), Hangzhou Donghang Real Estate Development Co., Ltd.* (\"Hangzhou Donghang\") (10%), Huzhou Yueqiu Investment Co., Ltd.* 957 FJ) \"Huzhou Yueqiu\" \") (5%) and Zhejiang Henghu Enterprise Co., Ltd.* TL1 TJ) (\"Zhejiang Henghu\") (5%)"
+                },
+                {
+                    "bbox": [
+                        170,
+                        1008,
+                        178,
+                        1019
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6."
+                },
+                {
+                    "bbox": [
+                        215,
+                        1008,
+                        323,
+                        1041
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Wenzhou Dexin Real Estate"
+                },
+                {
+                    "bbox": [
+                        342,
+                        1008,
+                        411,
+                        1041
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "March 29, 2013"
+                },
+                {
+                    "bbox": [
+                        511,
+                        1008,
+                        562,
+                        1041
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "RMB10 million"
+                },
+                {
+                    "bbox": [
+                        574,
+                        1008,
+                        693,
+                        1063
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Property development and investment"
+                },
+                {
+                    "bbox": [
+                        714,
+                        1008,
+                        819,
+                        1043
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Berlin Mansion (A* AE)"
+                },
+                {
+                    "bbox": [
+                        843,
+                        1008,
+                        1015,
+                        1132
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "and Wenzhou Dadong Enterprise Co., Ltd.* F) (\"Wenzhou Dadong\" ) (49%) Dexin Real Estate (51%)"
+                },
+                {
+                    "bbox": [
+                        170,
+                        1163,
+                        177,
+                        1174
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7."
+                },
+                {
+                    "bbox": [
+                        214,
+                        1163,
+                        323,
+                        1196
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Wenzhou Dexin Wutian"
+                },
+                {
+                    "bbox": [
+                        342,
+                        1163,
+                        396,
+                        1196
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "July 16, 2013"
+                },
+                {
+                    "bbox": [
+                        511,
+                        1163,
+                        562,
+                        1195
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "RMB10 million"
+                },
+                {
+                    "bbox": [
+                        574,
+                        1163,
+                        693,
+                        1218
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Property development and investment"
+                },
+                {
+                    "bbox": [
+                        713,
+                        1163,
+                        818,
+                        1198
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "No. 1 Lakeside 35 - EE)"
+                },
+                {
+                    "bbox": [
+                        843,
+                        1163,
+                        1015,
+                        1220
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "and Wenzhou Dadong (35%) Dexin Real Estate (65%)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1181 @@
+{
+    "TD": [
+        [
+            252,
+            601,
+            878,
+            1200
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        253,
+                        602,
+                        374,
+                        616
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Characteristic"
+                },
+                {
+                    "bbox": [
+                        462,
+                        601,
+                        559,
+                        655
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "% Same all all days"
+                },
+                {
+                    "bbox": [
+                        578,
+                        601,
+                        682,
+                        655
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "% Same all but one day"
+                },
+                {
+                    "bbox": [
+                        701,
+                        601,
+                        814,
+                        655
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "% Same all but two days"
+                },
+                {
+                    "bbox": [
+                        833,
+                        602,
+                        878,
+                        616
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        420,
+                        674,
+                        709,
+                        693
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Three weekday Sample (N = 25)"
+                },
+                {
+                    "bbox": [
+                        252,
+                        712,
+                        344,
+                        729
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total trips"
+                },
+                {
+                    "bbox": [
+                        462,
+                        712,
+                        485,
+                        726
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.0"
+                },
+                {
+                    "bbox": [
+                        578,
+                        712,
+                        612,
+                        726
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "40.0"
+                },
+                {
+                    "bbox": [
+                        833,
+                        712,
+                        867,
+                        726
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "48.0"
+                },
+                {
+                    "bbox": [
+                        252,
+                        748,
+                        384,
+                        765
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Non-work trips"
+                },
+                {
+                    "bbox": [
+                        463,
+                        748,
+                        495,
+                        762
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12.0"
+                },
+                {
+                    "bbox": [
+                        578,
+                        748,
+                        612,
+                        762
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "40.0"
+                },
+                {
+                    "bbox": [
+                        834,
+                        748,
+                        867,
+                        762
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "52.0"
+                },
+                {
+                    "bbox": [
+                        253,
+                        785,
+                        443,
+                        802
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dep. time from home"
+                },
+                {
+                    "bbox": [
+                        461,
+                        785,
+                        495,
+                        799
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "44.0"
+                },
+                {
+                    "bbox": [
+                        578,
+                        785,
+                        612,
+                        799
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "40.0"
+                },
+                {
+                    "bbox": [
+                        834,
+                        785,
+                        867,
+                        799
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "84.0"
+                },
+                {
+                    "bbox": [
+                        253,
+                        821,
+                        439,
+                        835
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Final arrival at home"
+                },
+                {
+                    "bbox": [
+                        462,
+                        821,
+                        495,
+                        835
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "72.0"
+                },
+                {
+                    "bbox": [
+                        579,
+                        821,
+                        612,
+                        835
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "24.0"
+                },
+                {
+                    "bbox": [
+                        834,
+                        821,
+                        867,
+                        835
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "96.0"
+                },
+                {
+                    "bbox": [
+                        426,
+                        857,
+                        704,
+                        876
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Four weekday Sample (N -= 32)"
+                },
+                {
+                    "bbox": [
+                        252,
+                        895,
+                        344,
+                        912
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total trips"
+                },
+                {
+                    "bbox": [
+                        462,
+                        895,
+                        485,
+                        909
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1"
+                },
+                {
+                    "bbox": [
+                        579,
+                        895,
+                        601,
+                        909
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.3"
+                },
+                {
+                    "bbox": [
+                        701,
+                        895,
+                        735,
+                        909
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "40.6"
+                },
+                {
+                    "bbox": [
+                        834,
+                        895,
+                        867,
+                        909
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50.0"
+                },
+                {
+                    "bbox": [
+                        252,
+                        931,
+                        384,
+                        948
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Non-work trips"
+                },
+                {
+                    "bbox": [
+                        462,
+                        931,
+                        485,
+                        945
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1"
+                },
+                {
+                    "bbox": [
+                        580,
+                        931,
+                        612,
+                        945
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "18.8"
+                },
+                {
+                    "bbox": [
+                        701,
+                        931,
+                        735,
+                        945
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "43.8"
+                },
+                {
+                    "bbox": [
+                        834,
+                        931,
+                        867,
+                        945
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "63.6"
+                },
+                {
+                    "bbox": [
+                        253,
+                        967,
+                        443,
+                        984
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dep. time from home"
+                },
+                {
+                    "bbox": [
+                        462,
+                        967,
+                        496,
+                        981
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "34.4"
+                },
+                {
+                    "bbox": [
+                        579,
+                        967,
+                        612,
+                        981
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "37.5"
+                },
+                {
+                    "bbox": [
+                        702,
+                        967,
+                        726,
+                        981
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.4"
+                },
+                {
+                    "bbox": [
+                        834,
+                        967,
+                        867,
+                        981
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "81.3"
+                },
+                {
+                    "bbox": [
+                        253,
+                        1004,
+                        439,
+                        1018
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Final arrival at home"
+                },
+                {
+                    "bbox": [
+                        462,
+                        1004,
+                        496,
+                        1018
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "59.4"
+                },
+                {
+                    "bbox": [
+                        578,
+                        1004,
+                        612,
+                        1018
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "40.6"
+                },
+                {
+                    "bbox": [
+                        702,
+                        1004,
+                        725,
+                        1018
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.0"
+                },
+                {
+                    "bbox": [
+                        835,
+                        1004,
+                        877,
+                        1018
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "100.0"
+                },
+                {
+                    "bbox": [
+                        428,
+                        1040,
+                        703,
+                        1059
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Five weekday Sample (N = 24)"
+                },
+                {
+                    "bbox": [
+                        252,
+                        1078,
+                        344,
+                        1095
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total trips"
+                },
+                {
+                    "bbox": [
+                        462,
+                        1078,
+                        485,
+                        1092
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.0"
+                },
+                {
+                    "bbox": [
+                        578,
+                        1078,
+                        599,
+                        1091
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.1"
+                },
+                {
+                    "bbox": [
+                        703,
+                        1078,
+                        736,
+                        1092
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16.7"
+                },
+                {
+                    "bbox": [
+                        834,
+                        1078,
+                        867,
+                        1092
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20.8"
+                },
+                {
+                    "bbox": [
+                        252,
+                        1114,
+                        384,
+                        1131
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Non-work trips"
+                },
+                {
+                    "bbox": [
+                        462,
+                        1114,
+                        485,
+                        1128
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.0"
+                },
+                {
+                    "bbox": [
+                        578,
+                        1114,
+                        599,
+                        1127
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.1"
+                },
+                {
+                    "bbox": [
+                        703,
+                        1114,
+                        736,
+                        1128
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "16.7"
+                },
+                {
+                    "bbox": [
+                        834,
+                        1114,
+                        867,
+                        1128
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "20.8"
+                },
+                {
+                    "bbox": [
+                        253,
+                        1150,
+                        443,
+                        1167
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Dep. time from home"
+                },
+                {
+                    "bbox": [
+                        462,
+                        1150,
+                        485,
+                        1164
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.3"
+                },
+                {
+                    "bbox": [
+                        578,
+                        1150,
+                        612,
+                        1164
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "41.6"
+                },
+                {
+                    "bbox": [
+                        702,
+                        1150,
+                        735,
+                        1164
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "33.3"
+                },
+                {
+                    "bbox": [
+                        834,
+                        1150,
+                        867,
+                        1164
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "83.2"
+                },
+                {
+                    "bbox": [
+                        253,
+                        1186,
+                        440,
+                        1200
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Final arrival at home"
+                },
+                {
+                    "bbox": [
+                        462,
+                        1186,
+                        495,
+                        1200
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50.0"
+                },
+                {
+                    "bbox": [
+                        579,
+                        1186,
+                        612,
+                        1200
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "37.5"
+                },
+                {
+                    "bbox": [
+                        702,
+                        1186,
+                        725,
+                        1200
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8.3"
+                },
+                {
+                    "bbox": [
+                        834,
+                        1186,
+                        867,
+                        1200
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "95.8"
+                }
+            ]
+        }
+    ]
+}

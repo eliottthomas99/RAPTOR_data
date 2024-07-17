@@ -1,0 +1,377 @@
+{
+    "TD": [
+        [
+            350,
+            1299,
+            1090,
+            1502
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        351,
+                        1300,
+                        407,
+                        1316
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Region"
+                },
+                {
+                    "bbox": [
+                        651,
+                        1299,
+                        909,
+                        1312
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Archived sources ofinformation"
+                },
+                {
+                    "bbox": [
+                        1014,
+                        1300,
+                        1050,
+                        1312
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Data"
+                },
+                {
+                    "bbox": [
+                        724,
+                        1330,
+                        838,
+                        1344
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "% of countries"
+                },
+                {
+                    "bbox": [
+                        976,
+                        1330,
+                        1090,
+                        1344
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "% of countries"
+                },
+                {
+                    "bbox": [
+                        350,
+                        1362,
+                        395,
+                        1376
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Africa"
+                },
+                {
+                    "bbox": [
+                        771,
+                        1363,
+                        785,
+                        1375
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "41"
+                },
+                {
+                    "bbox": [
+                        1023,
+                        1363,
+                        1040,
+                        1376
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "28"
+                },
+                {
+                    "bbox": [
+                        350,
+                        1395,
+                        424,
+                        1407
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Americas"
+                },
+                {
+                    "bbox": [
+                        771,
+                        1395,
+                        788,
+                        1407
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "69"
+                },
+                {
+                    "bbox": [
+                        1023,
+                        1395,
+                        1040,
+                        1407
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "69"
+                },
+                {
+                    "bbox": [
+                        350,
+                        1426,
+                        383,
+                        1439
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Asia"
+                },
+                {
+                    "bbox": [
+                        771,
+                        1426,
+                        788,
+                        1439
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "68"
+                },
+                {
+                    "bbox": [
+                        1023,
+                        1426,
+                        1037,
+                        1439
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "51"
+                },
+                {
+                    "bbox": [
+                        351,
+                        1458,
+                        408,
+                        1476
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Europe"
+                },
+                {
+                    "bbox": [
+                        771,
+                        1458,
+                        789,
+                        1471
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "86"
+                },
+                {
+                    "bbox": [
+                        1022,
+                        1458,
+                        1041,
+                        1471
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "60"
+                },
+                {
+                    "bbox": [
+                        351,
+                        1489,
+                        416,
+                        1502
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Oceania"
+                },
+                {
+                    "bbox": [
+                        771,
+                        1489,
+                        788,
+                        1502
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "57"
+                },
+                {
+                    "bbox": [
+                        1023,
+                        1489,
+                        1040,
+                        1502
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "57"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,539 @@
+{
+    "TD": [
+        [
+            107,
+            146,
+            1118,
+            442
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        766,
+                        146,
+                        800,
+                        158
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2016"
+                },
+                {
+                    "bbox": [
+                        904,
+                        146,
+                        938,
+                        158
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2015"
+                },
+                {
+                    "bbox": [
+                        1042,
+                        146,
+                        1076,
+                        158
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2014"
+                },
+                {
+                    "bbox": [
+                        107,
+                        172,
+                        191,
+                        185
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Numerator:"
+                },
+                {
+                    "bbox": [
+                        143,
+                        200,
+                        232,
+                        214
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "income"
+                },
+                {
+                    "bbox": [
+                        724,
+                        200,
+                        841,
+                        216
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 45,687"
+                },
+                {
+                    "bbox": [
+                        862,
+                        199,
+                        980,
+                        216
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 53,394"
+                },
+                {
+                    "bbox": [
+                        1000,
+                        200,
+                        1117,
+                        216
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 39,510"
+                },
+                {
+                    "bbox": [
+                        107,
+                        256,
+                        209,
+                        270
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Denominator:"
+                },
+                {
+                    "bbox": [
+                        142,
+                        284,
+                        445,
+                        301
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Weighted-average shares outstanding"
+                },
+                {
+                    "bbox": [
+                        762,
+                        285,
+                        841,
+                        299
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5,470,820"
+                },
+                {
+                    "bbox": [
+                        900,
+                        285,
+                        976,
+                        299
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5,753,421"
+                },
+                {
+                    "bbox": [
+                        1039,
+                        285,
+                        1117,
+                        299
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6,085,572"
+                },
+                {
+                    "bbox": [
+                        143,
+                        312,
+                        350,
+                        326
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Effect of dilutive securities"
+                },
+                {
+                    "bbox": [
+                        787,
+                        313,
+                        839,
+                        327
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "29,461"
+                },
+                {
+                    "bbox": [
+                        925,
+                        313,
+                        979,
+                        326
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "39,648"
+                },
+                {
+                    "bbox": [
+                        1063,
+                        313,
+                        1115,
+                        328
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "37,091"
+                },
+                {
+                    "bbox": [
+                        142,
+                        340,
+                        405,
+                        357
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Weighted-average diluted shares"
+                },
+                {
+                    "bbox": [
+                        762,
+                        341,
+                        838,
+                        355
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5,500,281"
+                },
+                {
+                    "bbox": [
+                        900,
+                        341,
+                        979,
+                        355
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5,793,069"
+                },
+                {
+                    "bbox": [
+                        1039,
+                        341,
+                        1117,
+                        355
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6,122,663"
+                },
+                {
+                    "bbox": [
+                        107,
+                        396,
+                        304,
+                        413
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Basic earnings per share"
+                },
+                {
+                    "bbox": [
+                        724,
+                        396,
+                        841,
+                        411
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 8.35"
+                },
+                {
+                    "bbox": [
+                        862,
+                        396,
+                        979,
+                        411
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.28"
+                },
+                {
+                    "bbox": [
+                        1000,
+                        395,
+                        1117,
+                        411
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 6.49"
+                },
+                {
+                    "bbox": [
+                        107,
+                        424,
+                        317,
+                        442
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Diluted earnings per share"
+                },
+                {
+                    "bbox": [
+                        724,
+                        424,
+                        839,
+                        440
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 8.31"
+                },
+                {
+                    "bbox": [
+                        862,
+                        423,
+                        978,
+                        440
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 9.22"
+                },
+                {
+                    "bbox": [
+                        1000,
+                        424,
+                        1118,
+                        440
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "$ 6.45"
+                }
+            ]
+        }
+    ]
+}

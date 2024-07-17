@@ -1,0 +1,1494 @@
+{
+    "TD": [
+        [
+            77,
+            268,
+            701,
+            794
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        295,
+                        274,
+                        327,
+                        284
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Supply"
+                },
+                {
+                    "bbox": [
+                        534,
+                        268,
+                        557,
+                        282
+                    ],
+                    "column_nums": [
+                        2,
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Use"
+                },
+                {
+                    "bbox": [
+                        300,
+                        293,
+                        321,
+                        301
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        409,
+                        293,
+                        527,
+                        303
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Intermediate consumption"
+                },
+                {
+                    "bbox": [
+                        574,
+                        293,
+                        675,
+                        303
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Fixed capital formation"
+                },
+                {
+                    "bbox": [
+                        241,
+                        312,
+                        537,
+                        321
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Case :: Separate commodity groups for machines and spare parts"
+                },
+                {
+                    "bbox": [
+                        78,
+                        330,
+                        121,
+                        339
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Machines"
+                },
+                {
+                    "bbox": [
+                        77,
+                        349,
+                        181,
+                        359
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at current pricest"
+                },
+                {
+                    "bbox": [
+                        358,
+                        350,
+                        386,
+                        357
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "800.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        350,
+                        700,
+                        357
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "800.00"
+                },
+                {
+                    "bbox": [
+                        78,
+                        368,
+                        126,
+                        376
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Price index"
+                },
+                {
+                    "bbox": [
+                        359,
+                        369,
+                        386,
+                        375
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "110.00"
+                },
+                {
+                    "bbox": [
+                        673,
+                        369,
+                        700,
+                        375
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "110.00"
+                },
+                {
+                    "bbox": [
+                        77,
+                        387,
+                        182,
+                        397
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at constant prices"
+                },
+                {
+                    "bbox": [
+                        358,
+                        388,
+                        386,
+                        394
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "727.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        388,
+                        700,
+                        394
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "727.00"
+                },
+                {
+                    "bbox": [
+                        77,
+                        406,
+                        138,
+                        414
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Volumei index"
+                },
+                {
+                    "bbox": [
+                        359,
+                        407,
+                        386,
+                        414
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103.90"
+                },
+                {
+                    "bbox": [
+                        673,
+                        407,
+                        700,
+                        414
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103.90"
+                },
+                {
+                    "bbox": [
+                        78,
+                        425,
+                        189,
+                        434
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at current pricest"
+                },
+                {
+                    "bbox": [
+                        358,
+                        425,
+                        386,
+                        432
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "700.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        426,
+                        698,
+                        432
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "700.00"
+                },
+                {
+                    "bbox": [
+                        78,
+                        444,
+                        130,
+                        454
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Spare parts"
+                },
+                {
+                    "bbox": [
+                        78,
+                        463,
+                        181,
+                        473
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at current pricest"
+                },
+                {
+                    "bbox": [
+                        358,
+                        463,
+                        386,
+                        470
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "500.00"
+                },
+                {
+                    "bbox": [
+                        515,
+                        463,
+                        543,
+                        470
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "500.00"
+                },
+                {
+                    "bbox": [
+                        78,
+                        482,
+                        126,
+                        490
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Pricei index"
+                },
+                {
+                    "bbox": [
+                        359,
+                        482,
+                        386,
+                        489
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "105.00"
+                },
+                {
+                    "bbox": [
+                        515,
+                        482,
+                        543,
+                        489
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "105.00"
+                },
+                {
+                    "bbox": [
+                        77,
+                        501,
+                        178,
+                        510
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at constant prices"
+                },
+                {
+                    "bbox": [
+                        358,
+                        501,
+                        386,
+                        508
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "476.00"
+                },
+                {
+                    "bbox": [
+                        514,
+                        501,
+                        543,
+                        508
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "476.00"
+                },
+                {
+                    "bbox": [
+                        77,
+                        520,
+                        138,
+                        528
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Volume index"
+                },
+                {
+                    "bbox": [
+                        359,
+                        520,
+                        386,
+                        527
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "105.80"
+                },
+                {
+                    "bbox": [
+                        515,
+                        520,
+                        543,
+                        527
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "105.80"
+                },
+                {
+                    "bbox": [
+                        78,
+                        538,
+                        189,
+                        548
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at current pricest t-1"
+                },
+                {
+                    "bbox": [
+                        358,
+                        539,
+                        386,
+                        546
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "450.00"
+                },
+                {
+                    "bbox": [
+                        515,
+                        539,
+                        543,
+                        546
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "450.00"
+                },
+                {
+                    "bbox": [
+                        77,
+                        557,
+                        99,
+                        565
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        77,
+                        576,
+                        189,
+                        586
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at current prices t-1"
+                },
+                {
+                    "bbox": [
+                        353,
+                        577,
+                        386,
+                        583
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1300.00"
+                },
+                {
+                    "bbox": [
+                        515,
+                        577,
+                        543,
+                        584
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "500.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        577,
+                        700,
+                        583
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "800.00"
+                },
+                {
+                    "bbox": [
+                        78,
+                        595,
+                        125,
+                        603
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Price index"
+                },
+                {
+                    "bbox": [
+                        359,
+                        596,
+                        386,
+                        603
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "108.10"
+                },
+                {
+                    "bbox": [
+                        516,
+                        596,
+                        543,
+                        603
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "105.00"
+                },
+                {
+                    "bbox": [
+                        673,
+                        596,
+                        700,
+                        602
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "110.00"
+                },
+                {
+                    "bbox": [
+                        77,
+                        614,
+                        178,
+                        624
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at constant prices"
+                },
+                {
+                    "bbox": [
+                        353,
+                        614,
+                        386,
+                        622
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1203.00"
+                },
+                {
+                    "bbox": [
+                        514,
+                        614,
+                        544,
+                        622
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "476.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        615,
+                        700,
+                        622
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "727.00"
+                },
+                {
+                    "bbox": [
+                        77,
+                        633,
+                        138,
+                        641
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Volume index"
+                },
+                {
+                    "bbox": [
+                        359,
+                        634,
+                        386,
+                        640
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "104.60"
+                },
+                {
+                    "bbox": [
+                        515,
+                        633,
+                        543,
+                        640
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "105.80"
+                },
+                {
+                    "bbox": [
+                        672,
+                        633,
+                        700,
+                        640
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "103.90"
+                },
+                {
+                    "bbox": [
+                        77,
+                        652,
+                        189,
+                        661
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at current prices t-1"
+                },
+                {
+                    "bbox": [
+                        353,
+                        652,
+                        386,
+                        659
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1150.00"
+                },
+                {
+                    "bbox": [
+                        514,
+                        652,
+                        543,
+                        659
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "450.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        652,
+                        700,
+                        659
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "700.00"
+                },
+                {
+                    "bbox": [
+                        252,
+                        671,
+                        525,
+                        680
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Case Il: One commodity group for machines and spare parts"
+                },
+                {
+                    "bbox": [
+                        77,
+                        690,
+                        100,
+                        697
+                    ],
+                    "column_nums": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "row_nums": [
+                        22
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Total"
+                },
+                {
+                    "bbox": [
+                        77,
+                        708,
+                        189,
+                        719
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at current prices t-1"
+                },
+                {
+                    "bbox": [
+                        353,
+                        709,
+                        386,
+                        716
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1300.00"
+                },
+                {
+                    "bbox": [
+                        515,
+                        709,
+                        543,
+                        716
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "500.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        709,
+                        700,
+                        716
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        23
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "800.00"
+                },
+                {
+                    "bbox": [
+                        78,
+                        727,
+                        126,
+                        736
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Price index"
+                },
+                {
+                    "bbox": [
+                        359,
+                        728,
+                        386,
+                        735
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "108.10"
+                },
+                {
+                    "bbox": [
+                        515,
+                        728,
+                        543,
+                        735
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "108.10"
+                },
+                {
+                    "bbox": [
+                        672,
+                        728,
+                        700,
+                        735
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        24
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "108.10"
+                },
+                {
+                    "bbox": [
+                        77,
+                        746,
+                        182,
+                        756
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at constant prices"
+                },
+                {
+                    "bbox": [
+                        353,
+                        747,
+                        387,
+                        754
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1203.00"
+                },
+                {
+                    "bbox": [
+                        514,
+                        747,
+                        542,
+                        754
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "463.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        747,
+                        701,
+                        754
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        25
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "740.00"
+                },
+                {
+                    "bbox": [
+                        77,
+                        765,
+                        138,
+                        773
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Volume index"
+                },
+                {
+                    "bbox": [
+                        359,
+                        766,
+                        386,
+                        773
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "104.60"
+                },
+                {
+                    "bbox": [
+                        516,
+                        766,
+                        544,
+                        773
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "102.90"
+                },
+                {
+                    "bbox": [
+                        673,
+                        766,
+                        700,
+                        773
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        26
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "105.70"
+                },
+                {
+                    "bbox": [
+                        77,
+                        784,
+                        189,
+                        794
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value at current pricest t-1"
+                },
+                {
+                    "bbox": [
+                        353,
+                        785,
+                        386,
+                        791
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1150.00"
+                },
+                {
+                    "bbox": [
+                        514,
+                        785,
+                        543,
+                        791
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "450.00"
+                },
+                {
+                    "bbox": [
+                        672,
+                        785,
+                        700,
+                        791
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        27
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "700.00"
+                }
+            ]
+        }
+    ]
+}

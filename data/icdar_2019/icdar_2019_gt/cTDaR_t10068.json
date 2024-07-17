@@ -1,0 +1,3052 @@
+{
+    "TD": [
+        [
+            113,
+            226,
+            668,
+            397
+        ],
+        [
+            114,
+            451,
+            677,
+            991
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        527,
+                        226,
+                        553,
+                        234
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2017"
+                },
+                {
+                    "bbox": [
+                        584,
+                        226,
+                        611,
+                        234
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2018"
+                },
+                {
+                    "bbox": [
+                        642,
+                        226,
+                        668,
+                        234
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2019"
+                },
+                {
+                    "bbox": [
+                        113,
+                        243,
+                        320,
+                        254
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Short-term interest rate (annual average)"
+                },
+                {
+                    "bbox": [
+                        531,
+                        243,
+                        547,
+                        251
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "n.d."
+                },
+                {
+                    "bbox": [
+                        589,
+                        243,
+                        605,
+                        251
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.2"
+                },
+                {
+                    "bbox": [
+                        648,
+                        243,
+                        663,
+                        251
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.0"
+                },
+                {
+                    "bbox": [
+                        114,
+                        261,
+                        317,
+                        271
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Long-term interest rate (annual average)"
+                },
+                {
+                    "bbox": [
+                        532,
+                        261,
+                        547,
+                        269
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.1"
+                },
+                {
+                    "bbox": [
+                        590,
+                        261,
+                        605,
+                        269
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.7"
+                },
+                {
+                    "bbox": [
+                        647,
+                        261,
+                        663,
+                        269
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.3"
+                },
+                {
+                    "bbox": [
+                        114,
+                        279,
+                        310,
+                        290
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "USD/\u20ac exchange rate (annual average)"
+                },
+                {
+                    "bbox": [
+                        529,
+                        279,
+                        551,
+                        287
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.13"
+                },
+                {
+                    "bbox": [
+                        587,
+                        279,
+                        609,
+                        287
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.18"
+                },
+                {
+                    "bbox": [
+                        644,
+                        279,
+                        666,
+                        287
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.16"
+                },
+                {
+                    "bbox": [
+                        114,
+                        297,
+                        276,
+                        307
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Nominal effective exchange rate"
+                },
+                {
+                    "bbox": [
+                        533,
+                        297,
+                        547,
+                        305
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.1"
+                },
+                {
+                    "bbox": [
+                        590,
+                        297,
+                        606,
+                        305
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.8"
+                },
+                {
+                    "bbox": [
+                        647,
+                        297,
+                        662,
+                        305
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.7"
+                },
+                {
+                    "bbox": [
+                        113,
+                        315,
+                        275,
+                        325
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "World excluding EU, GDP growth"
+                },
+                {
+                    "bbox": [
+                        532,
+                        315,
+                        548,
+                        323
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.9"
+                },
+                {
+                    "bbox": [
+                        590,
+                        315,
+                        605,
+                        323
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.9"
+                },
+                {
+                    "bbox": [
+                        647,
+                        315,
+                        663,
+                        323
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.6"
+                },
+                {
+                    "bbox": [
+                        114,
+                        333,
+                        189,
+                        343
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "EU GDP growth"
+                },
+                {
+                    "bbox": [
+                        532,
+                        333,
+                        548,
+                        341
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.5"
+                },
+                {
+                    "bbox": [
+                        590,
+                        333,
+                        604,
+                        341
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.1"
+                },
+                {
+                    "bbox": [
+                        648,
+                        333,
+                        663,
+                        341
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.8"
+                },
+                {
+                    "bbox": [
+                        114,
+                        351,
+                        289,
+                        362
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Growth of relevant foreign markets"
+                },
+                {
+                    "bbox": [
+                        532,
+                        351,
+                        547,
+                        359
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6.1"
+                },
+                {
+                    "bbox": [
+                        589,
+                        351,
+                        605,
+                        359
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.3"
+                },
+                {
+                    "bbox": [
+                        647,
+                        351,
+                        663,
+                        359
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.0"
+                },
+                {
+                    "bbox": [
+                        113,
+                        369,
+                        294,
+                        380
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "World import volumes, excluding EU"
+                },
+                {
+                    "bbox": [
+                        533,
+                        369,
+                        548,
+                        377
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.3"
+                },
+                {
+                    "bbox": [
+                        589,
+                        369,
+                        605,
+                        377
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.2"
+                },
+                {
+                    "bbox": [
+                        647,
+                        369,
+                        663,
+                        377
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.6"
+                },
+                {
+                    "bbox": [
+                        114,
+                        387,
+                        260,
+                        397
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Oil prices (Brent, USD/barrel)"
+                },
+                {
+                    "bbox": [
+                        529,
+                        387,
+                        551,
+                        395
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "54.2"
+                },
+                {
+                    "bbox": [
+                        586,
+                        387,
+                        609,
+                        395
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "72.6"
+                },
+                {
+                    "bbox": [
+                        644,
+                        387,
+                        666,
+                        395
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "73.8"
+                }
+            ]
+        },
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        306,
+                        451,
+                        358,
+                        460
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Code"
+                },
+                {
+                    "bbox": [
+                        388,
+                        452,
+                        414,
+                        460
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2017"
+                },
+                {
+                    "bbox": [
+                        449,
+                        452,
+                        476,
+                        460
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2017"
+                },
+                {
+                    "bbox": [
+                        501,
+                        452,
+                        528,
+                        460
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2018"
+                },
+                {
+                    "bbox": [
+                        549,
+                        452,
+                        576,
+                        460
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2019"
+                },
+                {
+                    "bbox": [
+                        597,
+                        452,
+                        624,
+                        460
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2020"
+                },
+                {
+                    "bbox": [
+                        646,
+                        452,
+                        673,
+                        460
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2021"
+                },
+                {
+                    "bbox": [
+                        372,
+                        474,
+                        430,
+                        496
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Level Million Euro"
+                },
+                {
+                    "bbox": [
+                        445,
+                        474,
+                        481,
+                        498
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "rate of change"
+                },
+                {
+                    "bbox": [
+                        496,
+                        474,
+                        532,
+                        498
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "rate of change"
+                },
+                {
+                    "bbox": [
+                        545,
+                        474,
+                        581,
+                        498
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "rate of change"
+                },
+                {
+                    "bbox": [
+                        592,
+                        474,
+                        628,
+                        497
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "rate of change"
+                },
+                {
+                    "bbox": [
+                        641,
+                        475,
+                        677,
+                        498
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "rate of change"
+                },
+                {
+                    "bbox": [
+                        117,
+                        509,
+                        177,
+                        517
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Real GDP"
+                },
+                {
+                    "bbox": [
+                        318,
+                        509,
+                        344,
+                        519
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "B1*g"
+                },
+                {
+                    "bbox": [
+                        372,
+                        504,
+                        432,
+                        518
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,599,774"
+                },
+                {
+                    "bbox": [
+                        456,
+                        509,
+                        471,
+                        517
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.6"
+                },
+                {
+                    "bbox": [
+                        507,
+                        509,
+                        522,
+                        517
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.2"
+                },
+                {
+                    "bbox": [
+                        555,
+                        509,
+                        571,
+                        517
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.5"
+                },
+                {
+                    "bbox": [
+                        603,
+                        509,
+                        618,
+                        517
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.6"
+                },
+                {
+                    "bbox": [
+                        652,
+                        509,
+                        667,
+                        517
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.4"
+                },
+                {
+                    "bbox": [
+                        165,
+                        529,
+                        206,
+                        537
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "which"
+                },
+                {
+                    "bbox": [
+                        114,
+                        546,
+                        284,
+                        599
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.1. Attributable to the estimated impact of aggregated budgetary measures on economic growth"
+                },
+                {
+                    "bbox": [
+                        556,
+                        568,
+                        570,
+                        575
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.6"
+                },
+                {
+                    "bbox": [
+                        603,
+                        568,
+                        617,
+                        575
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.5"
+                },
+                {
+                    "bbox": [
+                        652,
+                        568,
+                        666,
+                        575
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.3"
+                },
+                {
+                    "bbox": [
+                        117,
+                        606,
+                        199,
+                        614
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Potential GDP"
+                },
+                {
+                    "bbox": [
+                        375,
+                        606,
+                        428,
+                        616
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,638,179"
+                },
+                {
+                    "bbox": [
+                        455,
+                        606,
+                        471,
+                        614
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.4"
+                },
+                {
+                    "bbox": [
+                        506,
+                        606,
+                        522,
+                        614
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.7"
+                },
+                {
+                    "bbox": [
+                        555,
+                        606,
+                        571,
+                        614
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.9"
+                },
+                {
+                    "bbox": [
+                        603,
+                        606,
+                        618,
+                        614
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.0"
+                },
+                {
+                    "bbox": [
+                        652,
+                        606,
+                        667,
+                        614
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.0"
+                },
+                {
+                    "bbox": [
+                        153,
+                        626,
+                        218,
+                        634
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "contributions:"
+                },
+                {
+                    "bbox": [
+                        152,
+                        646,
+                        190,
+                        654
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "labour"
+                },
+                {
+                    "bbox": [
+                        455,
+                        646,
+                        471,
+                        654
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.3"
+                },
+                {
+                    "bbox": [
+                        506,
+                        646,
+                        522,
+                        654
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.4"
+                },
+                {
+                    "bbox": [
+                        555,
+                        646,
+                        571,
+                        654
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.5"
+                },
+                {
+                    "bbox": [
+                        602,
+                        646,
+                        618,
+                        654
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.5"
+                },
+                {
+                    "bbox": [
+                        651,
+                        646,
+                        667,
+                        654
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.4"
+                },
+                {
+                    "bbox": [
+                        152,
+                        667,
+                        191,
+                        676
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "capital"
+                },
+                {
+                    "bbox": [
+                        455,
+                        666,
+                        471,
+                        674
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.0"
+                },
+                {
+                    "bbox": [
+                        506,
+                        666,
+                        521,
+                        674
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        555,
+                        666,
+                        570,
+                        674
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        602,
+                        666,
+                        618,
+                        674
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.2"
+                },
+                {
+                    "bbox": [
+                        651,
+                        666,
+                        667,
+                        674
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.2"
+                },
+                {
+                    "bbox": [
+                        152,
+                        686,
+                        274,
+                        696
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "total factor productivity"
+                },
+                {
+                    "bbox": [
+                        455,
+                        686,
+                        470,
+                        694
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        506,
+                        686,
+                        522,
+                        694
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.2"
+                },
+                {
+                    "bbox": [
+                        555,
+                        686,
+                        570,
+                        694
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.2"
+                },
+                {
+                    "bbox": [
+                        602,
+                        686,
+                        618,
+                        694
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.3"
+                },
+                {
+                    "bbox": [
+                        651,
+                        686,
+                        667,
+                        694
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.3"
+                },
+                {
+                    "bbox": [
+                        117,
+                        706,
+                        196,
+                        714
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Nominal GDP"
+                },
+                {
+                    "bbox": [
+                        318,
+                        706,
+                        344,
+                        716
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "B1*g"
+                },
+                {
+                    "bbox": [
+                        375,
+                        706,
+                        428,
+                        716
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1,724,954"
+                },
+                {
+                    "bbox": [
+                        455,
+                        706,
+                        470,
+                        714
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.1"
+                },
+                {
+                    "bbox": [
+                        506,
+                        706,
+                        522,
+                        714
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.5"
+                },
+                {
+                    "bbox": [
+                        555,
+                        706,
+                        570,
+                        714
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1"
+                },
+                {
+                    "bbox": [
+                        603,
+                        706,
+                        618,
+                        714
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.5"
+                },
+                {
+                    "bbox": [
+                        652,
+                        706,
+                        666,
+                        714
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.1"
+                },
+                {
+                    "bbox": [
+                        117,
+                        726,
+                        240,
+                        736
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        11
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Components of real GDP"
+                },
+                {
+                    "bbox": [
+                        114,
+                        743,
+                        257,
+                        767
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4. Private final consumption expenditure"
+                },
+                {
+                    "bbox": [
+                        323,
+                        751,
+                        338,
+                        759
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "P.3"
+                },
+                {
+                    "bbox": [
+                        379,
+                        751,
+                        421,
+                        759
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "963,080"
+                },
+                {
+                    "bbox": [
+                        456,
+                        751,
+                        471,
+                        759
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.5"
+                },
+                {
+                    "bbox": [
+                        507,
+                        751,
+                        521,
+                        758
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.1"
+                },
+                {
+                    "bbox": [
+                        556,
+                        751,
+                        571,
+                        759
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.3"
+                },
+                {
+                    "bbox": [
+                        603,
+                        751,
+                        618,
+                        759
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.3"
+                },
+                {
+                    "bbox": [
+                        652,
+                        751,
+                        667,
+                        758
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        12
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.2"
+                },
+                {
+                    "bbox": [
+                        114,
+                        772,
+                        284,
+                        797
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5. Government final consumption expenditure"
+                },
+                {
+                    "bbox": [
+                        323,
+                        779,
+                        338,
+                        787
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "P.3"
+                },
+                {
+                    "bbox": [
+                        379,
+                        779,
+                        423,
+                        788
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "312,960"
+                },
+                {
+                    "bbox": [
+                        453,
+                        779,
+                        472,
+                        787
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.1"
+                },
+                {
+                    "bbox": [
+                        506,
+                        779,
+                        522,
+                        787
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.4"
+                },
+                {
+                    "bbox": [
+                        555,
+                        779,
+                        571,
+                        787
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.1"
+                },
+                {
+                    "bbox": [
+                        602,
+                        779,
+                        618,
+                        787
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.8"
+                },
+                {
+                    "bbox": [
+                        651,
+                        779,
+                        667,
+                        787
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        13
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.5"
+                },
+                {
+                    "bbox": [
+                        117,
+                        803,
+                        274,
+                        813
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "6. Gross fixed capital formation"
+                },
+                {
+                    "bbox": [
+                        319,
+                        804,
+                        341,
+                        812
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "P.51"
+                },
+                {
+                    "bbox": [
+                        379,
+                        804,
+                        423,
+                        812
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "286,204"
+                },
+                {
+                    "bbox": [
+                        455,
+                        804,
+                        471,
+                        812
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.3"
+                },
+                {
+                    "bbox": [
+                        506,
+                        803,
+                        522,
+                        811
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.4"
+                },
+                {
+                    "bbox": [
+                        555,
+                        804,
+                        570,
+                        812
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.7"
+                },
+                {
+                    "bbox": [
+                        603,
+                        804,
+                        618,
+                        812
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.2"
+                },
+                {
+                    "bbox": [
+                        652,
+                        804,
+                        667,
+                        812
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        14
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.8"
+                },
+                {
+                    "bbox": [
+                        114,
+                        823,
+                        289,
+                        848
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "7. Changes ini inventories and net acquisition of valuables (% of GDP)"
+                },
+                {
+                    "bbox": [
+                        301,
+                        831,
+                        360,
+                        839
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "P.52 + P.53"
+                },
+                {
+                    "bbox": [
+                        453,
+                        831,
+                        472,
+                        839
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.4"
+                },
+                {
+                    "bbox": [
+                        506,
+                        831,
+                        522,
+                        839
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        553,
+                        831,
+                        572,
+                        839
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.1"
+                },
+                {
+                    "bbox": [
+                        603,
+                        831,
+                        618,
+                        839
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        652,
+                        831,
+                        667,
+                        839
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        15
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        117,
+                        857,
+                        279,
+                        868
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "8. Exports of goods and services"
+                },
+                {
+                    "bbox": [
+                        323,
+                        858,
+                        338,
+                        866
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "P.6"
+                },
+                {
+                    "bbox": [
+                        379,
+                        858,
+                        423,
+                        866
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "507,130"
+                },
+                {
+                    "bbox": [
+                        455,
+                        858,
+                        470,
+                        866
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.7"
+                },
+                {
+                    "bbox": [
+                        506,
+                        858,
+                        522,
+                        866
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.4"
+                },
+                {
+                    "bbox": [
+                        555,
+                        858,
+                        571,
+                        866
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2.6"
+                },
+                {
+                    "bbox": [
+                        603,
+                        858,
+                        618,
+                        866
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.4"
+                },
+                {
+                    "bbox": [
+                        652,
+                        858,
+                        667,
+                        866
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        16
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.6"
+                },
+                {
+                    "bbox": [
+                        117,
+                        877,
+                        280,
+                        888
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9. Imports of goods and services"
+                },
+                {
+                    "bbox": [
+                        323,
+                        878,
+                        337,
+                        885
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "P.7"
+                },
+                {
+                    "bbox": [
+                        379,
+                        877,
+                        423,
+                        886
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "472,736"
+                },
+                {
+                    "bbox": [
+                        455,
+                        878,
+                        470,
+                        886
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "5.2"
+                },
+                {
+                    "bbox": [
+                        507,
+                        878,
+                        522,
+                        885
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.7"
+                },
+                {
+                    "bbox": [
+                        555,
+                        878,
+                        571,
+                        886
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.0"
+                },
+                {
+                    "bbox": [
+                        603,
+                        878,
+                        618,
+                        886
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "3.8"
+                },
+                {
+                    "bbox": [
+                        651,
+                        878,
+                        667,
+                        886
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        17
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "4.0"
+                },
+                {
+                    "bbox": [
+                        117,
+                        897,
+                        281,
+                        908
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        18
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Contributions to real GDP growth"
+                },
+                {
+                    "bbox": [
+                        117,
+                        917,
+                        254,
+                        926
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "10. Final domestic demand"
+                },
+                {
+                    "bbox": [
+                        456,
+                        918,
+                        471,
+                        926
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.6"
+                },
+                {
+                    "bbox": [
+                        507,
+                        918,
+                        522,
+                        925
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.4"
+                },
+                {
+                    "bbox": [
+                        556,
+                        918,
+                        571,
+                        926
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.6"
+                },
+                {
+                    "bbox": [
+                        603,
+                        918,
+                        618,
+                        926
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.6"
+                },
+                {
+                    "bbox": [
+                        652,
+                        918,
+                        667,
+                        925
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        19
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "1.4"
+                },
+                {
+                    "bbox": [
+                        114,
+                        937,
+                        273,
+                        962
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "11. Changes in inventories and net acquisition of valuables"
+                },
+                {
+                    "bbox": [
+                        301,
+                        945,
+                        360,
+                        953
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "P.52 + P.53"
+                },
+                {
+                    "bbox": [
+                        453,
+                        945,
+                        472,
+                        953
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.3"
+                },
+                {
+                    "bbox": [
+                        506,
+                        945,
+                        522,
+                        953
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        553,
+                        945,
+                        572,
+                        953
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.1"
+                },
+                {
+                    "bbox": [
+                        603,
+                        945,
+                        618,
+                        953
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        652,
+                        945,
+                        667,
+                        953
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        20
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.1"
+                },
+                {
+                    "bbox": [
+                        114,
+                        968,
+                        288,
+                        991
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "12. External balance of goods and services"
+                },
+                {
+                    "bbox": [
+                        319,
+                        976,
+                        342,
+                        984
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "B.11"
+                },
+                {
+                    "bbox": [
+                        455,
+                        976,
+                        471,
+                        984
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.3"
+                },
+                {
+                    "bbox": [
+                        504,
+                        976,
+                        524,
+                        984
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.3"
+                },
+                {
+                    "bbox": [
+                        553,
+                        976,
+                        572,
+                        984
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.1"
+                },
+                {
+                    "bbox": [
+                        601,
+                        976,
+                        620,
+                        984
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.1"
+                },
+                {
+                    "bbox": [
+                        650,
+                        976,
+                        669,
+                        984
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        21
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.1"
+                }
+            ]
+        }
+    ]
+}

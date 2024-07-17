@@ -1,0 +1,143 @@
+{
+    "TD": [
+        [
+            350,
+            653,
+            1110,
+            942
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        350,
+                        653,
+                        1110,
+                        692
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Existence of datasets in government portals including sectoral datasets for education, health, finance, social security, labor and environment"
+                },
+                {
+                    "bbox": [
+                        351,
+                        713,
+                        1109,
+                        731
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Existence of dedicated portals for data publishing such as open government data catalogues"
+                },
+                {
+                    "bbox": [
+                        350,
+                        750,
+                        1089,
+                        790
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Availability of datasets in various technical formats particularly in those formats that enable accessibility"
+                },
+                {
+                    "bbox": [
+                        351,
+                        810,
+                        872,
+                        828
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Number of different government agencies that provide datasets"
+                },
+                {
+                    "bbox": [
+                        351,
+                        848,
+                        970,
+                        865
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Guidelines by government agencies describing how to make use of datasets"
+                },
+                {
+                    "bbox": [
+                        350,
+                        885,
+                        841,
+                        904
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Availability of datasets on location information such as maps"
+                },
+                {
+                    "bbox": [
+                        350,
+                        923,
+                        797,
+                        942
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Availability of public channels to propose new datasets"
+                }
+            ]
+        }
+    ]
+}

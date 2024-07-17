@@ -1,0 +1,524 @@
+{
+    "TD": [
+        [
+            21,
+            144,
+            767,
+            878
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        36,
+                        165,
+                        118,
+                        173
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "List of measures"
+                },
+                {
+                    "bbox": [
+                        199,
+                        165,
+                        298,
+                        175
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Detailed description"
+                },
+                {
+                    "bbox": [
+                        365,
+                        144,
+                        474,
+                        195
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "target (expenditure/leyenue component) ESA code"
+                },
+                {
+                    "bbox": [
+                        493,
+                        158,
+                        537,
+                        180
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Adoption Status"
+                },
+                {
+                    "bbox": [
+                        620,
+                        165,
+                        708,
+                        175
+                    ],
+                    "column_nums": [
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Budgetary impact"
+                },
+                {
+                    "bbox": [
+                        636,
+                        219,
+                        662,
+                        227
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2019"
+                },
+                {
+                    "bbox": [
+                        686,
+                        219,
+                        713,
+                        227
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2020"
+                },
+                {
+                    "bbox": [
+                        738,
+                        219,
+                        764,
+                        227
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "2021"
+                },
+                {
+                    "bbox": [
+                        556,
+                        245,
+                        615,
+                        269
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Revenue / Expenditure"
+                },
+                {
+                    "bbox": [
+                        633,
+                        252,
+                        665,
+                        260
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "GDP"
+                },
+                {
+                    "bbox": [
+                        683,
+                        252,
+                        716,
+                        260
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "GDP"
+                },
+                {
+                    "bbox": [
+                        735,
+                        252,
+                        767,
+                        260
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "GDP"
+                },
+                {
+                    "bbox": [
+                        21,
+                        407,
+                        118,
+                        459
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Strengthening between private companies electronic invoicing"
+                },
+                {
+                    "bbox": [
+                        142,
+                        285,
+                        356,
+                        582
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Motivation: Simplifying the tax system and Contents of the measure: Electronic invoicing between private companies was made compulsory by the 2018 budget law, starting since January 2019. It is strengthened by the obligation of memorisation and eletronic transmission of receipts to the Revenue Agency to help so-called tax evasion \"with consent\"). The new obligation starts from July 2019 for companies with turnover greater than 400,000 euro and from January 1, 2020 for all companies. The measure is accompanied by a flat-rate tax credit of 50% for the purchase, replacement or adaptation of fiscal meters and simplification in the operational increasing tax compliance counteract the avoidance of invoicing (the procedures."
+                },
+                {
+                    "bbox": [
+                        412,
+                        428,
+                        428,
+                        436
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "D.2"
+                },
+                {
+                    "bbox": [
+                        485,
+                        421,
+                        545,
+                        443
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "immediately effective"
+                },
+                {
+                    "bbox": [
+                        585,
+                        429,
+                        590,
+                        436
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "R"
+                },
+                {
+                    "bbox": [
+                        637,
+                        428,
+                        660,
+                        436
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.02"
+                },
+                {
+                    "bbox": [
+                        688,
+                        428,
+                        711,
+                        436
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.06"
+                },
+                {
+                    "bbox": [
+                        739,
+                        428,
+                        762,
+                        436
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.10"
+                },
+                {
+                    "bbox": [
+                        21,
+                        718,
+                        130,
+                        757
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Facilitated taxation of companies reinvested profits for"
+                },
+                {
+                    "bbox": [
+                        142,
+                        597,
+                        355,
+                        878
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Motivation: Simplifying business taxation and encouraging the investment of profits Content of the measure: From the 2019 tax period, companies investing and hiring workers can benefit from a subsidised scheme which reduces the IRES (corporate income tax) rate from 24% to 15% for the share of earnings reinvested employment. The measure is conditional to the destination of the profits to productive investments and not a mere financial and capital strengthening of the company (as was the case for the ACE the previous aid to the growth of enterprises measure, which is repealed), so as to contribuite to overall plant renewal and development of the in new capital goods and new production sector."
+                },
+                {
+                    "bbox": [
+                        412,
+                        733,
+                        428,
+                        741
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "D.5"
+                },
+                {
+                    "bbox": [
+                        485,
+                        726,
+                        546,
+                        748
+                    ],
+                    "column_nums": [
+                        3
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "immediately effective"
+                },
+                {
+                    "bbox": [
+                        585,
+                        733,
+                        590,
+                        740
+                    ],
+                    "column_nums": [
+                        4
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "R"
+                },
+                {
+                    "bbox": [
+                        638,
+                        733,
+                        661,
+                        741
+                    ],
+                    "column_nums": [
+                        5
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.01"
+                },
+                {
+                    "bbox": [
+                        688,
+                        733,
+                        711,
+                        741
+                    ],
+                    "column_nums": [
+                        6
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.02"
+                },
+                {
+                    "bbox": [
+                        741,
+                        733,
+                        763,
+                        741
+                    ],
+                    "column_nums": [
+                        7
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "-0.02"
+                }
+            ]
+        }
+    ]
+}

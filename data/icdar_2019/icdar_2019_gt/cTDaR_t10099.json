@@ -1,0 +1,586 @@
+{
+    "TD": [
+        [
+            104,
+            771,
+            846,
+            959
+        ],
+        [
+            104,
+            1105,
+            846,
+            1259
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        583,
+                        771,
+                        677,
+                        806
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Number of countries"
+                },
+                {
+                    "bbox": [
+                        750,
+                        772,
+                        846,
+                        806
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Per centage of countries"
+                },
+                {
+                    "bbox": [
+                        105,
+                        822,
+                        358,
+                        836
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Find website using search tools"
+                },
+                {
+                    "bbox": [
+                        617,
+                        823,
+                        643,
+                        836
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "168"
+                },
+                {
+                    "bbox": [
+                        782,
+                        823,
+                        814,
+                        836
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "87%"
+                },
+                {
+                    "bbox": [
+                        105,
+                        852,
+                        415,
+                        870
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Site updated within past three months"
+                },
+                {
+                    "bbox": [
+                        617,
+                        853,
+                        643,
+                        865
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "148"
+                },
+                {
+                    "bbox": [
+                        781,
+                        852,
+                        814,
+                        866
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "77%"
+                },
+                {
+                    "bbox": [
+                        104,
+                        882,
+                        384,
+                        899
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Access in more than one language"
+                },
+                {
+                    "bbox": [
+                        617,
+                        882,
+                        643,
+                        895
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "142"
+                },
+                {
+                    "bbox": [
+                        782,
+                        882,
+                        813,
+                        895
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "74%"
+                },
+                {
+                    "bbox": [
+                        104,
+                        911,
+                        306,
+                        927
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Availability of map/index"
+                },
+                {
+                    "bbox": [
+                        618,
+                        912,
+                        640,
+                        925
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "131"
+                },
+                {
+                    "bbox": [
+                        781,
+                        912,
+                        814,
+                        925
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "68%"
+                },
+                {
+                    "bbox": [
+                        105,
+                        941,
+                        247,
+                        959
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Help/FAQ feature"
+                },
+                {
+                    "bbox": [
+                        621,
+                        942,
+                        639,
+                        953
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "89"
+                },
+                {
+                    "bbox": [
+                        781,
+                        941,
+                        814,
+                        954
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "46%"
+                }
+            ]
+        },
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        583,
+                        1105,
+                        677,
+                        1141
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Number of countries"
+                },
+                {
+                    "bbox": [
+                        750,
+                        1106,
+                        846,
+                        1141
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Per centage of countries"
+                },
+                {
+                    "bbox": [
+                        104,
+                        1157,
+                        301,
+                        1175
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Advanced search option"
+                },
+                {
+                    "bbox": [
+                        617,
+                        1157,
+                        640,
+                        1170
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "101"
+                },
+                {
+                    "bbox": [
+                        781,
+                        1157,
+                        814,
+                        1170
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "52%"
+                },
+                {
+                    "bbox": [
+                        105,
+                        1187,
+                        248,
+                        1204
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Privacy statement"
+                },
+                {
+                    "bbox": [
+                        621,
+                        1187,
+                        638,
+                        1200
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "97"
+                },
+                {
+                    "bbox": [
+                        781,
+                        1187,
+                        814,
+                        1200
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "50%"
+                },
+                {
+                    "bbox": [
+                        104,
+                        1216,
+                        299,
+                        1234
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Tag cloud or 'hot topics'"
+                },
+                {
+                    "bbox": [
+                        621,
+                        1217,
+                        639,
+                        1229
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "80"
+                },
+                {
+                    "bbox": [
+                        782,
+                        1216,
+                        813,
+                        1230
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "41%"
+                },
+                {
+                    "bbox": [
+                        105,
+                        1246,
+                        226,
+                        1259
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Secure website"
+                },
+                {
+                    "bbox": [
+                        621,
+                        1246,
+                        638,
+                        1259
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "53"
+                },
+                {
+                    "bbox": [
+                        781,
+                        1246,
+                        814,
+                        1259
+                    ],
+                    "column_nums": [
+                        2
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "27%"
+                }
+            ]
+        }
+    ]
+}

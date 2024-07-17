@@ -1,0 +1,378 @@
+{
+    "TD": [
+        [
+            114,
+            266,
+            679,
+            419
+        ]
+    ],
+    "TSR": [
+        {
+            "page": 0,
+            "data": [
+                {
+                    "bbox": [
+                        278,
+                        266,
+                        515,
+                        279
+                    ],
+                    "column_nums": [
+                        0,
+                        1
+                    ],
+                    "row_nums": [
+                        0
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Unchanged Policies and Policy Scenario"
+                },
+                {
+                    "bbox": [
+                        652,
+                        283,
+                        679,
+                        291
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        1
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "Value"
+                },
+                {
+                    "bbox": [
+                        114,
+                        297,
+                        207,
+                        305
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "LB Trend innov var"
+                },
+                {
+                    "bbox": [
+                        670,
+                        297,
+                        675,
+                        304
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        2
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [
+                        114,
+                        311,
+                        207,
+                        320
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "LB Trend slope var"
+                },
+                {
+                    "bbox": [
+                        646,
+                        312,
+                        675,
+                        319
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        3
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.045"
+                },
+                {
+                    "bbox": [
+                        114,
+                        325,
+                        204,
+                        335
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "LB Cycle innov var"
+                },
+                {
+                    "bbox": [
+                        670,
+                        326,
+                        675,
+                        334
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        4
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [
+                        114,
+                        340,
+                        243,
+                        348
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "LB Innovation var 2nd"
+                },
+                {
+                    "bbox": [
+                        670,
+                        340,
+                        675,
+                        348
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        5
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": ""
+                },
+                {
+                    "bbox": [
+                        114,
+                        354,
+                        208,
+                        362
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UB Trend innov var"
+                },
+                {
+                    "bbox": [
+                        653,
+                        355,
+                        675,
+                        362
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        6
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.07"
+                },
+                {
+                    "bbox": [
+                        114,
+                        368,
+                        208,
+                        378
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UB Trend slope var"
+                },
+                {
+                    "bbox": [
+                        653,
+                        369,
+                        675,
+                        377
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        7
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.06"
+                },
+                {
+                    "bbox": [
+                        114,
+                        383,
+                        206,
+                        392
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UB Cycle innov var"
+                },
+                {
+                    "bbox": [
+                        646,
+                        383,
+                        675,
+                        391
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        8
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.175"
+                },
+                {
+                    "bbox": [
+                        114,
+                        397,
+                        244,
+                        407
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "UB Innovation var 2nd eq."
+                },
+                {
+                    "bbox": [
+                        624,
+                        397,
+                        675,
+                        405
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        9
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "0.000816"
+                },
+                {
+                    "bbox": [
+                        114,
+                        411,
+                        190,
+                        419
+                    ],
+                    "column_nums": [
+                        0
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "NAWRU anchor"
+                },
+                {
+                    "bbox": [
+                        653,
+                        411,
+                        675,
+                        419
+                    ],
+                    "column_nums": [
+                        1
+                    ],
+                    "row_nums": [
+                        10
+                    ],
+                    "column_header": false,
+                    "subcell": false,
+                    "projected_row_header": false,
+                    "cell_text": "9.07"
+                }
+            ]
+        }
+    ]
+}
